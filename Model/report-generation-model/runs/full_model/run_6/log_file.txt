@@ -1,0 +1,47 @@
+Training:
+OOM at epoch 1, batch number 264.
+Error message: CUDA out of memory. Tried to allocate 1.06 GiB. GPU 
+
+Training:
+OOM at epoch 4, batch number 714.
+Error message: CUDA out of memory. Tried to allocate 1012.00 MiB. GPU 
+
+Training:
+OOM at epoch 10, batch number 627.
+Error message: CUDA out of memory. Tried to allocate 584.00 MiB. GPU 
+
+Training:
+OOM at epoch 11, batch number 976.
+Error message: CUDA out of memory. Tried to allocate 566.00 MiB. GPU 
+
+Training:
+Empty region features before language model at epoch 13, batch number 989.
+
+Training:
+OOM at epoch 14, batch number 749.
+Error message: CUDA out of memory. Tried to allocate 1012.00 MiB. GPU 
+
+Training:
+OOM at epoch 16, batch number 499.
+Error message: CUDA out of memory. Tried to allocate 1012.00 MiB. GPU 
+
+Training:
+OOM at epoch 16, batch number 500.
+Error message: CUDA out of memory. Tried to allocate 66.00 MiB. GPU 
+
+Training:
+OOM at epoch 16, batch number 501.
+Error message: CUDA out of memory. Tried to allocate 20.00 MiB. GPU 
+
+Training:
+OOM at epoch 16, batch number 502.
+Error message: CUDA out of memory. Tried to allocate 34.00 MiB. GPU 
+
+Training:
+OOM at epoch 16, batch number 503.
+Error message: CUDA out of memory. Tried to allocate 28.00 MiB. GPU 
+
+Training:
+OOM at epoch 17, batch number 157.
+Error message: CUDA out of memory. Tried to allocate 1.06 GiB. GPU 
+

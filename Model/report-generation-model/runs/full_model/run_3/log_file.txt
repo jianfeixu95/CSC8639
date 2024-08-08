@@ -1,0 +1,4 @@
+Training:
+OOM at epoch 1, batch number 264.
+Error message: CUDA out of memory. Tried to allocate 1.03 GiB. GPU 
+

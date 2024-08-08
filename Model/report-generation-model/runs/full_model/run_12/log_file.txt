@@ -1,0 +1,450 @@
+Training:
+Empty region features before language model at epoch 0, batch number 244.
+
+Training:
+Empty region features before language model at epoch 0, batch number 316.
+
+Training:
+Empty region features before language model at epoch 0, batch number 655.
+
+Training:
+Empty region features before language model at epoch 0, batch number 848.
+
+Training:
+Empty region features before language model at epoch 0, batch number 1131.
+
+Training:
+Empty region features before language model at epoch 0, batch number 1487.
+
+Training:
+Empty region features before language model at epoch 0, batch number 1751.
+
+Training:
+Empty region features before language model at epoch 0, batch number 2070.
+
+Training:
+Empty region features before language model at epoch 0, batch number 2278.
+
+Training:
+Empty region features before language model at epoch 0, batch number 2295.
+
+Training:
+Empty region features before language model at epoch 0, batch number 2448.
+
+Training:
+Empty region features before language model at epoch 0, batch number 2580.
+
+Training:
+Empty region features before language model at epoch 0, batch number 2977.
+
+Training:
+Empty region features before language model at epoch 0, batch number 3035.
+
+Training:
+Empty region features before language model at epoch 0, batch number 3149.
+
+Training:
+Empty region features before language model at epoch 0, batch number 3570.
+
+Training:
+Empty region features before language model at epoch 0, batch number 3682.
+
+Training:
+Empty region features before language model at epoch 0, batch number 3871.
+
+Training:
+Empty region features before language model at epoch 0, batch number 4275.
+
+Training:
+Empty region features before language model at epoch 0, batch number 4322.
+
+Training:
+Empty region features before language model at epoch 0, batch number 4549.
+
+Training:
+Empty region features before language model at epoch 0, batch number 4769.
+
+Training:
+Empty region features before language model at epoch 0, batch number 4988.
+
+Training:
+Empty region features before language model at epoch 0, batch number 5244.
+
+Training:
+Empty region features before language model at epoch 0, batch number 5261.
+
+Training:
+Empty region features before language model at epoch 0, batch number 5315.
+
+Training:
+Empty region features before language model at epoch 0, batch number 5677.
+
+Training:
+Empty region features before language model at epoch 0, batch number 5868.
+
+Training:
+Empty region features before language model at epoch 0, batch number 6065.
+
+Training:
+Empty region features before language model at epoch 0, batch number 6148.
+
+Training:
+Empty region features before language model at epoch 1, batch number 283.
+
+Training:
+Empty region features before language model at epoch 1, batch number 444.
+
+Training:
+Empty region features before language model at epoch 1, batch number 878.
+
+Training:
+Empty region features before language model at epoch 1, batch number 1012.
+
+Training:
+Empty region features before language model at epoch 1, batch number 1561.
+
+Training:
+Empty region features before language model at epoch 1, batch number 1654.
+
+Training:
+Empty region features before language model at epoch 1, batch number 1812.
+
+Training:
+Empty region features before language model at epoch 1, batch number 1814.
+
+Training:
+Empty region features before language model at epoch 1, batch number 2975.
+
+Training:
+Empty region features before language model at epoch 1, batch number 3123.
+
+Training:
+Empty region features before language model at epoch 1, batch number 3263.
+
+Training:
+Empty region features before language model at epoch 1, batch number 3407.
+
+Training:
+Empty region features before language model at epoch 1, batch number 3688.
+
+Training:
+Empty region features before language model at epoch 1, batch number 3721.
+
+Training:
+Empty region features before language model at epoch 1, batch number 3759.
+
+Training:
+Empty region features before language model at epoch 1, batch number 3871.
+
+Training:
+Empty region features before language model at epoch 1, batch number 4143.
+
+Training:
+Empty region features before language model at epoch 1, batch number 4477.
+
+Training:
+Empty region features before language model at epoch 1, batch number 4645.
+
+Training:
+Empty region features before language model at epoch 1, batch number 5186.
+
+Training:
+Empty region features before language model at epoch 1, batch number 5258.
+
+Training:
+Empty region features before language model at epoch 1, batch number 5414.
+
+Training:
+Empty region features before language model at epoch 1, batch number 5443.
+
+Training:
+Empty region features before language model at epoch 1, batch number 5494.
+
+Training:
+Empty region features before language model at epoch 1, batch number 5743.
+
+Training:
+Empty region features before language model at epoch 1, batch number 6150.
+
+Training:
+Empty region features before language model at epoch 1, batch number 6555.
+
+Training:
+Empty region features before language model at epoch 1, batch number 6852.
+
+Training:
+Empty region features before language model at epoch 1, batch number 6860.
+
+Training:
+Empty region features before language model at epoch 1, batch number 6985.
+
+Training:
+Empty region features before language model at epoch 2, batch number 89.
+
+Training:
+Empty region features before language model at epoch 2, batch number 101.
+
+Training:
+Empty region features before language model at epoch 2, batch number 601.
+
+Training:
+Empty region features before language model at epoch 2, batch number 889.
+
+Training:
+Empty region features before language model at epoch 2, batch number 1489.
+
+Training:
+Empty region features before language model at epoch 2, batch number 1667.
+
+Training:
+Empty region features before language model at epoch 2, batch number 1855.
+
+Training:
+Empty region features before language model at epoch 2, batch number 1996.
+
+Training:
+Empty region features before language model at epoch 2, batch number 2111.
+
+Training:
+Empty region features before language model at epoch 2, batch number 2289.
+
+Training:
+Empty region features before language model at epoch 2, batch number 2354.
+
+Training:
+Empty region features before language model at epoch 2, batch number 2434.
+
+Training:
+Empty region features before language model at epoch 2, batch number 2658.
+
+Training:
+Empty region features before language model at epoch 2, batch number 2818.
+
+Training:
+Empty region features before language model at epoch 2, batch number 2929.
+
+Training:
+Empty region features before language model at epoch 2, batch number 3108.
+
+Training:
+Empty region features before language model at epoch 2, batch number 3289.
+
+Training:
+Empty region features before language model at epoch 2, batch number 3419.
+
+Training:
+Empty region features before language model at epoch 2, batch number 3557.
+
+Training:
+Empty region features before language model at epoch 2, batch number 3795.
+
+Training:
+Empty region features before language model at epoch 2, batch number 4686.
+
+Training:
+Empty region features before language model at epoch 2, batch number 4886.
+
+Training:
+Empty region features before language model at epoch 2, batch number 4892.
+
+Training:
+Empty region features before language model at epoch 2, batch number 4972.
+
+Training:
+Empty region features before language model at epoch 2, batch number 5108.
+
+Training:
+Empty region features before language model at epoch 2, batch number 5238.
+
+Training:
+Empty region features before language model at epoch 2, batch number 5481.
+
+Training:
+Empty region features before language model at epoch 2, batch number 5835.
+
+Training:
+Empty region features before language model at epoch 2, batch number 6436.
+
+Training:
+Empty region features before language model at epoch 2, batch number 6688.
+
+Training:
+Empty region features before language model at epoch 3, batch number 129.
+
+Training:
+Empty region features before language model at epoch 3, batch number 181.
+
+Training:
+Empty region features before language model at epoch 3, batch number 689.
+
+Training:
+Empty region features before language model at epoch 3, batch number 820.
+
+Training:
+Empty region features before language model at epoch 3, batch number 825.
+
+Training:
+Empty region features before language model at epoch 3, batch number 1218.
+
+Training:
+Empty region features before language model at epoch 3, batch number 1418.
+
+Training:
+Empty region features before language model at epoch 3, batch number 1482.
+
+Training:
+Empty region features before language model at epoch 3, batch number 1762.
+
+Training:
+Empty region features before language model at epoch 3, batch number 2129.
+
+Training:
+Empty region features before language model at epoch 3, batch number 2197.
+
+Training:
+Empty region features before language model at epoch 3, batch number 2414.
+
+Training:
+Empty region features before language model at epoch 3, batch number 2677.
+
+Training:
+Empty region features before language model at epoch 3, batch number 2838.
+
+Training:
+Empty region features before language model at epoch 3, batch number 3032.
+
+Training:
+Empty region features before language model at epoch 3, batch number 3135.
+
+Training:
+Empty region features before language model at epoch 3, batch number 3263.
+
+Training:
+Empty region features before language model at epoch 3, batch number 3293.
+
+Training:
+Empty region features before language model at epoch 3, batch number 3565.
+
+Training:
+Empty region features before language model at epoch 3, batch number 3778.
+
+Training:
+Empty region features before language model at epoch 3, batch number 4058.
+
+Training:
+Empty region features before language model at epoch 3, batch number 4457.
+
+Training:
+Empty region features before language model at epoch 3, batch number 4641.
+
+Training:
+Empty region features before language model at epoch 3, batch number 4924.
+
+Training:
+Empty region features before language model at epoch 3, batch number 4945.
+
+Training:
+Empty region features before language model at epoch 3, batch number 5546.
+
+Training:
+Empty region features before language model at epoch 3, batch number 5765.
+
+Training:
+Empty region features before language model at epoch 3, batch number 5830.
+
+Training:
+Empty region features before language model at epoch 3, batch number 6498.
+
+Training:
+Empty region features before language model at epoch 3, batch number 6819.
+
+Training:
+Empty region features before language model at epoch 4, batch number 42.
+
+Training:
+Empty region features before language model at epoch 4, batch number 222.
+
+Training:
+Empty region features before language model at epoch 4, batch number 292.
+
+Training:
+Empty region features before language model at epoch 4, batch number 1174.
+
+Training:
+Empty region features before language model at epoch 4, batch number 1332.
+
+Training:
+Empty region features before language model at epoch 4, batch number 1664.
+
+Training:
+Empty region features before language model at epoch 4, batch number 2038.
+
+Training:
+Empty region features before language model at epoch 4, batch number 2159.
+
+Training:
+Empty region features before language model at epoch 4, batch number 2297.
+
+Training:
+Empty region features before language model at epoch 4, batch number 2377.
+
+Training:
+Empty region features before language model at epoch 4, batch number 2838.
+
+Training:
+Empty region features before language model at epoch 4, batch number 3070.
+
+Training:
+Empty region features before language model at epoch 4, batch number 3228.
+
+Training:
+Empty region features before language model at epoch 4, batch number 3682.
+
+Training:
+Empty region features before language model at epoch 4, batch number 3949.
+
+Training:
+Empty region features before language model at epoch 4, batch number 4097.
+
+Training:
+Empty region features before language model at epoch 4, batch number 4551.
+
+Training:
+Empty region features before language model at epoch 4, batch number 4582.
+
+Training:
+Empty region features before language model at epoch 4, batch number 4855.
+
+Training:
+Empty region features before language model at epoch 4, batch number 4934.
+
+Training:
+Empty region features before language model at epoch 4, batch number 4944.
+
+Training:
+Empty region features before language model at epoch 4, batch number 4955.
+
+Training:
+Empty region features before language model at epoch 4, batch number 5416.
+
+Training:
+Empty region features before language model at epoch 4, batch number 5789.
+
+Training:
+Empty region features before language model at epoch 4, batch number 5861.
+
+Training:
+Empty region features before language model at epoch 4, batch number 5929.
+
+Training:
+Empty region features before language model at epoch 4, batch number 6027.
+
+Training:
+Empty region features before language model at epoch 4, batch number 6039.
+
+Training:
+Empty region features before language model at epoch 4, batch number 6133.
+
+Training:
+Empty region features before language model at epoch 4, batch number 6940.
+

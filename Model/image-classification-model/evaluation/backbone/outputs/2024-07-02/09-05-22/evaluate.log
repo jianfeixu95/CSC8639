@@ -1,0 +1,16 @@
+Global seed set to 1234
+Dataset loaded: rsna_pneumonia for test
+Load model Model/image-classification-model/model/backbone/model-best.tar
+evaluate zero-shot binary classification
+Pneumonia: {'AUROC': 0.42399089029396786, 'Accuracy': 0.5, 'F1': 0.2458521870286576}
+AUROC(Avg): 0.42399089029396786
+F1(Avg): 0.2458521870286576
+Accuracy(Avg): 0.5
+Model/image-classification-model/model/backbone/model-best.tar
+
+Zeroshot binary
+| model | AUROC(Avg) | F1(Avg) | Accuracy(Avg)|
+| :---- | ---------: | ------: | ------------:|
+| model-best | 0.424 | 0.246 | 0.500 |
+Best AUROC(Avg): 0.424, from model-best
+

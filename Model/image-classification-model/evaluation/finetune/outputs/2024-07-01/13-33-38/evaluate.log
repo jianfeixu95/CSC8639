@@ -1,0 +1,15 @@
+Global seed set to 1234
+Dataset loaded: rsna_pneumonia for test
+    loading pre-trained image encoder for fine-tuning
+    freezing image encoder to not be trained
+Load model Model/image-classification-model/model/finetune/model-best.tar
+evaluate multi-label classification
+Pneumonia: {'AUROC': 0.8522512418110393, 'Accuracy': 0.7885, 'F1': 0.22669104204753202}
+AUROC(Avg): 0.8522512418110393
+F1(Avg): 0.22669104204753202
+Accuracy(Avg): 0.7885
+Model/image-classification-model/model/finetune/model-best.tar
+| model | AUROC(Avg) | F1(Avg) | Accuracy(Avg)|
+| :---- | ---------: | ------: | ------------:|
+| model-best | 0.852 | 0.227 | 0.788 |
+

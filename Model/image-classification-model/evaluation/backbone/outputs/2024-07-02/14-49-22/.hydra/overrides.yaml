@@ -1,0 +1,2 @@
+- dataloader=dataloader_32
+- test.checkpoint=Model/image-classification-model/model/backbone/model-best.tar

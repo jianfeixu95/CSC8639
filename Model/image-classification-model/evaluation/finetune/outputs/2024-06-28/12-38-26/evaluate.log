@@ -1,0 +1,5 @@
+Global seed set to 1234
+Dataset loaded: rsna_pneumonia for test
+    loading pre-trained image encoder for fine-tuning
+    freezing image encoder to not be trained
+Load model Model/image-classification-model/model/finetune/model-best.tar

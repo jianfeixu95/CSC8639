@@ -1,0 +1,2 @@
+- dataloader=dataloader_5
+- test.checkpoint=Model/image-classification-model/model/finetune/model-best.tar

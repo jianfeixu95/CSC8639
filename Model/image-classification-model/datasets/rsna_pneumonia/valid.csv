@@ -1,0 +1,1001 @@
+,patientId,bbox,label,class,image
+13610,8e2001aa-2958-4e86-a73a-c3c1eeee00cd,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8e2001aa-2958-4e86-a73a-c3c1eeee00cd.jpg
+15308,9d42ccce-13f6-4053-8597-988d3ca98b74,"[[561.0, 197.0, 799.0, 811.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/9d42ccce-13f6-4053-8597-988d3ca98b74.jpg
+13503,8d420869-5632-4a1d-9b75-c913472148bf,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8d420869-5632-4a1d-9b75-c913472148bf.jpg
+11457,7add6f24-2117-4620-a180-ea3b1e6dbd1a,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/7add6f24-2117-4620-a180-ea3b1e6dbd1a.jpg
+12429,835ea6ca-9564-41da-80de-568f18c82ab2,"[[584.0, 399.0, 834.0, 717.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/835ea6ca-9564-41da-80de-568f18c82ab2.jpg
+14043,9207c26e-330b-44ca-a632-451b1e4fc175,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/9207c26e-330b-44ca-a632-451b1e4fc175.jpg
+16833,aa2b8e03-8968-4d9d-a783-e64d9bca1d15,"[[184.0, 406.0, 479.0, 822.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/aa2b8e03-8968-4d9d-a783-e64d9bca1d15.jpg
+5989,4bda7434-e507-4acf-9467-1fc33f457877,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/4bda7434-e507-4acf-9467-1fc33f457877.jpg
+14054,92254690-5ea4-49b4-b3b4-3209897d4c64,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/92254690-5ea4-49b4-b3b4-3209897d4c64.jpg
+25992,fa2ef1a4-30c5-4198-9604-e1060054ebea,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/fa2ef1a4-30c5-4198-9604-e1060054ebea.jpg
+6783,52d4ae22-7dfe-478f-abac-c6feb913df92,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/52d4ae22-7dfe-478f-abac-c6feb913df92.jpg
+6732,525ef0b0-b113-4fc3-b7f5-bafbe3dc0968,"[[583.0, 456.0, 824.0, 743.0], [199.0, 354.0, 451.0, 727.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/525ef0b0-b113-4fc3-b7f5-bafbe3dc0968.jpg
+25422,f54cc1dd-2929-4b50-a0ed-6778734cd9a7,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f54cc1dd-2929-4b50-a0ed-6778734cd9a7.jpg
+23972,e8e38713-4227-4c6f-89f4-8d5aff08e7fe,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e8e38713-4227-4c6f-89f4-8d5aff08e7fe.jpg
+5276,45c19b16-ce15-4312-b9fb-df6b80439474,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/45c19b16-ce15-4312-b9fb-df6b80439474.jpg
+25118,f281dbe7-7dfc-4077-ae80-b02ed96dd95a,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f281dbe7-7dfc-4077-ae80-b02ed96dd95a.jpg
+2967,31e2cf57-392d-4fdf-97ce-69a2da281eec,"[[276.0, 407.0, 493.0, 821.0], [576.0, 426.0, 784.0, 831.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/31e2cf57-392d-4fdf-97ce-69a2da281eec.jpg
+13469,8cddc2e8-0283-4be1-8fc4-b683cef00bbe,"[[540.0, 245.0, 816.0, 799.0], [242.0, 259.0, 505.0, 766.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/8cddc2e8-0283-4be1-8fc4-b683cef00bbe.jpg
+10268,7080d43d-623b-4e63-935e-9ea66597fa6c,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/7080d43d-623b-4e63-935e-9ea66597fa6c.jpg
+20150,c797daee-ceb9-483b-8eca-008e7ac8015b,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/c797daee-ceb9-483b-8eca-008e7ac8015b.jpg
+7212,568694ec-5807-407a-8c10-40d0831e367d,"[[723.0, 555.0, 830.0, 639.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/568694ec-5807-407a-8c10-40d0831e367d.jpg
+4632,401afe9b-4c20-41cc-b52d-21995c71e872,"[[479.0, 488.0, 682.0, 632.0], [49.0, 449.0, 273.0, 623.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/401afe9b-4c20-41cc-b52d-21995c71e872.jpg
+1441,153fce06-c27b-4eda-8db1-9f1c60ccf4a2,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/153fce06-c27b-4eda-8db1-9f1c60ccf4a2.jpg
+17645,b134c7f3-2f65-4734-93b0-12c482e2b016,"[[259.0, 549.0, 466.0, 765.0], [615.0, 241.0, 838.0, 518.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/b134c7f3-2f65-4734-93b0-12c482e2b016.jpg
+18991,bcb3a190-1449-47b4-a24d-ffd8701723d5,"[[583.0, 267.0, 784.0, 686.0], [251.0, 258.0, 468.0, 657.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/bcb3a190-1449-47b4-a24d-ffd8701723d5.jpg
+11952,7f150b75-9a9c-44a6-94a2-4846c4154254,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/7f150b75-9a9c-44a6-94a2-4846c4154254.jpg
+20450,ca22778a-68bf-4117-afa3-5806aeb68493,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ca22778a-68bf-4117-afa3-5806aeb68493.jpg
+18041,b49313fa-77c1-4a52-8d29-f28478f8929c,"[[542.0, 661.0, 772.0, 872.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/b49313fa-77c1-4a52-8d29-f28478f8929c.jpg
+16966,ab59e6e8-22f2-43f0-8fbc-3e8bcaba1d47,"[[682.0, 214.0, 946.0, 841.0], [239.0, 218.0, 543.0, 767.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/ab59e6e8-22f2-43f0-8fbc-3e8bcaba1d47.jpg
+15775,a13b4da9-7161-4c48-9979-498652b17ccc,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/a13b4da9-7161-4c48-9979-498652b17ccc.jpg
+24814,eff31def-755c-4c62-a7e7-04153c3f63f4,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/eff31def-755c-4c62-a7e7-04153c3f63f4.jpg
+21491,d348bab9-87c7-4bd5-b02b-d01938355677,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d348bab9-87c7-4bd5-b02b-d01938355677.jpg
+13146,8a2c5b47-e18b-4a56-abe0-fde1652dde49,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8a2c5b47-e18b-4a56-abe0-fde1652dde49.jpg
+14033,91ea2a5e-e293-4589-81f0-7d6124d20eae,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/91ea2a5e-e293-4589-81f0-7d6124d20eae.jpg
+23315,e356eae4-de6e-45e6-a1df-ec51c8ccc1cd,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e356eae4-de6e-45e6-a1df-ec51c8ccc1cd.jpg
+12982,88b30c18-843f-4c50-ae65-52b03b1a9486,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/88b30c18-843f-4c50-ae65-52b03b1a9486.jpg
+21455,d2dd6b61-572f-4d66-9a5b-05a026fa40c9,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d2dd6b61-572f-4d66-9a5b-05a026fa40c9.jpg
+4206,3c51d6fa-6fb9-41b9-b723-25121b75c306,"[[554.0, 146.0, 863.0, 853.0], [160.0, 145.0, 470.0, 831.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/3c51d6fa-6fb9-41b9-b723-25121b75c306.jpg
+20797,cd083656-2310-4daf-8503-9fb219bf9638,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/cd083656-2310-4daf-8503-9fb219bf9638.jpg
+7806,5be61bda-3b71-44f7-a8ac-cc7587bbbbc2,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5be61bda-3b71-44f7-a8ac-cc7587bbbbc2.jpg
+13667,8ea7ae03-e510-4a0e-9831-1cec2fc9933f,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8ea7ae03-e510-4a0e-9831-1cec2fc9933f.jpg
+20391,c9a33306-22e1-4896-95d1-859fe76bc019,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/c9a33306-22e1-4896-95d1-859fe76bc019.jpg
+17521,b021293c-4dd0-450c-b1a4-2d72cedab0a2,"[[99.0, 623.0, 317.0, 855.0], [549.0, 561.0, 822.0, 859.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/b021293c-4dd0-450c-b1a4-2d72cedab0a2.jpg
+22398,db731c7a-f5dd-4d85-b734-8b13468e726c,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/db731c7a-f5dd-4d85-b734-8b13468e726c.jpg
+21709,d5566f6b-26c7-4610-82af-a29a80ac6525,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d5566f6b-26c7-4610-82af-a29a80ac6525.jpg
+1832,188650a9-7822-46d1-8aae-30532dc588b8,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/188650a9-7822-46d1-8aae-30532dc588b8.jpg
+10642,73a53464-7183-4a5e-ba1d-f2c014d1511a,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/73a53464-7183-4a5e-ba1d-f2c014d1511a.jpg
+7158,5611941b-09f2-4f1a-a383-9053bd749e27,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5611941b-09f2-4f1a-a383-9053bd749e27.jpg
+15382,9def0034-2612-4df3-9fa9-d5677dbae95e,"[[234.0, 288.0, 476.0, 650.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/9def0034-2612-4df3-9fa9-d5677dbae95e.jpg
+19553,c2b24ebd-2c40-48c3-ba39-177224dd7db0,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/c2b24ebd-2c40-48c3-ba39-177224dd7db0.jpg
+23834,e79fb9e0-c35d-4ea3-9e4b-126923129e28,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e79fb9e0-c35d-4ea3-9e4b-126923129e28.jpg
+10303,70d1a8c6-ce6b-4393-b278-6ae850aa7219,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/70d1a8c6-ce6b-4393-b278-6ae850aa7219.jpg
+26325,fd070065-c0c6-466e-8743-c440da108917,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/fd070065-c0c6-466e-8743-c440da108917.jpg
+25294,f40fc29a-01f1-4b0a-94ab-967c74fbc524,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f40fc29a-01f1-4b0a-94ab-967c74fbc524.jpg
+12778,86f0e1b5-1817-47da-af5e-d885dfc40424,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/86f0e1b5-1817-47da-af5e-d885dfc40424.jpg
+8021,5dbf71a5-1c10-4639-9148-f2cacbc0e462,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5dbf71a5-1c10-4639-9148-f2cacbc0e462.jpg
+24986,f171adf5-5c87-4051-8152-91ba18268669,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f171adf5-5c87-4051-8152-91ba18268669.jpg
+19904,c574ca68-56cd-4d14-ac1b-9154fe5115f3,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/c574ca68-56cd-4d14-ac1b-9154fe5115f3.jpg
+15876,a2269867-3a23-4cd4-80ec-8c0f917f5986,"[[211.0, 446.0, 423.0, 842.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/a2269867-3a23-4cd4-80ec-8c0f917f5986.jpg
+4692,4086c256-2c08-4422-8b7d-479c438c0234,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/4086c256-2c08-4422-8b7d-479c438c0234.jpg
+11152,783cc3b7-1d84-45f8-b42d-96ceb9fc7e43,"[[155.0, 288.0, 398.0, 853.0], [546.0, 233.0, 778.0, 828.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/783cc3b7-1d84-45f8-b42d-96ceb9fc7e43.jpg
+2820,2fe31a38-e27f-4359-8a0d-cbbb2e270202,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/2fe31a38-e27f-4359-8a0d-cbbb2e270202.jpg
+8019,5dbb4c6d-0f62-48c7-ac40-4eca9562a74d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5dbb4c6d-0f62-48c7-ac40-4eca9562a74d.jpg
+7519,5928a120-2f82-4b3e-b19b-8c0340535507,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5928a120-2f82-4b3e-b19b-8c0340535507.jpg
+18315,b724406f-51b8-4134-a9eb-2185696cbbfb,"[[249.0, 295.0, 476.0, 618.0], [639.0, 373.0, 884.0, 776.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/b724406f-51b8-4134-a9eb-2185696cbbfb.jpg
+9622,6b0a1495-7a38-4de5-8e72-83fcfcaa678b,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6b0a1495-7a38-4de5-8e72-83fcfcaa678b.jpg
+24041,e9837763-07fd-428b-8cd1-2bcaf05f7162,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e9837763-07fd-428b-8cd1-2bcaf05f7162.jpg
+15344,9d9a0334-a683-455c-8351-1c5cef88c6b0,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/9d9a0334-a683-455c-8351-1c5cef88c6b0.jpg
+19850,c506805c-9dd3-42c0-8851-e35e0c8627b5,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/c506805c-9dd3-42c0-8851-e35e0c8627b5.jpg
+965,0bdf0bcb-7323-4aa4-ac61-dad3b1787acf,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/0bdf0bcb-7323-4aa4-ac61-dad3b1787acf.jpg
+6886,53bae9fc-3bb2-4684-b986-84bf7aa2e5a2,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/53bae9fc-3bb2-4684-b986-84bf7aa2e5a2.jpg
+20203,c7fc163a-f9ae-4895-8429-a3518617c06c,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/c7fc163a-f9ae-4895-8429-a3518617c06c.jpg
+18912,bc3d8c7d-fee7-4138-a182-9773c157b1d5,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/bc3d8c7d-fee7-4138-a182-9773c157b1d5.jpg
+2817,2fcb3969-e438-4461-9739-5e8a44233312,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/2fcb3969-e438-4461-9739-5e8a44233312.jpg
+15420,9e4f11c9-edcf-48bb-adce-0b06d7ddda3d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/9e4f11c9-edcf-48bb-adce-0b06d7ddda3d.jpg
+10450,71ea8f7f-d36d-47a5-89c3-7ec145a201c2,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/71ea8f7f-d36d-47a5-89c3-7ec145a201c2.jpg
+19455,c1d32bfe-9f53-4c13-b464-58dae483352d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/c1d32bfe-9f53-4c13-b464-58dae483352d.jpg
+22101,d8d319c8-394a-4d6f-9a96-ff94d3ab2e06,"[[250.0, 134.0, 455.0, 553.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/d8d319c8-394a-4d6f-9a96-ff94d3ab2e06.jpg
+15245,9c91bfa8-de93-47b5-bda2-31e7cd643f54,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/9c91bfa8-de93-47b5-bda2-31e7cd643f54.jpg
+8554,6266388f-5896-4555-8ea8-04b19fdd77a1,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6266388f-5896-4555-8ea8-04b19fdd77a1.jpg
+1833,188713c0-6005-47fd-a5b4-62d3c9119c0d,"[[177.0, 367.0, 371.0, 733.0], [493.0, 449.0, 775.0, 799.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/188713c0-6005-47fd-a5b4-62d3c9119c0d.jpg
+25977,fa1aa629-3155-4f4c-896d-6c330b1433ae,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/fa1aa629-3155-4f4c-896d-6c330b1433ae.jpg
+1502,15bed4e1-1b6d-4224-bfe8-b044725ccd77,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/15bed4e1-1b6d-4224-bfe8-b044725ccd77.jpg
+22134,d91e72af-33eb-41d5-aeb9-90ccd0b4145b,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d91e72af-33eb-41d5-aeb9-90ccd0b4145b.jpg
+448,072e0dbf-11d7-4c57-8161-10c8e7b2f0bf,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/072e0dbf-11d7-4c57-8161-10c8e7b2f0bf.jpg
+5291,45dddc96-f7e8-4dcf-94b1-34349c0ffdc2,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/45dddc96-f7e8-4dcf-94b1-34349c0ffdc2.jpg
+26046,faac3aa2-9311-4caf-8c60-e9151aaca922,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/faac3aa2-9311-4caf-8c60-e9151aaca922.jpg
+11289,794c2473-8e8e-4f2b-989a-7148d0737c95,"[[559.0, 576.0, 755.0, 693.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/794c2473-8e8e-4f2b-989a-7148d0737c95.jpg
+16274,a56ee1d9-dacf-4675-925c-f1a63f15d437,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/a56ee1d9-dacf-4675-925c-f1a63f15d437.jpg
+5306,45fb43d3-0dfc-487d-a6d0-ed3de365173a,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/45fb43d3-0dfc-487d-a6d0-ed3de365173a.jpg
+25693,f7a5fd29-dd8d-4f85-8164-69b2e83da35e,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f7a5fd29-dd8d-4f85-8164-69b2e83da35e.jpg
+3326,34fdff09-5bc2-4df5-b8cf-3c37662037c8,"[[333.0, 502.0, 477.0, 632.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/34fdff09-5bc2-4df5-b8cf-3c37662037c8.jpg
+3444,35f72695-d6d4-405a-8ddc-b64cbbca55ef,"[[220.0, 397.0, 416.0, 755.0], [556.0, 384.0, 806.0, 764.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/35f72695-d6d4-405a-8ddc-b64cbbca55ef.jpg
+11916,7ec5797a-93ff-4bf4-a2ea-4a5a7e5ea189,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/7ec5797a-93ff-4bf4-a2ea-4a5a7e5ea189.jpg
+22067,d8729599-727d-4724-ba93-8c6a026fb188,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d8729599-727d-4724-ba93-8c6a026fb188.jpg
+19720,c4046c56-0b47-4293-8921-c751ee5fb188,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/c4046c56-0b47-4293-8921-c751ee5fb188.jpg
+20856,cd84b533-e235-4458-a278-69b67d743b83,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/cd84b533-e235-4458-a278-69b67d743b83.jpg
+18485,b8999532-31ea-4659-9039-d83a6fab490c,"[[269.0, 143.0, 469.0, 608.0], [651.0, 584.0, 831.0, 801.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/b8999532-31ea-4659-9039-d83a6fab490c.jpg
+8441,615cf161-6097-42aa-a416-dc1dcdd3da9a,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/615cf161-6097-42aa-a416-dc1dcdd3da9a.jpg
+9992,6e0a4d03-07dd-4e0e-b8d4-9b4998500a70,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6e0a4d03-07dd-4e0e-b8d4-9b4998500a70.jpg
+21006,cee7adc5-7a3d-4f2b-bd2e-f633d201261a,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/cee7adc5-7a3d-4f2b-bd2e-f633d201261a.jpg
+11353,79dedd38-4d3e-4787-9afa-708797b1592d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/79dedd38-4d3e-4787-9afa-708797b1592d.jpg
+7695,5ad76e11-782e-46eb-9eaa-5ce2403c5a89,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5ad76e11-782e-46eb-9eaa-5ce2403c5a89.jpg
+11201,789c56a1-8303-4b8f-bb20-6d9dc02b616c,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/789c56a1-8303-4b8f-bb20-6d9dc02b616c.jpg
+10941,762e8a2c-c60b-4af1-aa92-0b1ba0873699,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/762e8a2c-c60b-4af1-aa92-0b1ba0873699.jpg
+24168,ea8d8dfd-12f8-4e10-ab9d-5fcb345cc593,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ea8d8dfd-12f8-4e10-ab9d-5fcb345cc593.jpg
+836,0ad17cb4-c693-4ac1-9bfb-8e7660c265a2,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/0ad17cb4-c693-4ac1-9bfb-8e7660c265a2.jpg
+13237,8af4747a-c1a1-46f3-a47b-3896d99bf17e,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8af4747a-c1a1-46f3-a47b-3896d99bf17e.jpg
+18827,bb6988b6-86f7-442c-83dc-c013e08aeb65,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/bb6988b6-86f7-442c-83dc-c013e08aeb65.jpg
+24998,f195ff66-1c75-466f-a4af-1fcdd2c8a748,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f195ff66-1c75-466f-a4af-1fcdd2c8a748.jpg
+5061,43f5cb7f-77fb-4d26-b55a-46a98422e35e,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/43f5cb7f-77fb-4d26-b55a-46a98422e35e.jpg
+21188,d091c2c7-82d9-4f8c-a820-7a1a08257213,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d091c2c7-82d9-4f8c-a820-7a1a08257213.jpg
+7385,580ac649-504a-472d-abb8-0d53d82fc801,"[[217.0, 451.0, 430.0, 564.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/580ac649-504a-472d-abb8-0d53d82fc801.jpg
+12989,88c25715-03f5-474e-9cee-5ad1f7beb4ce,"[[168.0, 133.0, 433.0, 816.0], [513.0, 275.0, 814.0, 908.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/88c25715-03f5-474e-9cee-5ad1f7beb4ce.jpg
+24402,ec69eb2a-8d24-406c-8b20-6b2528af149d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ec69eb2a-8d24-406c-8b20-6b2528af149d.jpg
+1607,168f4fcb-a87d-49fc-b167-4ed42fd1ec43,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/168f4fcb-a87d-49fc-b167-4ed42fd1ec43.jpg
+9645,6b35c3af-5c16-45f8-a1bb-75b38742c330,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6b35c3af-5c16-45f8-a1bb-75b38742c330.jpg
+13872,9067a3b6-b8bf-49a9-bc76-675853dd37b5,"[[318.0, 359.0, 537.0, 616.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/9067a3b6-b8bf-49a9-bc76-675853dd37b5.jpg
+808,0a80033c-8a64-4810-9ecb-6013f7b0dde9,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/0a80033c-8a64-4810-9ecb-6013f7b0dde9.jpg
+8103,5e7dc013-d5f5-48f4-a9d0-02d0f85f9557,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5e7dc013-d5f5-48f4-a9d0-02d0f85f9557.jpg
+11774,7d9de861-2aa8-49d6-a2c5-47a5d7e1d06f,"[[132.0, 390.0, 368.0, 600.0], [681.0, 380.0, 857.0, 623.0], [622.0, 198.0, 776.0, 330.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/7d9de861-2aa8-49d6-a2c5-47a5d7e1d06f.jpg
+11468,7aeb3671-e373-4144-9393-6d8381113eb6,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/7aeb3671-e373-4144-9393-6d8381113eb6.jpg
+18836,bb7973b1-58b1-4e2e-b687-144e179f0996,"[[666.0, 364.0, 891.0, 666.0], [326.0, 470.0, 461.0, 801.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/bb7973b1-58b1-4e2e-b687-144e179f0996.jpg
+14430,958f4388-559f-482c-9b7f-33eb9d64ea61,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/958f4388-559f-482c-9b7f-33eb9d64ea61.jpg
+2252,21e403ae-139b-4419-b3fa-0bf13d97d245,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/21e403ae-139b-4419-b3fa-0bf13d97d245.jpg
+15044,9aa7e15e-45ea-4d4f-a5eb-97f021d97499,"[[621.0, 199.0, 877.0, 847.0], [251.0, 147.0, 483.0, 744.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/9aa7e15e-45ea-4d4f-a5eb-97f021d97499.jpg
+5374,4699eae3-390a-4a76-9be0-7646d1a36425,"[[249.0, 455.0, 474.0, 563.0], [778.0, 420.0, 871.0, 593.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/4699eae3-390a-4a76-9be0-7646d1a36425.jpg
+13689,8ed3380c-44db-4df7-8078-7a47dbdba32a,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8ed3380c-44db-4df7-8078-7a47dbdba32a.jpg
+5116,4474c611-e91a-4aa2-8993-69ad51c2e332,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/4474c611-e91a-4aa2-8993-69ad51c2e332.jpg
+7224,56a7e256-00c1-4053-97de-13565831b48d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/56a7e256-00c1-4053-97de-13565831b48d.jpg
+5324,462a48b2-bcf4-486b-b082-75c91b9f1fb0,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/462a48b2-bcf4-486b-b082-75c91b9f1fb0.jpg
+22531,dca2cc82-1f80-4148-a5cc-952622cd5b50,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/dca2cc82-1f80-4148-a5cc-952622cd5b50.jpg
+22809,df09e7d0-61c7-4479-8a71-7a7c4f6e7ce5,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/df09e7d0-61c7-4479-8a71-7a7c4f6e7ce5.jpg
+6541,50908a8f-e286-4304-8d97-562654d734c4,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/50908a8f-e286-4304-8d97-562654d734c4.jpg
+575,084db3b9-8b5b-494d-8e81-7b6b98de6287,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/084db3b9-8b5b-494d-8e81-7b6b98de6287.jpg
+4907,4261241c-2349-4c92-a283-e9d3af024c49,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/4261241c-2349-4c92-a283-e9d3af024c49.jpg
+6330,4eea8e3e-6760-416e-b236-34b192866578,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/4eea8e3e-6760-416e-b236-34b192866578.jpg
+17768,b241dfb4-3ba4-40b0-93de-2eaafaa13dfc,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/b241dfb4-3ba4-40b0-93de-2eaafaa13dfc.jpg
+19435,c145df8e-9631-468d-af7f-5690c11c2c88,"[[601.0, 265.0, 774.0, 648.0], [173.0, 370.0, 351.0, 630.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/c145df8e-9631-468d-af7f-5690c11c2c88.jpg
+7424,585ad192-0e0e-49f6-a04c-242061a59e66,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/585ad192-0e0e-49f6-a04c-242061a59e66.jpg
+17122,acb1c10b-88f7-407f-b2a3-645433174148,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/acb1c10b-88f7-407f-b2a3-645433174148.jpg
+20554,cb05cd95-3e60-47e7-a68c-afaa343d05e3,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/cb05cd95-3e60-47e7-a68c-afaa343d05e3.jpg
+6846,53645011-e495-4bc3-a3fa-087aa3cde971,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/53645011-e495-4bc3-a3fa-087aa3cde971.jpg
+4711,40ad92c2-901d-4f65-a6f2-b9d7452b5047,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/40ad92c2-901d-4f65-a6f2-b9d7452b5047.jpg
+23288,e32792fc-b3bc-4a0b-af37-47b989658a9f,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e32792fc-b3bc-4a0b-af37-47b989658a9f.jpg
+10005,6e2174d4-d2e8-421a-9577-109160d053eb,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6e2174d4-d2e8-421a-9577-109160d053eb.jpg
+12979,88a854fe-e8ca-4b03-86b1-ebb3e27ec605,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/88a854fe-e8ca-4b03-86b1-ebb3e27ec605.jpg
+18470,b86e6759-681b-4846-a51a-9f6ec523d633,"[[580.0, 163.0, 849.0, 596.0], [179.0, 196.0, 430.0, 663.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/b86e6759-681b-4846-a51a-9f6ec523d633.jpg
+24448,ecbf2243-ebb0-462d-99fc-01cb417efa17,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ecbf2243-ebb0-462d-99fc-01cb417efa17.jpg
+11537,7b97b922-5080-41ed-b64c-213b634e792a,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/7b97b922-5080-41ed-b64c-213b634e792a.jpg
+24377,ec394942-8542-4bef-a247-e84111809581,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ec394942-8542-4bef-a247-e84111809581.jpg
+4917,427412d0-cf4c-4a13-b58e-6ffdd004c6ec,"[[308.0, 270.0, 537.0, 697.0], [602.0, 215.0, 847.0, 689.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/427412d0-cf4c-4a13-b58e-6ffdd004c6ec.jpg
+16958,ab439d42-75cf-4049-82c7-1155a8e92560,"[[599.0, 165.0, 889.0, 628.0], [211.0, 182.0, 458.0, 615.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/ab439d42-75cf-4049-82c7-1155a8e92560.jpg
+23026,e0e68c55-90a2-45b4-b9d1-ef8e1f711466,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e0e68c55-90a2-45b4-b9d1-ef8e1f711466.jpg
+12885,87d989b3-c8ed-40f3-976b-aed29114b0d6,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/87d989b3-c8ed-40f3-976b-aed29114b0d6.jpg
+845,0ae738d0-5bdd-4ebf-9c1f-6b10a25be92a,"[[239.0, 487.0, 475.0, 722.0], [670.0, 574.0, 836.0, 757.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/0ae738d0-5bdd-4ebf-9c1f-6b10a25be92a.jpg
+4700,4099327d-4b3f-4d64-bda2-9b696870ee01,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/4099327d-4b3f-4d64-bda2-9b696870ee01.jpg
+5935,4b6a04d2-02f9-414d-8978-b7159aec4223,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/4b6a04d2-02f9-414d-8978-b7159aec4223.jpg
+3022,32684a31-86bc-48cc-ba45-003c4b86187d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/32684a31-86bc-48cc-ba45-003c4b86187d.jpg
+22087,d8adf370-83b9-4852-bedd-6e180fb95d9b,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d8adf370-83b9-4852-bedd-6e180fb95d9b.jpg
+8150,5ed4e7c6-77e4-4462-ab68-e7ddfe2bad5a,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5ed4e7c6-77e4-4462-ab68-e7ddfe2bad5a.jpg
+4346,3d7fb4b4-5e62-4591-aa4d-cbbc1ca3ffb7,"[[31.0, 474.0, 366.0, 778.0], [598.0, 519.0, 876.0, 843.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/3d7fb4b4-5e62-4591-aa4d-cbbc1ca3ffb7.jpg
+18340,b7542c5a-1cad-4598-9c63-d1adc3e76741,"[[606.0, 288.0, 909.0, 915.0], [114.0, 198.0, 444.0, 863.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/b7542c5a-1cad-4598-9c63-d1adc3e76741.jpg
+6683,51f540ba-aad8-4e1f-bc8b-7373d3d23ee2,"[[148.0, 325.0, 399.0, 855.0], [523.0, 333.0, 800.0, 825.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/51f540ba-aad8-4e1f-bc8b-7373d3d23ee2.jpg
+15810,a17c5d46-08a6-4fff-ba32-9a658a981e0a,"[[569.0, 181.0, 891.0, 726.0], [276.0, 223.0, 515.0, 792.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/a17c5d46-08a6-4fff-ba32-9a658a981e0a.jpg
+11436,7aa7ec60-510d-4ed9-94cf-da1fa6f1f2e5,"[[653.0, 628.0, 808.0, 735.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/7aa7ec60-510d-4ed9-94cf-da1fa6f1f2e5.jpg
+19556,c2b6a190-fd34-44fe-aa42-8e54af9a9191,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/c2b6a190-fd34-44fe-aa42-8e54af9a9191.jpg
+22148,d9326771-d513-4db3-9817-776ed5a4940f,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d9326771-d513-4db3-9817-776ed5a4940f.jpg
+15942,a2c5e272-b2d0-429e-ba46-75634658d19b,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/a2c5e272-b2d0-429e-ba46-75634658d19b.jpg
+10718,74425fb9-d1d5-4813-97d8-6b25a55d62a6,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/74425fb9-d1d5-4813-97d8-6b25a55d62a6.jpg
+11229,78ca0700-6842-4ffe-88b2-47c67fc0a7c9,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/78ca0700-6842-4ffe-88b2-47c67fc0a7c9.jpg
+12941,88510d89-5d17-4e12-8e60-77721bb40966,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/88510d89-5d17-4e12-8e60-77721bb40966.jpg
+26312,fcde3246-79cb-4e2e-b9b7-0820aa170a09,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/fcde3246-79cb-4e2e-b9b7-0820aa170a09.jpg
+10837,75476d93-08ae-4a2e-a5f2-167b772313ea,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/75476d93-08ae-4a2e-a5f2-167b772313ea.jpg
+5821,4a6bcf76-1a0b-4d70-953a-791c5425df2f,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/4a6bcf76-1a0b-4d70-953a-791c5425df2f.jpg
+747,09d79f22-df14-4e5a-bc98-7a1d6bcd6965,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/09d79f22-df14-4e5a-bc98-7a1d6bcd6965.jpg
+19379,c00bf44e-5b65-470d-8ddb-b704e630bd5e,"[[585.0, 347.0, 745.0, 629.0], [247.0, 354.0, 380.0, 667.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/c00bf44e-5b65-470d-8ddb-b704e630bd5e.jpg
+25732,f8024b23-e4e2-4723-b372-0ebcd2a205b2,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f8024b23-e4e2-4723-b372-0ebcd2a205b2.jpg
+14101,92a2d2d4-39d1-4f0b-b5ed-33d26aaeeae0,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/92a2d2d4-39d1-4f0b-b5ed-33d26aaeeae0.jpg
+13448,8cc0b6f0-ca96-47a8-bf47-7fe2d3641d0c,"[[533.0, 216.0, 899.0, 824.0], [178.0, 178.0, 459.0, 780.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/8cc0b6f0-ca96-47a8-bf47-7fe2d3641d0c.jpg
+16483,a72fd9b3-5f86-407f-bde0-d091d3b1a773,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/a72fd9b3-5f86-407f-bde0-d091d3b1a773.jpg
+2391,25651f11-e9b6-423e-a9d0-d20347cb4caf,"[[643.0, 301.0, 828.0, 779.0], [197.0, 108.0, 401.0, 656.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/25651f11-e9b6-423e-a9d0-d20347cb4caf.jpg
+25826,f8e8da4e-f23d-477a-84e8-4e45eaa25fca,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f8e8da4e-f23d-477a-84e8-4e45eaa25fca.jpg
+10109,6f09eb03-cfb5-4936-919e-e08cb3b9555d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6f09eb03-cfb5-4936-919e-e08cb3b9555d.jpg
+8999,660423bf-1b7b-43d8-9d9a-ec96ea1afc1b,"[[224.0, 638.0, 383.0, 794.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/660423bf-1b7b-43d8-9d9a-ec96ea1afc1b.jpg
+9561,6a975635-1118-4c26-b613-43fd34ce8b16,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6a975635-1118-4c26-b613-43fd34ce8b16.jpg
+22409,db81fce7-b627-4773-8349-0fc392eb885b,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/db81fce7-b627-4773-8349-0fc392eb885b.jpg
+381,06a4f477-34ca-4625-945b-81bfa9e77273,"[[512.0, 355.0, 825.0, 974.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/06a4f477-34ca-4625-945b-81bfa9e77273.jpg
+9250,680fac3f-966d-4c7d-a188-a0cc14f735b9,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/680fac3f-966d-4c7d-a188-a0cc14f735b9.jpg
+11462,7ae42d5b-dc65-4a36-8bec-70e1e97590e0,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/7ae42d5b-dc65-4a36-8bec-70e1e97590e0.jpg
+20690,cc2b8292-35f6-484b-99b2-4afe247b1675,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/cc2b8292-35f6-484b-99b2-4afe247b1675.jpg
+8743,63fe2b52-2b1e-4c81-8787-fd505ae97c37,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/63fe2b52-2b1e-4c81-8787-fd505ae97c37.jpg
+16312,a5bfb978-b5cb-440a-8a93-7d8d2d7e8954,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/a5bfb978-b5cb-440a-8a93-7d8d2d7e8954.jpg
+22845,df5f8626-2afb-4fb2-87a6-765fbc2eff2e,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/df5f8626-2afb-4fb2-87a6-765fbc2eff2e.jpg
+21244,d10337cd-ce2a-4601-a2bf-956a6592c16e,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d10337cd-ce2a-4601-a2bf-956a6592c16e.jpg
+10833,75382254-7615-42c0-986c-de9779f049ad,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/75382254-7615-42c0-986c-de9779f049ad.jpg
+3309,34d36b9f-af87-4891-b001-6dc4f5379cb2,"[[603.0, 360.0, 902.0, 525.0], [701.0, 201.0, 818.0, 342.0], [258.0, 277.0, 443.0, 489.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/34d36b9f-af87-4891-b001-6dc4f5379cb2.jpg
+9617,6b046125-28d7-4b79-8db4-8b0dc38e53a0,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6b046125-28d7-4b79-8db4-8b0dc38e53a0.jpg
+9295,6882ecfb-e577-42f1-9cbd-5f6408ae189a,"[[178.0, 470.0, 412.0, 644.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/6882ecfb-e577-42f1-9cbd-5f6408ae189a.jpg
+7437,5871bd61-108b-4c53-bc24-c20522d56061,"[[606.0, 449.0, 790.0, 746.0], [264.0, 460.0, 414.0, 723.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/5871bd61-108b-4c53-bc24-c20522d56061.jpg
+22359,db16297d-c849-43b1-bcd3-1bd4fb2ff37e,"[[606.0, 582.0, 767.0, 750.0], [296.0, 586.0, 419.0, 686.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/db16297d-c849-43b1-bcd3-1bd4fb2ff37e.jpg
+1482,15965584-26e8-450b-823d-030d71049494,"[[649.0, 422.0, 778.0, 498.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/15965584-26e8-450b-823d-030d71049494.jpg
+25887,f97180ce-0316-453f-b683-432af3288c98,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f97180ce-0316-453f-b683-432af3288c98.jpg
+9375,69399256-522e-4404-a4ff-67f49c711f8e,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/69399256-522e-4404-a4ff-67f49c711f8e.jpg
+23403,e432a26b-f360-4b51-bc5f-d7907eef6658,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e432a26b-f360-4b51-bc5f-d7907eef6658.jpg
+20298,c8cfffb1-c177-432d-b1c6-ff554b0f7658,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/c8cfffb1-c177-432d-b1c6-ff554b0f7658.jpg
+16742,a9568af2-7ac8-4527-b6c7-f537842685de,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/a9568af2-7ac8-4527-b6c7-f537842685de.jpg
+11160,784a3ed0-2565-430f-819f-f713e1775344,"[[215.0, 628.0, 342.0, 735.0], [265.0, 186.0, 423.0, 471.0], [620.0, 509.0, 798.0, 750.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/784a3ed0-2565-430f-819f-f713e1775344.jpg
+12794,87106150-d046-41a9-ac79-f4ab113e1d22,"[[434.0, 520.0, 684.0, 817.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/87106150-d046-41a9-ac79-f4ab113e1d22.jpg
+439,07166637-dcb4-40c0-b553-257690afa9be,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/07166637-dcb4-40c0-b553-257690afa9be.jpg
+6381,4f57e99f-9ea9-4d28-9dee-49e399210fde,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/4f57e99f-9ea9-4d28-9dee-49e399210fde.jpg
+18427,b804f8cc-64b3-4a06-8929-7f12138fc625,"[[112.0, 235.0, 362.0, 758.0], [490.0, 248.0, 725.0, 782.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/b804f8cc-64b3-4a06-8929-7f12138fc625.jpg
+15315,9d4a60a2-7a43-4d82-986a-0fbe9126fd88,"[[608.0, 487.0, 892.0, 850.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/9d4a60a2-7a43-4d82-986a-0fbe9126fd88.jpg
+14641,9778f137-de03-40da-9d6b-3187d59fd9aa,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/9778f137-de03-40da-9d6b-3187d59fd9aa.jpg
+16804,a9da9bbf-0ccc-4a8d-8a7f-855ad4657b67,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/a9da9bbf-0ccc-4a8d-8a7f-855ad4657b67.jpg
+13504,8d428c40-37c4-4a95-bce1-eba03d848db4,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8d428c40-37c4-4a95-bce1-eba03d848db4.jpg
+22152,d937f102-cf15-4beb-accf-5514beb70f28,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d937f102-cf15-4beb-accf-5514beb70f28.jpg
+10176,6f8f2795-cae9-4c41-9130-cd23fd840e7f,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6f8f2795-cae9-4c41-9130-cd23fd840e7f.jpg
+7755,5b6f828f-98b3-4a29-b93c-763594d135fd,"[[633.0, 332.0, 886.0, 838.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/5b6f828f-98b3-4a29-b93c-763594d135fd.jpg
+21941,d73404b9-b882-4d8f-a14f-876aa52c9559,"[[637.0, 259.0, 803.0, 522.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/d73404b9-b882-4d8f-a14f-876aa52c9559.jpg
+278,0587782c-ac6b-4ae1-8ffb-ce894d09f75e,"[[734.0, 488.0, 955.0, 575.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/0587782c-ac6b-4ae1-8ffb-ce894d09f75e.jpg
+22592,dd41fb23-a456-4506-9f4b-94a1a2dd02d9,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/dd41fb23-a456-4506-9f4b-94a1a2dd02d9.jpg
+6716,524c87a2-8072-4062-b6f7-7a7785164092,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/524c87a2-8072-4062-b6f7-7a7785164092.jpg
+14371,94fd8652-cb5a-40c6-9c5e-e429de9e8715,"[[390.0, 357.0, 521.0, 662.0], [573.0, 346.0, 751.0, 709.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/94fd8652-cb5a-40c6-9c5e-e429de9e8715.jpg
+8500,61f16a44-baa6-43e7-8843-3cb3559003f4,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/61f16a44-baa6-43e7-8843-3cb3559003f4.jpg
+12883,87d440b0-e45d-4a8b-822d-76d478a9a304,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/87d440b0-e45d-4a8b-822d-76d478a9a304.jpg
+12739,868a5649-f831-4f4e-ba96-6cd9b287df91,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/868a5649-f831-4f4e-ba96-6cd9b287df91.jpg
+17355,aebf9717-f500-44ac-87cd-273f24e0c3ce,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/aebf9717-f500-44ac-87cd-273f24e0c3ce.jpg
+6098,4cdde362-4086-4e59-bb96-c0f38b20568c,"[[252.0, 257.0, 514.0, 702.0], [653.0, 281.0, 894.0, 744.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/4cdde362-4086-4e59-bb96-c0f38b20568c.jpg
+20537,cae49e79-ef94-4142-a603-19a4c63305a1,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/cae49e79-ef94-4142-a603-19a4c63305a1.jpg
+1893,19270f21-1643-4eb5-b692-70680acb6f91,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/19270f21-1643-4eb5-b692-70680acb6f91.jpg
+11746,7d4e9bfa-97fc-4412-9fd6-d3bedb26340d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/7d4e9bfa-97fc-4412-9fd6-d3bedb26340d.jpg
+20970,ce946fb0-85a5-457c-8be8-cffbfe0061dd,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ce946fb0-85a5-457c-8be8-cffbfe0061dd.jpg
+17547,b05be23b-9b1d-4868-ae6c-72485cd2c601,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/b05be23b-9b1d-4868-ae6c-72485cd2c601.jpg
+5948,4b86f84c-0430-45b9-aa82-e1496b289bae,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/4b86f84c-0430-45b9-aa82-e1496b289bae.jpg
+16225,a500fcb1-de25-4425-879c-124e7eff6ae5,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/a500fcb1-de25-4425-879c-124e7eff6ae5.jpg
+1191,0f45a78f-d20b-4370-b0c9-00da4e9a8a05,"[[600.0, 501.0, 735.0, 801.0], [87.0, 357.0, 336.0, 909.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/0f45a78f-d20b-4370-b0c9-00da4e9a8a05.jpg
+9688,6b8884f1-abcc-4285-97e9-d70e867e1545,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6b8884f1-abcc-4285-97e9-d70e867e1545.jpg
+13535,8d837773-a674-4af2-b401-2b3216586c5e,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8d837773-a674-4af2-b401-2b3216586c5e.jpg
+12685,85fde190-a997-4f2c-8378-61749288bb46,"[[556.0, 164.0, 778.0, 727.0], [235.0, 258.0, 444.0, 624.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/85fde190-a997-4f2c-8378-61749288bb46.jpg
+25111,f26ede75-cee6-4248-9219-017f327b25ca,"[[220.0, 344.0, 426.0, 650.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/f26ede75-cee6-4248-9219-017f327b25ca.jpg
+17446,af8ac1a0-5f55-42e1-9cf7-d79e70bf5fb1,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/af8ac1a0-5f55-42e1-9cf7-d79e70bf5fb1.jpg
+21591,d45c8846-1b98-40f8-852c-61a5170da06f,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d45c8846-1b98-40f8-852c-61a5170da06f.jpg
+1944,19a2b39a-60ac-4412-8e17-c69d1336538e,"[[233.0, 582.0, 445.0, 813.0], [654.0, 565.0, 892.0, 799.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/19a2b39a-60ac-4412-8e17-c69d1336538e.jpg
+4313,3d341003-fe1c-4709-a20a-0a543a3e3743,"[[571.0, 201.0, 799.0, 431.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/3d341003-fe1c-4709-a20a-0a543a3e3743.jpg
+6723,5251daaa-5b65-431e-934a-cd5a75ad33d8,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5251daaa-5b65-431e-934a-cd5a75ad33d8.jpg
+12414,833ba05f-1f0b-480a-9dd1-eb92aa3e8041,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/833ba05f-1f0b-480a-9dd1-eb92aa3e8041.jpg
+13812,8fde7f84-5ddc-4b0d-9eb6-3daa4fcad8af,"[[306.0, 509.0, 429.0, 748.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/8fde7f84-5ddc-4b0d-9eb6-3daa4fcad8af.jpg
+9929,6d88bb19-eb14-46e1-b2fb-33d546f388dd,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6d88bb19-eb14-46e1-b2fb-33d546f388dd.jpg
+3471,3646e1b0-48d7-4a90-83a0-585654f5ad23,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/3646e1b0-48d7-4a90-83a0-585654f5ad23.jpg
+14433,959ff9d5-add9-45c4-837f-4dc6e2d354c9,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/959ff9d5-add9-45c4-837f-4dc6e2d354c9.jpg
+5818,4a66f161-a35d-4e18-8f17-5b0e596e40aa,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/4a66f161-a35d-4e18-8f17-5b0e596e40aa.jpg
+21063,cf6729ac-27a0-46e1-9c9b-7d2cb748c4b3,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/cf6729ac-27a0-46e1-9c9b-7d2cb748c4b3.jpg
+12494,83eeeb49-96b9-455a-89ab-425a0e5c471f,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/83eeeb49-96b9-455a-89ab-425a0e5c471f.jpg
+26655,ffc3fc59-f046-48b8-b7ad-3a9e07362d0c,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ffc3fc59-f046-48b8-b7ad-3a9e07362d0c.jpg
+8045,5dff4f1d-a3f8-43e1-aa04-28538be75a40,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5dff4f1d-a3f8-43e1-aa04-28538be75a40.jpg
+22231,d9cdb986-5023-4bfe-a249-719072107933,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d9cdb986-5023-4bfe-a249-719072107933.jpg
+11069,775cfd2b-66a5-46ef-8531-c554744b634e,"[[278.0, 356.0, 415.0, 645.0], [688.0, 354.0, 826.0, 551.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/775cfd2b-66a5-46ef-8531-c554744b634e.jpg
+12290,8208490a-360f-4744-aea8-08a10d5ec3d7,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8208490a-360f-4744-aea8-08a10d5ec3d7.jpg
+14422,957f9877-9539-43bf-8a52-956df8a2e3a7,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/957f9877-9539-43bf-8a52-956df8a2e3a7.jpg
+9119,66e24a72-93f7-4eb9-8061-fea04f27802b,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/66e24a72-93f7-4eb9-8061-fea04f27802b.jpg
+861,0b034d2e-2e49-444a-a7af-cac91c2c01d8,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/0b034d2e-2e49-444a-a7af-cac91c2c01d8.jpg
+16211,a4e7f1a6-0860-43a0-bccb-263392954ade,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/a4e7f1a6-0860-43a0-bccb-263392954ade.jpg
+25748,f83df085-ffda-4d09-8c53-6689bcc2a7a0,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f83df085-ffda-4d09-8c53-6689bcc2a7a0.jpg
+22803,df01aec8-b41f-4319-b9a9-5482bb83013b,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/df01aec8-b41f-4319-b9a9-5482bb83013b.jpg
+16414,a69b6651-4a96-4fbf-bd9f-d2ec7161e5d2,"[[153.0, 81.0, 380.0, 456.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/a69b6651-4a96-4fbf-bd9f-d2ec7161e5d2.jpg
+16249,a52aa522-a1b3-4f15-8609-f44bf96da2e3,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/a52aa522-a1b3-4f15-8609-f44bf96da2e3.jpg
+18857,bbc0b0fa-940d-41c5-8f97-e7c2da468d97,"[[581.0, 157.0, 714.0, 512.0], [248.0, 164.0, 403.0, 389.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/bbc0b0fa-940d-41c5-8f97-e7c2da468d97.jpg
+22980,e078fb2c-acf6-43bf-8cd0-540bbb460947,"[[373.0, 215.0, 503.0, 358.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/e078fb2c-acf6-43bf-8cd0-540bbb460947.jpg
+12937,883e12fd-4837-41dc-9298-86e3c6a5cc5a,"[[217.0, 194.0, 362.0, 430.0], [681.0, 69.0, 877.0, 509.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/883e12fd-4837-41dc-9298-86e3c6a5cc5a.jpg
+2239,2178c094-b206-4fe5-a9ef-d84540996b89,"[[231.0, 589.0, 420.0, 817.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/2178c094-b206-4fe5-a9ef-d84540996b89.jpg
+8801,64739b6b-2ef7-459e-8604-0578392094bd,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/64739b6b-2ef7-459e-8604-0578392094bd.jpg
+22665,dddcf2da-dc3a-4d1c-98b1-2ae1a2670e3f,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/dddcf2da-dc3a-4d1c-98b1-2ae1a2670e3f.jpg
+6913,53e8706e-4bd3-45d8-89e9-af18bf665e67,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/53e8706e-4bd3-45d8-89e9-af18bf665e67.jpg
+9492,6a2a3013-7795-4947-b79e-583af75fdf8a,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6a2a3013-7795-4947-b79e-583af75fdf8a.jpg
+8416,6121d7b6-8d47-45d4-9706-bd42ae676534,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6121d7b6-8d47-45d4-9706-bd42ae676534.jpg
+24343,ebe886a5-3488-4198-bbd8-33c50b4a15f9,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ebe886a5-3488-4198-bbd8-33c50b4a15f9.jpg
+15166,9bdfaf0e-2483-4ce2-baa3-a582737a538c,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/9bdfaf0e-2483-4ce2-baa3-a582737a538c.jpg
+15733,a0ea6aa6-e4fd-49d7-b9dc-b04e4238934c,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/a0ea6aa6-e4fd-49d7-b9dc-b04e4238934c.jpg
+15107,9b4a571b-9598-4d07-b035-82e6d1aa40d8,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/9b4a571b-9598-4d07-b035-82e6d1aa40d8.jpg
+25719,f7da7393-47e2-48f7-b876-a7e42d58582b,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f7da7393-47e2-48f7-b876-a7e42d58582b.jpg
+12083,8023c696-99ff-4f0b-8f0a-7b68ba887bda,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8023c696-99ff-4f0b-8f0a-7b68ba887bda.jpg
+13511,8d50a2bd-0e09-4675-9c89-198b6e8756f7,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8d50a2bd-0e09-4675-9c89-198b6e8756f7.jpg
+3431,35d5dba1-22ee-4f68-b28f-bd16ae96ae00,"[[164.0, 189.0, 452.0, 809.0], [580.0, 182.0, 853.0, 861.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/35d5dba1-22ee-4f68-b28f-bd16ae96ae00.jpg
+16844,aa4a3a96-38d8-4b4a-82ba-670d17a6bb4c,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/aa4a3a96-38d8-4b4a-82ba-670d17a6bb4c.jpg
+1584,1651bc42-0024-445d-862a-55a35c04b954,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/1651bc42-0024-445d-862a-55a35c04b954.jpg
+7811,5bf4d8ea-3522-4c98-85fa-65e099ea09df,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5bf4d8ea-3522-4c98-85fa-65e099ea09df.jpg
+15962,a2e38131-f394-4146-a2ed-0054a9446b7e,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/a2e38131-f394-4146-a2ed-0054a9446b7e.jpg
+9314,68afbac1-86dc-4ff1-be69-f936a9dfe342,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/68afbac1-86dc-4ff1-be69-f936a9dfe342.jpg
+14942,99d72abd-78dd-4a09-8f9f-d07478196760,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/99d72abd-78dd-4a09-8f9f-d07478196760.jpg
+22049,d845f759-bc82-40b4-b5b2-594550b728bd,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d845f759-bc82-40b4-b5b2-594550b728bd.jpg
+11131,7802c9a7-66c9-45a2-9005-ba61a5ea588a,"[[354.0, 669.0, 486.0, 748.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/7802c9a7-66c9-45a2-9005-ba61a5ea588a.jpg
+20403,c9b6be50-6b97-493a-a306-e6426fde2d76,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/c9b6be50-6b97-493a-a306-e6426fde2d76.jpg
+17715,b1aeb5fe-529c-456b-905d-e7c0f37b072c,"[[599.0, 542.0, 733.0, 739.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/b1aeb5fe-529c-456b-905d-e7c0f37b072c.jpg
+8795,646f59a0-eaf9-4c33-aebc-811da54a29b8,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/646f59a0-eaf9-4c33-aebc-811da54a29b8.jpg
+15607,9fc1c3e2-9648-4795-862d-b3130c8c2614,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/9fc1c3e2-9648-4795-862d-b3130c8c2614.jpg
+19822,c4c9ee97-c402-4483-b4bf-ba65de83b4b1,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/c4c9ee97-c402-4483-b4bf-ba65de83b4b1.jpg
+5244,4571ba1f-131f-47d6-a5c4-a5f1e2fb7b77,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/4571ba1f-131f-47d6-a5c4-a5f1e2fb7b77.jpg
+14235,93b78406-31f3-4cd2-a7be-843fe55b9ce7,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/93b78406-31f3-4cd2-a7be-843fe55b9ce7.jpg
+871,0b202292-a925-4706-963f-28fd16cef0c2,"[[203.0, 78.0, 434.0, 542.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/0b202292-a925-4706-963f-28fd16cef0c2.jpg
+4694,408b3cb3-42e7-44d7-a40c-34d412c3004d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/408b3cb3-42e7-44d7-a40c-34d412c3004d.jpg
+10114,6f102dcc-12ca-4fbf-999b-69ca7db9f0b3,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6f102dcc-12ca-4fbf-999b-69ca7db9f0b3.jpg
+15232,9c7193cd-7ae9-481f-afb2-55e72375d6d0,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/9c7193cd-7ae9-481f-afb2-55e72375d6d0.jpg
+21666,d4e000af-5843-4f76-90b3-0b387d860142,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d4e000af-5843-4f76-90b3-0b387d860142.jpg
+13580,8dd9cf58-1874-4592-b5aa-f5fd962337fd,"[[160.0, 513.0, 379.0, 824.0], [582.0, 335.0, 887.0, 915.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/8dd9cf58-1874-4592-b5aa-f5fd962337fd.jpg
+14052,92146ef9-15ba-48b9-ad5a-893a27c6f484,"[[611.0, 386.0, 835.0, 686.0], [231.0, 334.0, 457.0, 627.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/92146ef9-15ba-48b9-ad5a-893a27c6f484.jpg
+17622,b10433c5-6375-470b-9020-bf97236c6680,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/b10433c5-6375-470b-9020-bf97236c6680.jpg
+5285,45d855aa-f1d7-449d-9d10-ed8999f4ad09,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/45d855aa-f1d7-449d-9d10-ed8999f4ad09.jpg
+2488,27e52306-ac01-4326-8ab1-e4e655bbd073,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/27e52306-ac01-4326-8ab1-e4e655bbd073.jpg
+3691,38236bf5-3764-46cc-955b-a55238db74a6,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/38236bf5-3764-46cc-955b-a55238db74a6.jpg
+9141,67128833-fc5c-441a-8467-875a513e0bcf,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/67128833-fc5c-441a-8467-875a513e0bcf.jpg
+18227,b6426ddc-ac86-47f6-a0e8-080561b3b919,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/b6426ddc-ac86-47f6-a0e8-080561b3b919.jpg
+3198,33e4f74e-b8f2-470b-8815-6ee3e94b8590,"[[87.0, 82.0, 417.0, 778.0], [532.0, 95.0, 827.0, 885.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/33e4f74e-b8f2-470b-8815-6ee3e94b8590.jpg
+8816,648d7073-547d-4ce2-b91d-87436e5e7abf,"[[544.0, 155.0, 678.0, 272.0], [175.0, 200.0, 383.0, 612.0], [567.0, 382.0, 756.0, 692.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/648d7073-547d-4ce2-b91d-87436e5e7abf.jpg
+14642,9779f8e2-a2b0-4673-9ff8-4890bc26bd20,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/9779f8e2-a2b0-4673-9ff8-4890bc26bd20.jpg
+2146,1ee4530d-88fc-4509-8470-42514c98b620,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/1ee4530d-88fc-4509-8470-42514c98b620.jpg
+14344,94c389e6-2850-4ce8-994f-11bf91f656e1,"[[169.0, 309.0, 370.0, 508.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/94c389e6-2850-4ce8-994f-11bf91f656e1.jpg
+13415,8c7ec6f4-bacd-4ec6-863c-8f9efe630658,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8c7ec6f4-bacd-4ec6-863c-8f9efe630658.jpg
+20032,c6809e13-a0f0-47ac-8efe-9b16975e3df1,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/c6809e13-a0f0-47ac-8efe-9b16975e3df1.jpg
+3008,3246006e-f323-43c9-a322-4979fdb85f37,"[[295.0, 525.0, 459.0, 676.0], [611.0, 497.0, 799.0, 683.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/3246006e-f323-43c9-a322-4979fdb85f37.jpg
+23977,e8ec602a-9238-4382-8a55-e010520bb3b0,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e8ec602a-9238-4382-8a55-e010520bb3b0.jpg
+14021,91d9f69e-f6da-4f70-b539-7a3133714594,"[[115.0, 204.0, 326.0, 550.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/91d9f69e-f6da-4f70-b539-7a3133714594.jpg
+8556,626adddd-9800-4304-b1f6-1444971946af,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/626adddd-9800-4304-b1f6-1444971946af.jpg
+24424,ec96f3be-e373-43f9-b4a7-e6edbe1f01fa,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ec96f3be-e373-43f9-b4a7-e6edbe1f01fa.jpg
+17639,b128e033-c42f-4f15-ae68-6478c120da86,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/b128e033-c42f-4f15-ae68-6478c120da86.jpg
+17491,aff537ef-bb27-4c87-b297-7fd9a4520442,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/aff537ef-bb27-4c87-b297-7fd9a4520442.jpg
+2008,1b481533-5159-476a-bc44-7dbd81d5ba18,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/1b481533-5159-476a-bc44-7dbd81d5ba18.jpg
+15737,a0f0454e-ad0f-41a6-bd13-56d74e7dcc63,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/a0f0454e-ad0f-41a6-bd13-56d74e7dcc63.jpg
+10015,6e318106-e492-45f7-9393-dd642359f08f,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6e318106-e492-45f7-9393-dd642359f08f.jpg
+25126,f292998b-db97-44de-a3eb-2baf1ac12070,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f292998b-db97-44de-a3eb-2baf1ac12070.jpg
+12594,8522f781-3c10-41c5-860b-dcdfb6746bbd,"[[553.0, 267.0, 818.0, 615.0], [270.0, 176.0, 466.0, 809.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/8522f781-3c10-41c5-860b-dcdfb6746bbd.jpg
+579,08574be9-8e78-4b0c-a317-2dea6ab92d87,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/08574be9-8e78-4b0c-a317-2dea6ab92d87.jpg
+19788,c491d108-2231-4c16-b59a-5c788e81e189,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/c491d108-2231-4c16-b59a-5c788e81e189.jpg
+7876,5c6dc974-9fc3-4dc2-af82-97ef1971ea3e,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5c6dc974-9fc3-4dc2-af82-97ef1971ea3e.jpg
+11441,7ab298fd-548d-493d-8032-103f13d0da8f,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/7ab298fd-548d-493d-8032-103f13d0da8f.jpg
+20241,c85b9c42-4ef9-4af9-899a-8c5707c0f102,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/c85b9c42-4ef9-4af9-899a-8c5707c0f102.jpg
+7767,5b90be72-a9c4-4a0e-99fd-c02c6575fc29,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5b90be72-a9c4-4a0e-99fd-c02c6575fc29.jpg
+14819,98eca0bb-08a1-4063-beb0-0b35819e93b2,"[[297.0, 436.0, 456.0, 762.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/98eca0bb-08a1-4063-beb0-0b35819e93b2.jpg
+21043,cf325673-d513-41e7-99de-2d3573e782b4,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/cf325673-d513-41e7-99de-2d3573e782b4.jpg
+13382,8c37cf0b-8663-4b20-9c89-2b452d8863c8,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8c37cf0b-8663-4b20-9c89-2b452d8863c8.jpg
+6952,54439b0a-2842-4070-abc5-716f9f341787,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/54439b0a-2842-4070-abc5-716f9f341787.jpg
+10385,71641993-53d7-4039-afd0-918e10567d2c,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/71641993-53d7-4039-afd0-918e10567d2c.jpg
+23150,e1f97b99-23fc-4fb8-a960-b9e26f2920a7,"[[259.0, 378.0, 366.0, 632.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/e1f97b99-23fc-4fb8-a960-b9e26f2920a7.jpg
+16219,a4f21b57-ade8-4336-9b5d-15e5223c59bc,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/a4f21b57-ade8-4336-9b5d-15e5223c59bc.jpg
+20611,cb85b732-7abe-42b6-843e-c6884a619361,"[[248.0, 339.0, 488.0, 626.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/cb85b732-7abe-42b6-843e-c6884a619361.jpg
+19419,c1098ce4-cb15-41c6-ba39-1fa511b82100,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/c1098ce4-cb15-41c6-ba39-1fa511b82100.jpg
+26621,ff7e4f5e-9895-43c6-bb13-8a482c5a0c27,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ff7e4f5e-9895-43c6-bb13-8a482c5a0c27.jpg
+2786,2f1c6087-6bc6-41c9-8433-c55203f72963,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/2f1c6087-6bc6-41c9-8433-c55203f72963.jpg
+21144,d027bd6f-d87f-48f3-a2e1-34e7fcba593f,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d027bd6f-d87f-48f3-a2e1-34e7fcba593f.jpg
+20189,c7e641a6-a80b-4314-961d-d63e4a54d5bc,"[[569.0, 342.0, 855.0, 571.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/c7e641a6-a80b-4314-961d-d63e4a54d5bc.jpg
+19944,c5c7b71d-8844-4abd-9286-3967a3fe138a,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/c5c7b71d-8844-4abd-9286-3967a3fe138a.jpg
+21204,d0b2d5c0-e578-4520-b3e5-da57e93498e2,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d0b2d5c0-e578-4520-b3e5-da57e93498e2.jpg
+778,0a2f6cf6-1f45-44c8-bcf0-98a3b466b597,"[[561.0, 257.0, 833.0, 696.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/0a2f6cf6-1f45-44c8-bcf0-98a3b466b597.jpg
+25398,f5107d16-3da1-4258-8d9a-02e45c3c0d00,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f5107d16-3da1-4258-8d9a-02e45c3c0d00.jpg
+5792,4a2c6a7f-6a4d-4c3a-ab8b-ad83795f136a,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/4a2c6a7f-6a4d-4c3a-ab8b-ad83795f136a.jpg
+13330,8bb961eb-7baa-4bcc-b92b-bce2538f7cf6,"[[49.0, 270.0, 367.0, 844.0], [453.0, 255.0, 826.0, 828.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/8bb961eb-7baa-4bcc-b92b-bce2538f7cf6.jpg
+8239,5f9d676f-13bd-4c0c-8727-14804220f54f,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5f9d676f-13bd-4c0c-8727-14804220f54f.jpg
+19423,c110e1ed-fb28-4b3d-b450-e370f13d4293,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/c110e1ed-fb28-4b3d-b450-e370f13d4293.jpg
+20683,cc1fb26e-b016-4f4a-b91a-46e3ec715dac,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/cc1fb26e-b016-4f4a-b91a-46e3ec715dac.jpg
+1460,15697b54-5aa8-413f-8bc0-12d790340fff,"[[256.0, 426.0, 446.0, 575.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/15697b54-5aa8-413f-8bc0-12d790340fff.jpg
+4064,3b266180-6af2-4859-9576-17fd9ab9fff1,"[[548.0, 197.0, 853.0, 815.0], [102.0, 192.0, 419.0, 779.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/3b266180-6af2-4859-9576-17fd9ab9fff1.jpg
+26200,fbed0d04-0a3a-4533-9423-c2988ca3f599,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/fbed0d04-0a3a-4533-9423-c2988ca3f599.jpg
+9711,6bc20130-f64f-4b9c-836a-e3f339d36254,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6bc20130-f64f-4b9c-836a-e3f339d36254.jpg
+14576,96eb8a3f-3a19-411b-8e77-e1469391e867,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/96eb8a3f-3a19-411b-8e77-e1469391e867.jpg
+8979,65e2146c-7f83-4206-b996-0ee955b6f825,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/65e2146c-7f83-4206-b996-0ee955b6f825.jpg
+3616,378cab1a-12c4-4b24-a4f0-35f1d8eb8edc,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/378cab1a-12c4-4b24-a4f0-35f1d8eb8edc.jpg
+11355,79e1733a-4ee9-493b-ab73-142e47f1e9ff,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/79e1733a-4ee9-493b-ab73-142e47f1e9ff.jpg
+9575,6ab0559b-24d5-44d4-a8c8-e03bdce9c88b,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6ab0559b-24d5-44d4-a8c8-e03bdce9c88b.jpg
+10196,6fcf6a3a-dd47-4a67-9bea-c670f1d94acc,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6fcf6a3a-dd47-4a67-9bea-c670f1d94acc.jpg
+19100,bdaae3df-8dd8-4216-8ad1-7593934b4856,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/bdaae3df-8dd8-4216-8ad1-7593934b4856.jpg
+1387,13f9e2d3-1288-46f8-86da-f19e69bbacf7,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/13f9e2d3-1288-46f8-86da-f19e69bbacf7.jpg
+1870,18eaf030-7dd3-44aa-9869-c9a552c86cd9,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/18eaf030-7dd3-44aa-9869-c9a552c86cd9.jpg
+7307,576a7e67-815c-47fd-a603-fcdab510ac78,"[[678.0, 253.0, 930.0, 705.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/576a7e67-815c-47fd-a603-fcdab510ac78.jpg
+1157,0e91afec-c246-450b-9f10-e07a75ae0086,"[[216.0, 530.0, 355.0, 811.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/0e91afec-c246-450b-9f10-e07a75ae0086.jpg
+12048,7fdfc8f8-9505-4390-a520-e948c22aa4d7,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/7fdfc8f8-9505-4390-a520-e948c22aa4d7.jpg
+24156,ea69d57e-6d9e-406a-8d7c-544b54954dff,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ea69d57e-6d9e-406a-8d7c-544b54954dff.jpg
+20233,c8463dfe-4d56-45b5-ad45-4c1236a55633,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/c8463dfe-4d56-45b5-ad45-4c1236a55633.jpg
+16231,a5122049-489e-4c01-b8f3-2de734058d2a,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/a5122049-489e-4c01-b8f3-2de734058d2a.jpg
+22303,da8f90a0-061b-4129-ab92-f2b5cc9f6d0d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/da8f90a0-061b-4129-ab92-f2b5cc9f6d0d.jpg
+18191,b5f4a26a-9d4f-44fc-9040-c4f0b9b75743,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/b5f4a26a-9d4f-44fc-9040-c4f0b9b75743.jpg
+14789,98ba42a5-8d3b-429c-8b79-5804271519d1,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/98ba42a5-8d3b-429c-8b79-5804271519d1.jpg
+8451,61748ddb-0aa2-486b-9d35-e778e8d01795,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/61748ddb-0aa2-486b-9d35-e778e8d01795.jpg
+7990,5d7db043-8815-455f-b5ce-bfe012697057,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5d7db043-8815-455f-b5ce-bfe012697057.jpg
+21318,d1b1cb65-3e98-4eae-a0fa-be65653d3dbd,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d1b1cb65-3e98-4eae-a0fa-be65653d3dbd.jpg
+1785,182d2f6f-1cf5-42a9-a178-9ae0786c9236,"[[582.0, 366.0, 829.0, 713.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/182d2f6f-1cf5-42a9-a178-9ae0786c9236.jpg
+9296,688315e5-6846-488a-90de-6ac0655149a4,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/688315e5-6846-488a-90de-6ac0655149a4.jpg
+8858,64e95a64-bae0-4c93-a4d6-3735e8c473c9,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/64e95a64-bae0-4c93-a4d6-3735e8c473c9.jpg
+12596,852a3e14-dd80-4965-847c-913e49c53239,"[[604.0, 584.0, 824.0, 839.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/852a3e14-dd80-4965-847c-913e49c53239.jpg
+12020,7f99c12d-5a9b-4d3c-b314-9f76ca17383c,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/7f99c12d-5a9b-4d3c-b314-9f76ca17383c.jpg
+4557,3f702d6d-d83b-4fb6-8078-84c586652373,"[[315.0, 83.0, 524.0, 647.0], [637.0, 82.0, 867.0, 707.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/3f702d6d-d83b-4fb6-8078-84c586652373.jpg
+15535,9f32b6af-9111-4682-81c1-ac02893d70cc,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/9f32b6af-9111-4682-81c1-ac02893d70cc.jpg
+12688,86054053-e1e2-4fa9-85b7-0ba7a6708afb,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/86054053-e1e2-4fa9-85b7-0ba7a6708afb.jpg
+5960,4b9aa1da-6bba-4897-8d46-2f6d119ddc77,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/4b9aa1da-6bba-4897-8d46-2f6d119ddc77.jpg
+14029,91e1a785-38cf-426d-a735-91c019aa2c09,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/91e1a785-38cf-426d-a735-91c019aa2c09.jpg
+20581,cb3b72b0-408d-45ab-9985-3d40a4a12626,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/cb3b72b0-408d-45ab-9985-3d40a4a12626.jpg
+19508,c24c74a0-b008-409f-b9d4-381f1dfaac6b,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/c24c74a0-b008-409f-b9d4-381f1dfaac6b.jpg
+6055,4c718128-9926-4a00-8eb7-8811abebf4e4,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/4c718128-9926-4a00-8eb7-8811abebf4e4.jpg
+4527,3f283405-31fa-4865-acbc-0be1e297546d,"[[307.0, 429.0, 464.0, 603.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/3f283405-31fa-4865-acbc-0be1e297546d.jpg
+9506,6a3cc523-6894-44ea-a803-1288c91a6e22,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6a3cc523-6894-44ea-a803-1288c91a6e22.jpg
+23868,e7ece924-978e-4d9b-aa51-880dbe26f155,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e7ece924-978e-4d9b-aa51-880dbe26f155.jpg
+20448,ca188066-2e01-4ca4-8741-5d85b564e7d4,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ca188066-2e01-4ca4-8741-5d85b564e7d4.jpg
+17053,ac2257b8-e600-42bd-ab9c-951fa49b3ec6,"[[136.0, 119.0, 482.0, 736.0], [615.0, 90.0, 903.0, 778.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/ac2257b8-e600-42bd-ab9c-951fa49b3ec6.jpg
+14245,93d68340-b862-4e91-9c6c-46f2b0cba3fd,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/93d68340-b862-4e91-9c6c-46f2b0cba3fd.jpg
+604,0892a3a9-1345-42b3-8412-b930fd9066e5,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/0892a3a9-1345-42b3-8412-b930fd9066e5.jpg
+11743,7d4755ce-3045-48ee-8ba8-638f62788e3a,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/7d4755ce-3045-48ee-8ba8-638f62788e3a.jpg
+9816,6c8b04c6-2a65-4c64-bae0-7c8417232ac4,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6c8b04c6-2a65-4c64-bae0-7c8417232ac4.jpg
+22137,d92599fd-687c-4f1a-b9be-5dc0852c0f2b,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d92599fd-687c-4f1a-b9be-5dc0852c0f2b.jpg
+14076,9261e06c-e2c9-4f3f-827f-ef9f9cb369b0,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/9261e06c-e2c9-4f3f-827f-ef9f9cb369b0.jpg
+16590,a80b222b-23dd-4e68-a2f6-323511051d35,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/a80b222b-23dd-4e68-a2f6-323511051d35.jpg
+11783,7daf64b4-4d63-4407-b7a1-6d6d72c727e8,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/7daf64b4-4d63-4407-b7a1-6d6d72c727e8.jpg
+16033,a37dc7a9-8b22-461b-99d2-c77109da8220,"[[619.0, 617.0, 866.0, 926.0], [190.0, 706.0, 429.0, 981.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/a37dc7a9-8b22-461b-99d2-c77109da8220.jpg
+25229,f37885af-d611-402f-a662-7e9d6deb5bbb,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f37885af-d611-402f-a662-7e9d6deb5bbb.jpg
+8036,5ddc52ee-6bab-4bba-b5e4-18f24fac08b9,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5ddc52ee-6bab-4bba-b5e4-18f24fac08b9.jpg
+23551,e5506d2b-237a-4ce1-b399-884073bd94ba,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e5506d2b-237a-4ce1-b399-884073bd94ba.jpg
+21189,d094558c-2614-4d0b-b142-a9de0864f572,"[[110.0, 249.0, 511.0, 809.0], [568.0, 228.0, 873.0, 845.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/d094558c-2614-4d0b-b142-a9de0864f572.jpg
+22432,dbae367d-1e32-46bf-b997-7601e7fa07d7,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/dbae367d-1e32-46bf-b997-7601e7fa07d7.jpg
+12346,82a15b7d-7443-4a73-9ddf-8cf6dd6d00ce,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/82a15b7d-7443-4a73-9ddf-8cf6dd6d00ce.jpg
+12907,8807c9e0-9c85-44fd-9804-9cee8d50aceb,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8807c9e0-9c85-44fd-9804-9cee8d50aceb.jpg
+573,084aa98a-91aa-45d8-aa52-4fad8344b0bf,"[[688.0, 344.0, 942.0, 826.0], [311.0, 441.0, 554.0, 775.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/084aa98a-91aa-45d8-aa52-4fad8344b0bf.jpg
+8683,636c69a8-5df4-43a5-b723-fd6372cf7f89,"[[633.0, 374.0, 761.0, 552.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/636c69a8-5df4-43a5-b723-fd6372cf7f89.jpg
+26393,fd9724ff-08e0-4732-be2c-f3e9bc94ccfe,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/fd9724ff-08e0-4732-be2c-f3e9bc94ccfe.jpg
+6859,5388b543-b3cc-4d17-b620-e9defedd7715,"[[195.0, 284.0, 410.0, 615.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/5388b543-b3cc-4d17-b620-e9defedd7715.jpg
+16726,a936ffb3-f98a-474b-b319-a87b0baa63f1,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/a936ffb3-f98a-474b-b319-a87b0baa63f1.jpg
+6084,4cb68d48-e377-4079-a094-2b863723204f,"[[591.0, 301.0, 825.0, 749.0], [255.0, 316.0, 480.0, 691.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/4cb68d48-e377-4079-a094-2b863723204f.jpg
+24592,edfab0d2-53e7-4124-846b-ab531dd2ce80,"[[729.0, 347.0, 909.0, 900.0], [313.0, 316.0, 543.0, 831.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/edfab0d2-53e7-4124-846b-ab531dd2ce80.jpg
+6389,4f71fa14-67f7-4985-8f06-b8480416790f,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/4f71fa14-67f7-4985-8f06-b8480416790f.jpg
+5449,4721a511-43ae-4f06-99f6-724174a6da03,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/4721a511-43ae-4f06-99f6-724174a6da03.jpg
+10878,75a91833-89f4-4c05-8661-393ec6bcabae,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/75a91833-89f4-4c05-8661-393ec6bcabae.jpg
+10892,75c72408-0029-41d0-aead-df5ba2cbfbe6,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/75c72408-0029-41d0-aead-df5ba2cbfbe6.jpg
+12961,887f9d66-dc43-4b65-ad31-61f935b9effc,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/887f9d66-dc43-4b65-ad31-61f935b9effc.jpg
+11810,7deab1f8-2471-4603-912b-8ba96bac49f4,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/7deab1f8-2471-4603-912b-8ba96bac49f4.jpg
+5916,4b465daf-f77c-4daf-b70f-2e312a1e6951,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/4b465daf-f77c-4daf-b70f-2e312a1e6951.jpg
+21959,d75b355b-5d62-4d34-96d9-0b012727f703,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d75b355b-5d62-4d34-96d9-0b012727f703.jpg
+22635,dd922253-21a0-40df-8e03-febb6dc20d2e,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/dd922253-21a0-40df-8e03-febb6dc20d2e.jpg
+12616,855262ba-9cf0-4b86-bae5-c7034b457d7e,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/855262ba-9cf0-4b86-bae5-c7034b457d7e.jpg
+6008,4c0f55b1-26d8-4313-82e9-660b87cd724d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/4c0f55b1-26d8-4313-82e9-660b87cd724d.jpg
+21912,d708e149-2e56-4e96-9214-f7e4f758621d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d708e149-2e56-4e96-9214-f7e4f758621d.jpg
+9188,678461d0-6228-4da1-a4de-70744fbbf6e6,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/678461d0-6228-4da1-a4de-70744fbbf6e6.jpg
+24620,ee48da1b-9ce9-4f57-90eb-5c131c285e84,"[[144.0, 486.0, 372.0, 726.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/ee48da1b-9ce9-4f57-90eb-5c131c285e84.jpg
+8524,622c4de6-1619-4f3f-8117-84ec61e76346,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/622c4de6-1619-4f3f-8117-84ec61e76346.jpg
+24288,eb8ef9d5-adbc-40b9-b1a7-4d652eb95e27,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/eb8ef9d5-adbc-40b9-b1a7-4d652eb95e27.jpg
+6133,4d471a9a-1dee-4166-a13c-2fb4d01f3d9b,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/4d471a9a-1dee-4166-a13c-2fb4d01f3d9b.jpg
+16645,a8871908-bd16-4349-8662-36827a88736b,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/a8871908-bd16-4349-8662-36827a88736b.jpg
+1418,14b2868e-e0fc-40f2-a54e-609bf24da493,"[[108.0, 466.0, 361.0, 585.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/14b2868e-e0fc-40f2-a54e-609bf24da493.jpg
+4616,3fff0799-2364-415a-a5c4-7e16ec74a9d9,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/3fff0799-2364-415a-a5c4-7e16ec74a9d9.jpg
+5914,4b42e5ba-47c2-44dc-9ebe-9c43d4ace958,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/4b42e5ba-47c2-44dc-9ebe-9c43d4ace958.jpg
+19215,beb160c4-a39e-47fc-a936-681defb53e43,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/beb160c4-a39e-47fc-a936-681defb53e43.jpg
+9647,6b389074-37b0-4471-a9bd-c6ebe95d9683,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6b389074-37b0-4471-a9bd-c6ebe95d9683.jpg
+15217,9c48a4fc-de51-4ec0-a6e8-24995708ce92,"[[521.0, 662.0, 786.0, 928.0], [103.0, 623.0, 340.0, 951.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/9c48a4fc-de51-4ec0-a6e8-24995708ce92.jpg
+4336,3d63f3f8-08cb-4c56-9f03-c634b705c23f,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/3d63f3f8-08cb-4c56-9f03-c634b705c23f.jpg
+13777,8f8e1dc5-bbc9-40ef-a735-c1f1cf71138a,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8f8e1dc5-bbc9-40ef-a735-c1f1cf71138a.jpg
+324,061628a9-8a6d-4e01-8f26-b7a6cca2b13d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/061628a9-8a6d-4e01-8f26-b7a6cca2b13d.jpg
+23726,e6a3f420-39d4-4042-8485-87024e7fb4f3,"[[230.0, 659.0, 430.0, 775.0], [718.0, 590.0, 850.0, 787.0], [338.0, 204.0, 478.0, 375.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/e6a3f420-39d4-4042-8485-87024e7fb4f3.jpg
+25545,f650ee02-3a03-4da0-8fd9-12f1ffae35b4,"[[340.0, 232.0, 528.0, 586.0], [761.0, 395.0, 900.0, 643.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/f650ee02-3a03-4da0-8fd9-12f1ffae35b4.jpg
+12840,876b162e-2997-43a6-9ac2-99ee6f3077a4,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/876b162e-2997-43a6-9ac2-99ee6f3077a4.jpg
+15395,9e12645e-b4b3-44c5-907a-d61537942c66,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/9e12645e-b4b3-44c5-907a-d61537942c66.jpg
+22590,dd3b5e52-b682-4b16-b7ba-bfcc66dc5992,"[[227.0, 474.0, 420.0, 712.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/dd3b5e52-b682-4b16-b7ba-bfcc66dc5992.jpg
+4538,3f366853-1520-4fcf-a424-f8820a1393df,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/3f366853-1520-4fcf-a424-f8820a1393df.jpg
+14513,964a7f12-5f17-4250-aa48-ecbe33d5409d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/964a7f12-5f17-4250-aa48-ecbe33d5409d.jpg
+1641,16f2213e-4b37-4e9b-a875-2264999a2a86,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/16f2213e-4b37-4e9b-a875-2264999a2a86.jpg
+2748,2e497e99-5aec-4290-bf40-0bb9041973dd,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/2e497e99-5aec-4290-bf40-0bb9041973dd.jpg
+10363,7145fbf3-42b0-4611-a670-c207b9042a67,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/7145fbf3-42b0-4611-a670-c207b9042a67.jpg
+6817,53307192-eab1-43cb-afd3-5fc380763796,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/53307192-eab1-43cb-afd3-5fc380763796.jpg
+6045,4c665597-adbc-4583-9d9a-20cc0d8d00d0,"[[553.0, 391.0, 851.0, 913.0], [155.0, 417.0, 404.0, 835.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/4c665597-adbc-4583-9d9a-20cc0d8d00d0.jpg
+8633,6311a36c-50e4-49ae-b414-d2a84835f4c6,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6311a36c-50e4-49ae-b414-d2a84835f4c6.jpg
+12385,830f3bd1-2fdd-4823-9672-d864680db6f1,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/830f3bd1-2fdd-4823-9672-d864680db6f1.jpg
+10703,742982a9-4433-4e6e-b559-be10e0ee5209,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/742982a9-4433-4e6e-b559-be10e0ee5209.jpg
+15368,9ddb317f-89c1-4c45-8c04-96fba95a0f89,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/9ddb317f-89c1-4c45-8c04-96fba95a0f89.jpg
+13188,8a8be155-755a-48f9-a4aa-f1fd0e1e263b,"[[714.0, 42.0, 958.0, 462.0], [185.0, 23.0, 480.0, 397.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/8a8be155-755a-48f9-a4aa-f1fd0e1e263b.jpg
+18405,b7e7c35c-3253-42d6-807c-7ad291074368,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/b7e7c35c-3253-42d6-807c-7ad291074368.jpg
+26169,fbbd3b4b-eab1-4bc2-b588-4caf9420d34f,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/fbbd3b4b-eab1-4bc2-b588-4caf9420d34f.jpg
+20149,c79445dd-b47d-4576-80f4-ad6f868ca5a1,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/c79445dd-b47d-4576-80f4-ad6f868ca5a1.jpg
+4037,3ae849f7-9df9-4a5c-843f-7539837fadb6,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/3ae849f7-9df9-4a5c-843f-7539837fadb6.jpg
+17896,b364396e-eb60-471b-9065-1eac897e5d69,"[[242.0, 184.0, 425.0, 387.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/b364396e-eb60-471b-9065-1eac897e5d69.jpg
+20682,cc1cefc7-0cb1-4ff1-af66-2bd8e8dd5d57,"[[293.0, 580.0, 549.0, 833.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/cc1cefc7-0cb1-4ff1-af66-2bd8e8dd5d57.jpg
+18148,b58b5574-d66b-4b28-8ca3-137768b44c84,"[[174.0, 545.0, 366.0, 716.0], [626.0, 409.0, 860.0, 627.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/b58b5574-d66b-4b28-8ca3-137768b44c84.jpg
+5127,448c6151-2bb5-4df3-b07e-7f86f3a5737a,"[[246.0, 386.0, 474.0, 786.0], [536.0, 327.0, 847.0, 800.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/448c6151-2bb5-4df3-b07e-7f86f3a5737a.jpg
+21890,d6ec5711-f4f6-4548-8ea5-b002ecc19423,"[[135.0, 498.0, 333.0, 691.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/d6ec5711-f4f6-4548-8ea5-b002ecc19423.jpg
+8424,612de393-7238-4bcd-b45f-04feae29b257,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/612de393-7238-4bcd-b45f-04feae29b257.jpg
+11330,79a4bcb4-885f-4220-b640-cc5b47457284,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/79a4bcb4-885f-4220-b640-cc5b47457284.jpg
+18024,b47667ed-c87d-4fa6-924f-4f8383a26417,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/b47667ed-c87d-4fa6-924f-4f8383a26417.jpg
+18789,bb1548e0-0d9f-42de-bd43-627c90259a8b,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/bb1548e0-0d9f-42de-bd43-627c90259a8b.jpg
+26362,fd5cc454-f85b-464d-a04f-09d46a86d200,"[[325.0, 277.0, 535.0, 612.0], [770.0, 366.0, 971.0, 645.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/fd5cc454-f85b-464d-a04f-09d46a86d200.jpg
+25259,f3cad617-4b5e-46df-ba12-a0d2f434468f,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f3cad617-4b5e-46df-ba12-a0d2f434468f.jpg
+15589,9fa14682-ad76-4df6-80a6-aa623e59ff4c,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/9fa14682-ad76-4df6-80a6-aa623e59ff4c.jpg
+2371,24ef2877-64ae-4c8a-acb5-6e1c302dc7d2,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/24ef2877-64ae-4c8a-acb5-6e1c302dc7d2.jpg
+12886,87dca9bf-d357-4e97-9c17-3d4e4bd8d130,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/87dca9bf-d357-4e97-9c17-3d4e4bd8d130.jpg
+14154,932016bb-fe05-4527-86d9-5f8e93a3d54d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/932016bb-fe05-4527-86d9-5f8e93a3d54d.jpg
+22973,e06eaaf2-5ed3-4e68-ab64-208f93a1097d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e06eaaf2-5ed3-4e68-ab64-208f93a1097d.jpg
+13655,8e86a7e8-18dd-4fd4-ab3f-2ebed9a97150,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8e86a7e8-18dd-4fd4-ab3f-2ebed9a97150.jpg
+4043,3af08ed2-1f93-4a0f-bfaa-f62ef0548177,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/3af08ed2-1f93-4a0f-bfaa-f62ef0548177.jpg
+16154,a47c09af-6f13-4057-a0e6-6e1f422b584d,"[[605.0, 284.0, 874.0, 646.0], [239.0, 509.0, 481.0, 762.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/a47c09af-6f13-4057-a0e6-6e1f422b584d.jpg
+15495,9ee2b533-9bd1-461d-acbc-ac74aa13818b,"[[568.0, 381.0, 838.0, 703.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/9ee2b533-9bd1-461d-acbc-ac74aa13818b.jpg
+11427,7a8c7174-87e5-454a-9c2e-c79c99fd74e8,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/7a8c7174-87e5-454a-9c2e-c79c99fd74e8.jpg
+9565,6a9eeb3f-54e8-4acc-b30a-026684451e62,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6a9eeb3f-54e8-4acc-b30a-026684451e62.jpg
+4672,405fc22f-ea3f-481e-bb8e-b6b75ce9b916,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/405fc22f-ea3f-481e-bb8e-b6b75ce9b916.jpg
+9187,677ffeed-5208-44d2-a43f-cbe64b7a5cc7,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/677ffeed-5208-44d2-a43f-cbe64b7a5cc7.jpg
+3745,3892a267-e293-471a-b15f-ba5d2e453f64,"[[577.0, 160.0, 848.0, 742.0], [183.0, 147.0, 470.0, 713.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/3892a267-e293-471a-b15f-ba5d2e453f64.jpg
+25914,f99c02a3-1731-4d3b-80c2-fc0cf713787e,"[[664.0, 236.0, 888.0, 642.0], [247.0, 199.0, 478.0, 592.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/f99c02a3-1731-4d3b-80c2-fc0cf713787e.jpg
+14903,998e3a78-6d50-43e2-af5c-56a1b747092b,"[[635.0, 293.0, 850.0, 833.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/998e3a78-6d50-43e2-af5c-56a1b747092b.jpg
+20948,ce6385e6-88c6-432a-b32f-c7018795bc32,"[[565.0, 238.0, 866.0, 705.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/ce6385e6-88c6-432a-b32f-c7018795bc32.jpg
+14209,9388011e-2250-40d3-be0e-39bc418d984b,"[[622.0, 583.0, 826.0, 995.0], [194.0, 536.0, 488.0, 944.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/9388011e-2250-40d3-be0e-39bc418d984b.jpg
+25602,f6cfde90-10de-4584-aed1-2a0ef8238b11,"[[631.0, 313.0, 818.0, 789.0], [211.0, 201.0, 442.0, 647.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/f6cfde90-10de-4584-aed1-2a0ef8238b11.jpg
+1351,12f43927-7592-404e-87c7-4027e114e7ff,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/12f43927-7592-404e-87c7-4027e114e7ff.jpg
+12589,8516af33-0c73-4a81-aed2-c722e15cdd46,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8516af33-0c73-4a81-aed2-c722e15cdd46.jpg
+12211,815dd1c1-3e01-4038-9723-39d05e8b3cd3,"[[251.0, 406.0, 500.0, 687.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/815dd1c1-3e01-4038-9723-39d05e8b3cd3.jpg
+406,06d3f696-82ea-4c71-b162-f18b3e0eeeac,"[[116.0, 504.0, 335.0, 776.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/06d3f696-82ea-4c71-b162-f18b3e0eeeac.jpg
+9244,680297ea-1afd-40e5-b2cd-5a7d56a27024,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/680297ea-1afd-40e5-b2cd-5a7d56a27024.jpg
+24899,f0ba0019-718f-4677-a723-05c27dba2f3e,"[[681.0, 446.0, 824.0, 602.0], [263.0, 629.0, 416.0, 776.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/f0ba0019-718f-4677-a723-05c27dba2f3e.jpg
+13637,8e5eaf47-0e0d-4ef1-a02d-6b7526ca5820,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8e5eaf47-0e0d-4ef1-a02d-6b7526ca5820.jpg
+24863,f05f4e3f-443a-4f89-8334-31735a43d84e,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f05f4e3f-443a-4f89-8334-31735a43d84e.jpg
+5745,49c6d263-2d57-435f-a75c-1dd20f0bf4cf,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/49c6d263-2d57-435f-a75c-1dd20f0bf4cf.jpg
+14487,960b5087-3abf-4a92-819d-c72dceae1d2b,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/960b5087-3abf-4a92-819d-c72dceae1d2b.jpg
+26640,ffa141d4-00d8-4df5-86e0-b6f37dd8f3b1,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ffa141d4-00d8-4df5-86e0-b6f37dd8f3b1.jpg
+7473,58cf20bd-7e42-4be4-8599-d37c819bfd82,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/58cf20bd-7e42-4be4-8599-d37c819bfd82.jpg
+13932,90fe31b9-28ea-4e44-8fad-43e5997d2885,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/90fe31b9-28ea-4e44-8fad-43e5997d2885.jpg
+9298,688a3275-9225-4e2e-b719-0c754d6b222b,"[[661.0, 493.0, 792.0, 604.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/688a3275-9225-4e2e-b719-0c754d6b222b.jpg
+11614,7c1f9c46-0125-4590-aa9a-700c89f634f8,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/7c1f9c46-0125-4590-aa9a-700c89f634f8.jpg
+2074,1cc1ad56-7cf5-464c-994f-ff10d880ded9,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/1cc1ad56-7cf5-464c-994f-ff10d880ded9.jpg
+16536,a797f1b9-aa61-4ee3-91f2-e8a823d42b1a,"[[163.0, 149.0, 427.0, 842.0], [551.0, 159.0, 828.0, 909.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/a797f1b9-aa61-4ee3-91f2-e8a823d42b1a.jpg
+1990,1ae12f84-02bb-426f-84b1-81a6c552ce4e,"[[239.0, 275.0, 387.0, 431.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/1ae12f84-02bb-426f-84b1-81a6c552ce4e.jpg
+24272,eb67aa12-22e7-4c47-b70d-729373418d04,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/eb67aa12-22e7-4c47-b70d-729373418d04.jpg
+1143,0e486937-8c3d-4d75-9df9-90c7fb5756e4,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/0e486937-8c3d-4d75-9df9-90c7fb5756e4.jpg
+20465,ca395500-068f-49c3-9333-579dfe6c92c2,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ca395500-068f-49c3-9333-579dfe6c92c2.jpg
+5235,455f89b9-3245-4c41-87e1-a867ff4622fa,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/455f89b9-3245-4c41-87e1-a867ff4622fa.jpg
+21404,d2674ad0-85b6-4c0c-ab28-366cce7c4471,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d2674ad0-85b6-4c0c-ab28-366cce7c4471.jpg
+4884,422a80bd-803d-4e31-9911-9bbadae3c1f9,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/422a80bd-803d-4e31-9911-9bbadae3c1f9.jpg
+11982,7f5b9640-bd17-41d8-afb6-57f02684ef19,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/7f5b9640-bd17-41d8-afb6-57f02684ef19.jpg
+14434,95a13ee2-7f2c-4017-972a-72287be9fd2a,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/95a13ee2-7f2c-4017-972a-72287be9fd2a.jpg
+18688,ba560799-4c34-456a-8968-1e4a0cc98c46,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ba560799-4c34-456a-8968-1e4a0cc98c46.jpg
+13417,8c80ee20-1e1e-400f-b727-9cfd07213c13,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8c80ee20-1e1e-400f-b727-9cfd07213c13.jpg
+26293,fcbaa64a-0e89-4216-8edc-b6f0881c6a55,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/fcbaa64a-0e89-4216-8edc-b6f0881c6a55.jpg
+18944,bc6dd946-0b3f-445f-8d78-3cc39a0b14ae,"[[615.0, 341.0, 838.0, 569.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/bc6dd946-0b3f-445f-8d78-3cc39a0b14ae.jpg
+20767,ccd2d3ca-cd9e-4ed1-a4ea-e3989c590e4d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ccd2d3ca-cd9e-4ed1-a4ea-e3989c590e4d.jpg
+23787,e72f5e8a-dabe-49f9-8924-987f292e6639,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e72f5e8a-dabe-49f9-8924-987f292e6639.jpg
+14844,99172893-0d7e-42f1-a388-0030a7706b0e,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/99172893-0d7e-42f1-a388-0030a7706b0e.jpg
+24061,e9af92f0-49af-41d8-84ff-35f89293484f,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e9af92f0-49af-41d8-84ff-35f89293484f.jpg
+16899,aabdd5a1-1880-4f5b-81be-ecf8f426a077,"[[545.0, 669.0, 799.0, 917.0], [99.0, 710.0, 309.0, 914.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/aabdd5a1-1880-4f5b-81be-ecf8f426a077.jpg
+9142,6712b830-bb81-4536-8145-3ec571b860bf,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6712b830-bb81-4536-8145-3ec571b860bf.jpg
+2955,31ce9f98-f5e5-4893-895d-e2c383e76d95,"[[589.0, 588.0, 828.0, 869.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/31ce9f98-f5e5-4893-895d-e2c383e76d95.jpg
+24831,f01e83de-b63e-4960-878d-338ef339f296,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f01e83de-b63e-4960-878d-338ef339f296.jpg
+13852,903b4f36-a016-4c23-8ac5-c81f9e2129a8,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/903b4f36-a016-4c23-8ac5-c81f9e2129a8.jpg
+15259,9cbd5b98-7ccd-4660-aee1-7467f20a76c9,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/9cbd5b98-7ccd-4660-aee1-7467f20a76c9.jpg
+4701,409cfb1b-aaab-4715-8f96-c6abe19ad561,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/409cfb1b-aaab-4715-8f96-c6abe19ad561.jpg
+17675,b16c19b5-4e46-498a-8cbb-22fb5b3c0124,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/b16c19b5-4e46-498a-8cbb-22fb5b3c0124.jpg
+25476,f5b0cb30-2b64-47f3-a9ad-66eba87fc724,"[[644.0, 277.0, 819.0, 616.0], [234.0, 225.0, 435.0, 612.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/f5b0cb30-2b64-47f3-a9ad-66eba87fc724.jpg
+6856,5382542a-4669-4044-bd7a-9ff2dad7db6b,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5382542a-4669-4044-bd7a-9ff2dad7db6b.jpg
+8053,5e1e25cf-f14a-407d-af53-486d088d7e9f,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5e1e25cf-f14a-407d-af53-486d088d7e9f.jpg
+24967,f146bd0b-415f-45eb-b0c5-16d34a47c486,"[[667.0, 398.0, 841.0, 713.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/f146bd0b-415f-45eb-b0c5-16d34a47c486.jpg
+8808,647aae90-5201-4b8b-8733-835d0bd244c3,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/647aae90-5201-4b8b-8733-835d0bd244c3.jpg
+20786,ccfb60b9-b46d-4963-8a2a-29a200b633f6,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ccfb60b9-b46d-4963-8a2a-29a200b633f6.jpg
+7229,56af1d91-fca6-461a-991b-e153acb22f3f,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/56af1d91-fca6-461a-991b-e153acb22f3f.jpg
+16671,a8caec22-eaf7-4acf-bbb8-fa3cdf4f69d5,"[[297.0, 292.0, 448.0, 615.0], [606.0, 317.0, 812.0, 718.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/a8caec22-eaf7-4acf-bbb8-fa3cdf4f69d5.jpg
+7898,5cb51ae5-e291-40e9-9178-bef26e74979d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5cb51ae5-e291-40e9-9178-bef26e74979d.jpg
+7740,5b46fd5b-d02a-4365-836e-cda3f45eb12c,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5b46fd5b-d02a-4365-836e-cda3f45eb12c.jpg
+24944,f12565af-43de-4bc9-9dba-a8a3e9c8331e,"[[173.0, 541.0, 336.0, 668.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/f12565af-43de-4bc9-9dba-a8a3e9c8331e.jpg
+15539,9f3b98ca-4292-427b-8aa9-0b1c085b1c48,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/9f3b98ca-4292-427b-8aa9-0b1c085b1c48.jpg
+103,01fa0f5e-00c3-41cb-b5c7-10600c8633ae,"[[602.0, 438.0, 703.0, 539.0], [364.0, 419.0, 460.0, 540.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/01fa0f5e-00c3-41cb-b5c7-10600c8633ae.jpg
+19241,beea0aeb-4a7b-47c3-928a-e45f40bcfa53,"[[549.0, 493.0, 727.0, 790.0], [199.0, 416.0, 437.0, 673.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/beea0aeb-4a7b-47c3-928a-e45f40bcfa53.jpg
+13563,8dbaa184-772b-4b74-8983-9cfbd2e92860,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8dbaa184-772b-4b74-8983-9cfbd2e92860.jpg
+23622,e5dbda69-4ffc-4bbe-bec8-95a7d08f80b6,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e5dbda69-4ffc-4bbe-bec8-95a7d08f80b6.jpg
+9014,66256fc2-3f96-48cf-b110-2fddf4229e5e,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/66256fc2-3f96-48cf-b110-2fddf4229e5e.jpg
+26491,fe7f6d2d-9ee1-4e1d-ac8c-bad8d2c4317b,"[[619.0, 202.0, 813.0, 616.0], [260.0, 209.0, 456.0, 493.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/fe7f6d2d-9ee1-4e1d-ac8c-bad8d2c4317b.jpg
+20587,cb510a17-89c1-4fad-9a47-89952abd7aae,"[[110.0, 217.0, 366.0, 700.0], [480.0, 183.0, 789.0, 757.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/cb510a17-89c1-4fad-9a47-89952abd7aae.jpg
+1592,16684018-3675-449d-9a90-8839353c193c,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/16684018-3675-449d-9a90-8839353c193c.jpg
+4992,4346c085-9210-43e2-8435-37653aecbe68,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/4346c085-9210-43e2-8435-37653aecbe68.jpg
+3205,33f64978-7afc-4831-9546-bc93c2c817f3,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/33f64978-7afc-4831-9546-bc93c2c817f3.jpg
+2508,283be94e-ba07-4525-aaf4-3a4b6d884cdc,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/283be94e-ba07-4525-aaf4-3a4b6d884cdc.jpg
+25023,f1bad9a5-f18b-444e-8cd8-949d846b3a5d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f1bad9a5-f18b-444e-8cd8-949d846b3a5d.jpg
+26063,facdd4ed-c4f9-4110-a3d4-5cc3666c4abf,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/facdd4ed-c4f9-4110-a3d4-5cc3666c4abf.jpg
+20552,cb008bee-f96b-4039-b69b-46a7ad8e50c0,"[[724.0, 466.0, 977.0, 731.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/cb008bee-f96b-4039-b69b-46a7ad8e50c0.jpg
+17505,b0081521-3f7e-42af-bd27-b1e908a02b1c,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/b0081521-3f7e-42af-bd27-b1e908a02b1c.jpg
+12128,808919e6-e6ea-424a-8c30-ee840630f6dc,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/808919e6-e6ea-424a-8c30-ee840630f6dc.jpg
+6518,505a5b16-5b8a-42d0-a693-52b20b46a2bf,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/505a5b16-5b8a-42d0-a693-52b20b46a2bf.jpg
+13825,9003952b-5cad-4d28-94e6-2a34a77af2f0,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/9003952b-5cad-4d28-94e6-2a34a77af2f0.jpg
+24238,eb204e91-d4b0-4a18-99dc-ce0b2decc6c9,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/eb204e91-d4b0-4a18-99dc-ce0b2decc6c9.jpg
+21451,d2d826ce-3a0f-4f4f-bbd5-367415da7386,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d2d826ce-3a0f-4f4f-bbd5-367415da7386.jpg
+17213,ad797c06-afde-425e-b0a5-0d4b5d0f2af8,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ad797c06-afde-425e-b0a5-0d4b5d0f2af8.jpg
+16611,a8495b35-2133-4127-85ca-6efa8db7a81a,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/a8495b35-2133-4127-85ca-6efa8db7a81a.jpg
+18027,b47a751f-a3d5-4c63-a738-ca2b7761c58a,"[[162.0, 474.0, 397.0, 713.0], [599.0, 380.0, 716.0, 580.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/b47a751f-a3d5-4c63-a738-ca2b7761c58a.jpg
+12254,81bcc055-58d9-498d-8363-27caf7ff4084,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/81bcc055-58d9-498d-8363-27caf7ff4084.jpg
+11075,776835b8-9137-4b15-abd4-3aebda8793d5,"[[204.0, 391.0, 385.0, 561.0], [225.0, 612.0, 385.0, 729.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/776835b8-9137-4b15-abd4-3aebda8793d5.jpg
+19579,c2d5032a-d589-4c4f-a071-74f3899b3968,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/c2d5032a-d589-4c4f-a071-74f3899b3968.jpg
+3181,33c88ecb-1aee-45d1-ab06-1ecd6eea7ae2,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/33c88ecb-1aee-45d1-ab06-1ecd6eea7ae2.jpg
+12924,882fcae8-0b86-47e7-a984-6d5aac805b9f,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/882fcae8-0b86-47e7-a984-6d5aac805b9f.jpg
+13707,8eef29e3-b9de-4c4f-b1f5-efb9fe7b349a,"[[241.0, 464.0, 496.0, 837.0], [540.0, 332.0, 902.0, 898.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/8eef29e3-b9de-4c4f-b1f5-efb9fe7b349a.jpg
+74,01adfd2f-7bc7-4cef-ab68-a0992752b620,"[[225.0, 415.0, 323.0, 516.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/01adfd2f-7bc7-4cef-ab68-a0992752b620.jpg
+9982,6df98c27-9d92-44de-a408-b67f5570add2,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6df98c27-9d92-44de-a408-b67f5570add2.jpg
+17892,b35d3c12-7c68-4747-b4a1-49c291b6ff94,"[[599.0, 129.0, 860.0, 617.0], [240.0, 168.0, 485.0, 530.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/b35d3c12-7c68-4747-b4a1-49c291b6ff94.jpg
+15944,a2cac936-8602-408f-9447-41691428bd0f,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/a2cac936-8602-408f-9447-41691428bd0f.jpg
+3193,33dbca25-e1c9-4bcf-a8a7-4fa716e8a53a,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/33dbca25-e1c9-4bcf-a8a7-4fa716e8a53a.jpg
+10252,70559288-6edd-4228-85b6-c53776a754ed,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/70559288-6edd-4228-85b6-c53776a754ed.jpg
+3151,3389b88b-d0e2-4b73-892a-4dbe24b9cb28,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/3389b88b-d0e2-4b73-892a-4dbe24b9cb28.jpg
+6940,542836b4-9b88-4b90-85ce-e8a1f4971685,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/542836b4-9b88-4b90-85ce-e8a1f4971685.jpg
+3866,397acd9c-a9ca-4e8e-bb6c-3e6c7afc6d53,"[[614.0, 312.0, 917.0, 825.0], [193.0, 279.0, 432.0, 706.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/397acd9c-a9ca-4e8e-bb6c-3e6c7afc6d53.jpg
+13924,90ea89b5-c9a8-4147-8882-70e8e656b888,"[[186.0, 292.0, 490.0, 597.0], [598.0, 204.0, 909.0, 755.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/90ea89b5-c9a8-4147-8882-70e8e656b888.jpg
+13484,8d004cd3-8e35-4b9c-acec-fdfa3a474431,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8d004cd3-8e35-4b9c-acec-fdfa3a474431.jpg
+20439,ca057513-5597-4fe2-8d02-ff8b8b7fa25f,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ca057513-5597-4fe2-8d02-ff8b8b7fa25f.jpg
+19663,c399ab28-b477-433b-924e-6d6046ff23ff,"[[300.0, 453.0, 469.0, 784.0], [667.0, 192.0, 850.0, 553.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/c399ab28-b477-433b-924e-6d6046ff23ff.jpg
+21619,d496ff5c-1329-463b-ae04-d142d706243b,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d496ff5c-1329-463b-ae04-d142d706243b.jpg
+2984,32176b3f-d931-4219-a5f8-e2af7eff02b3,"[[602.0, 800.0, 836.0, 988.0], [114.0, 752.0, 345.0, 933.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/32176b3f-d931-4219-a5f8-e2af7eff02b3.jpg
+4653,403c8a04-cba6-43d3-a5bb-37a86c1a24fe,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/403c8a04-cba6-43d3-a5bb-37a86c1a24fe.jpg
+22730,de72e2b8-170e-4d2e-90b6-f139427b2aca,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/de72e2b8-170e-4d2e-90b6-f139427b2aca.jpg
+25691,f7a42b73-f909-4e1f-89dd-c776f45cdc40,"[[638.0, 367.0, 888.0, 886.0], [178.0, 341.0, 434.0, 799.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/f7a42b73-f909-4e1f-89dd-c776f45cdc40.jpg
+5782,4a1c8a0b-533e-4406-b934-6269a6a06f45,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/4a1c8a0b-533e-4406-b934-6269a6a06f45.jpg
+13064,897d5cae-85a4-4def-a3da-483b96eec45a,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/897d5cae-85a4-4def-a3da-483b96eec45a.jpg
+18054,b4af3d43-07ed-4e3c-8a32-762ed8c21cd4,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/b4af3d43-07ed-4e3c-8a32-762ed8c21cd4.jpg
+7976,5d613b84-e256-4e16-be8e-88f0d09e7634,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5d613b84-e256-4e16-be8e-88f0d09e7634.jpg
+19898,c56f901f-4876-4a9b-8630-58d8ea4b7f21,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/c56f901f-4876-4a9b-8630-58d8ea4b7f21.jpg
+10607,73447d6c-7fc8-4ede-bea8-9636317f4676,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/73447d6c-7fc8-4ede-bea8-9636317f4676.jpg
+18236,b652cdf0-6686-4ca4-9ae4-54bc846b4ecc,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/b652cdf0-6686-4ca4-9ae4-54bc846b4ecc.jpg
+23133,e1d88bbc-f5b3-4924-b28a-a851a5189580,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e1d88bbc-f5b3-4924-b28a-a851a5189580.jpg
+4008,3a9c2da0-7cf6-4d51-8012-096f6f4e461e,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/3a9c2da0-7cf6-4d51-8012-096f6f4e461e.jpg
+8573,628eea1d-9db2-4a99-acb3-0d846c3ac48f,"[[171.0, 589.0, 409.0, 777.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/628eea1d-9db2-4a99-acb3-0d846c3ac48f.jpg
+16146,a47290cf-7bd4-43d3-a7d2-a46dd14f1c2e,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/a47290cf-7bd4-43d3-a7d2-a46dd14f1c2e.jpg
+17817,b2ad3c85-a873-422c-b75b-f449a7228549,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/b2ad3c85-a873-422c-b75b-f449a7228549.jpg
+21517,d38f5238-1f5b-42ca-8e3f-4027fdd105c2,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d38f5238-1f5b-42ca-8e3f-4027fdd105c2.jpg
+15977,a2ffc052-7922-4c17-8943-bf011cbb6be3,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/a2ffc052-7922-4c17-8943-bf011cbb6be3.jpg
+9628,6b110a37-e31c-437d-8886-c2e7cd5b2cb2,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6b110a37-e31c-437d-8886-c2e7cd5b2cb2.jpg
+3834,392effc2-fa31-44b5-ae75-8503cdb81837,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/392effc2-fa31-44b5-ae75-8503cdb81837.jpg
+26559,ff0fcf72-7b10-4c5c-bb43-f81368872b9b,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ff0fcf72-7b10-4c5c-bb43-f81368872b9b.jpg
+12627,857b7847-e656-4682-ad6a-e07172bdd937,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/857b7847-e656-4682-ad6a-e07172bdd937.jpg
+24886,f09d8288-c4f7-480d-a24d-b1c54c5ede45,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f09d8288-c4f7-480d-a24d-b1c54c5ede45.jpg
+21755,d5ab7cea-a276-4b94-8de2-0cacd8d6e6da,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d5ab7cea-a276-4b94-8de2-0cacd8d6e6da.jpg
+2291,23253085-831d-41cc-b6e2-bd330d6ea44f,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/23253085-831d-41cc-b6e2-bd330d6ea44f.jpg
+9995,6e0dbf20-7070-484e-937d-629f59838638,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6e0dbf20-7070-484e-937d-629f59838638.jpg
+19647,c37cfadd-1e52-4704-9831-403826ad2974,"[[239.0, 153.0, 514.0, 692.0], [667.0, 158.0, 946.0, 624.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/c37cfadd-1e52-4704-9831-403826ad2974.jpg
+24121,ea32facd-af87-403b-a56b-2a0746ae04ae,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ea32facd-af87-403b-a56b-2a0746ae04ae.jpg
+589,08732533-75c0-45e3-9565-f69307152c23,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/08732533-75c0-45e3-9565-f69307152c23.jpg
+23534,e532c5eb-e94d-42db-89a7-914ed862490f,"[[131.0, 479.0, 357.0, 733.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/e532c5eb-e94d-42db-89a7-914ed862490f.jpg
+13950,91316e56-5935-494a-bd02-e2dbfa5b1dfa,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/91316e56-5935-494a-bd02-e2dbfa5b1dfa.jpg
+22879,dfba3d65-2270-485f-bdc8-cc859e3156e4,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/dfba3d65-2270-485f-bdc8-cc859e3156e4.jpg
+196,03edb5ed-9e76-4abe-bc35-7bc95fea7e6a,"[[632.0, 472.0, 719.0, 869.0], [185.0, 408.0, 373.0, 715.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/03edb5ed-9e76-4abe-bc35-7bc95fea7e6a.jpg
+8088,5e5e1993-62b0-4413-9534-e79735ebc270,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5e5e1993-62b0-4413-9534-e79735ebc270.jpg
+12749,86a1e3da-0316-4d88-88d6-0ffa314b3a35,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/86a1e3da-0316-4d88-88d6-0ffa314b3a35.jpg
+5114,446ed45f-a926-45ab-a93e-3e047c2c7440,"[[513.0, 296.0, 678.0, 615.0], [250.0, 320.0, 426.0, 576.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/446ed45f-a926-45ab-a93e-3e047c2c7440.jpg
+3760,38adcca4-6486-4169-ad60-07f8dec4e11a,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/38adcca4-6486-4169-ad60-07f8dec4e11a.jpg
+22910,e00118cc-329c-411a-a011-9ad3c5657307,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e00118cc-329c-411a-a011-9ad3c5657307.jpg
+13234,8af1f9a6-ce1a-478f-b0a0-74c1e0c09d9a,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8af1f9a6-ce1a-478f-b0a0-74c1e0c09d9a.jpg
+13528,8d742ab6-06d6-40c8-b843-d9975264f0f1,"[[157.0, 405.0, 416.0, 779.0], [522.0, 321.0, 892.0, 785.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/8d742ab6-06d6-40c8-b843-d9975264f0f1.jpg
+25793,f894a3fd-deab-4aff-b04e-8ff78aeae482,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f894a3fd-deab-4aff-b04e-8ff78aeae482.jpg
+7,0022073f-cec8-42ec-ab5f-bc2314649235,"[[575.0, 232.0, 821.0, 760.0], [161.0, 230.0, 384.0, 716.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/0022073f-cec8-42ec-ab5f-bc2314649235.jpg
+21571,d41a3f14-7f64-41e6-9fe8-6b56b13d3ac4,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d41a3f14-7f64-41e6-9fe8-6b56b13d3ac4.jpg
+3990,3a6bee2a-e8ca-41eb-b33f-5048b9f0e068,"[[123.0, 324.0, 433.0, 907.0], [542.0, 316.0, 867.0, 938.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/3a6bee2a-e8ca-41eb-b33f-5048b9f0e068.jpg
+16435,a6b9565f-bc91-4841-8969-ff94c3b687b3,"[[649.0, 561.0, 958.0, 919.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/a6b9565f-bc91-4841-8969-ff94c3b687b3.jpg
+9441,69aca0db-019c-4390-a6d8-beffb618f97e,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/69aca0db-019c-4390-a6d8-beffb618f97e.jpg
+25127,f295132a-40a6-4e4d-94fb-a5b05f8915d5,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f295132a-40a6-4e4d-94fb-a5b05f8915d5.jpg
+16929,ab08e493-1108-4f83-bf24-d47c9f6ab582,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ab08e493-1108-4f83-bf24-d47c9f6ab582.jpg
+11658,7c84bee5-a16e-48c7-b84a-6b61b0d62ce9,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/7c84bee5-a16e-48c7-b84a-6b61b0d62ce9.jpg
+8785,64652174-65fb-4ce7-aaca-5ce29c7e7adc,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/64652174-65fb-4ce7-aaca-5ce29c7e7adc.jpg
+18382,b7b0bdad-ee4b-4381-af19-501eecb6e847,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/b7b0bdad-ee4b-4381-af19-501eecb6e847.jpg
+26525,fecef59f-44e4-4fdc-b008-a650845defb9,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/fecef59f-44e4-4fdc-b008-a650845defb9.jpg
+1759,17f0a95f-5460-4c36-951b-6f9c8834b951,"[[596.0, 403.0, 851.0, 699.0], [65.0, 437.0, 267.0, 804.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/17f0a95f-5460-4c36-951b-6f9c8834b951.jpg
+1151,0e6c2821-9ab8-46a0-8128-d8fe66b39375,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/0e6c2821-9ab8-46a0-8128-d8fe66b39375.jpg
+11737,7d3f2d28-c21b-4a64-940c-c635176f35e1,"[[676.0, 445.0, 885.0, 766.0], [296.0, 250.0, 468.0, 419.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/7d3f2d28-c21b-4a64-940c-c635176f35e1.jpg
+10995,76bf3bd7-33a3-4eac-a59b-4ae8859a6b60,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/76bf3bd7-33a3-4eac-a59b-4ae8859a6b60.jpg
+7260,56dff625-b5b6-4d61-a007-3fe790027f01,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/56dff625-b5b6-4d61-a007-3fe790027f01.jpg
+8229,5f8b20d1-5a0b-4655-877c-cae5ac0b88b6,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5f8b20d1-5a0b-4655-877c-cae5ac0b88b6.jpg
+25780,f87cf3dd-a96e-46fd-b777-f5bc480a2de1,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f87cf3dd-a96e-46fd-b777-f5bc480a2de1.jpg
+6818,53314ca1-4141-4fc8-ab5f-9b098a3decdc,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/53314ca1-4141-4fc8-ab5f-9b098a3decdc.jpg
+12209,815db0ba-1be2-4e7e-8e86-b4cabce2b0c7,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/815db0ba-1be2-4e7e-8e86-b4cabce2b0c7.jpg
+21937,d72dedce-c6e6-4d67-8507-9e2bf16dd853,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d72dedce-c6e6-4d67-8507-9e2bf16dd853.jpg
+25015,f1accae9-b46b-4e69-a3a4-4ae6a7c4ddab,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f1accae9-b46b-4e69-a3a4-4ae6a7c4ddab.jpg
+17706,b1a24561-8456-4032-9ad4-23a6d5a2b999,"[[284.0, 453.0, 496.0, 601.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/b1a24561-8456-4032-9ad4-23a6d5a2b999.jpg
+1231,0ff5bf5b-6af7-4537-90d0-1c47058d0627,"[[694.0, 483.0, 914.0, 813.0], [196.0, 337.0, 451.0, 747.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/0ff5bf5b-6af7-4537-90d0-1c47058d0627.jpg
+8586,62a0ba68-f504-4632-adc2-39495d6a77b8,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/62a0ba68-f504-4632-adc2-39495d6a77b8.jpg
+10273,708849e5-564d-4e3a-855d-e1107874f513,"[[544.0, 423.0, 733.0, 587.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/708849e5-564d-4e3a-855d-e1107874f513.jpg
+3880,399ee232-f05c-4b4a-9ff4-8569eee9fe06,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/399ee232-f05c-4b4a-9ff4-8569eee9fe06.jpg
+14288,94487dce-0045-43e5-959e-3e3bf9a9ab9b,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/94487dce-0045-43e5-959e-3e3bf9a9ab9b.jpg
+654,090f2c9a-8d1c-4583-98e5-b965a0105c70,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/090f2c9a-8d1c-4583-98e5-b965a0105c70.jpg
+15890,a24a0f3b-9183-44e8-81fb-0493eef0269e,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/a24a0f3b-9183-44e8-81fb-0493eef0269e.jpg
+23528,e5290cbe-89ff-4813-9b2a-153f4ed39423,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e5290cbe-89ff-4813-9b2a-153f4ed39423.jpg
+10037,6e6acd52-ef8b-4b63-bd97-8da795cc0233,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6e6acd52-ef8b-4b63-bd97-8da795cc0233.jpg
+12978,88a84172-f10b-45ee-9a4b-a0f03f8c4e53,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/88a84172-f10b-45ee-9a4b-a0f03f8c4e53.jpg
+14103,92a6ef67-b95c-4e7c-9203-9fac022e24d4,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/92a6ef67-b95c-4e7c-9203-9fac022e24d4.jpg
+25386,f4ed7b22-a757-4854-89a1-39284dd15975,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f4ed7b22-a757-4854-89a1-39284dd15975.jpg
+1886,19134807-be51-4b28-818c-17951de93615,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/19134807-be51-4b28-818c-17951de93615.jpg
+13169,8a5cff4d-53d2-4a42-94da-e4b3f2008b1d,"[[254.0, 85.0, 526.0, 699.0], [631.0, 234.0, 930.0, 682.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/8a5cff4d-53d2-4a42-94da-e4b3f2008b1d.jpg
+19503,c241425c-418c-4958-8a18-c3425fe03f03,"[[648.0, 277.0, 764.0, 423.0], [459.0, 300.0, 549.0, 457.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/c241425c-418c-4958-8a18-c3425fe03f03.jpg
+7311,576f3fdc-8864-4709-b72f-a7b33fee8435,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/576f3fdc-8864-4709-b72f-a7b33fee8435.jpg
+22466,dc08da77-36f7-40f2-8028-e1347c387927,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/dc08da77-36f7-40f2-8028-e1347c387927.jpg
+10626,737aa32f-2044-45a6-b50c-b3aadb51394a,"[[631.0, 387.0, 826.0, 819.0], [274.0, 343.0, 467.0, 736.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/737aa32f-2044-45a6-b50c-b3aadb51394a.jpg
+13115,89e479da-7f61-4535-a24e-396bcff92c32,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/89e479da-7f61-4535-a24e-396bcff92c32.jpg
+18854,bbb976c3-6610-4fb3-a82b-fea4f233705f,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/bbb976c3-6610-4fb3-a82b-fea4f233705f.jpg
+5073,440d3b62-7638-48ab-ab66-381833acb954,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/440d3b62-7638-48ab-ab66-381833acb954.jpg
+19295,bf60b3fd-3040-4a61-a009-37ce6bc19976,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/bf60b3fd-3040-4a61-a009-37ce6bc19976.jpg
+12130,809051de-d646-4cd9-9078-cd722b99a4a0,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/809051de-d646-4cd9-9078-cd722b99a4a0.jpg
+22886,dfd1de2b-4439-46cf-8fc4-5ab0a6a7cb76,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/dfd1de2b-4439-46cf-8fc4-5ab0a6a7cb76.jpg
+10727,745b583f-24ab-4ec3-95a3-c244d4639957,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/745b583f-24ab-4ec3-95a3-c244d4639957.jpg
+5886,4b0e4413-56aa-48dd-a9ea-4712d211334c,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/4b0e4413-56aa-48dd-a9ea-4712d211334c.jpg
+9810,6c8140b2-dfe0-4fcc-926b-d7be2196af10,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6c8140b2-dfe0-4fcc-926b-d7be2196af10.jpg
+4150,3bdf49c0-0eed-4b48-b831-1510cffd2d04,"[[176.0, 498.0, 437.0, 690.0], [621.0, 372.0, 845.0, 617.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/3bdf49c0-0eed-4b48-b831-1510cffd2d04.jpg
+19855,c510db11-bc09-47e0-b144-a70a96b8d7bc,"[[21.0, 530.0, 220.0, 710.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/c510db11-bc09-47e0-b144-a70a96b8d7bc.jpg
+15827,a19de51b-0471-43c7-9f7b-4a8f83fa87b1,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/a19de51b-0471-43c7-9f7b-4a8f83fa87b1.jpg
+21508,d37fe302-4cd1-46ad-9981-09e1b62eafaf,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d37fe302-4cd1-46ad-9981-09e1b62eafaf.jpg
+15348,9dbd05f8-87b8-4902-8e3c-86da0690fd63,"[[195.0, 427.0, 446.0, 595.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/9dbd05f8-87b8-4902-8e3c-86da0690fd63.jpg
+21335,d1d94c7c-aa35-44f0-b561-8c31676f0c99,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d1d94c7c-aa35-44f0-b561-8c31676f0c99.jpg
+25462,f58dec68-d24b-4b22-ac2b-615bee2272ec,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f58dec68-d24b-4b22-ac2b-615bee2272ec.jpg
+10524,7281c876-beb7-4371-bbb4-4269bd00f767,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/7281c876-beb7-4371-bbb4-4269bd00f767.jpg
+20754,ccb9c73b-d25d-4282-9eed-eedf0b582f3c,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ccb9c73b-d25d-4282-9eed-eedf0b582f3c.jpg
+3047,328ffa15-a1fe-4d51-865e-aa4c1855c9df,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/328ffa15-a1fe-4d51-865e-aa4c1855c9df.jpg
+14589,96f81770-05d0-4673-a7b8-946e2baeaaaa,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/96f81770-05d0-4673-a7b8-946e2baeaaaa.jpg
+5039,43b89e0f-a030-441d-84ef-1620056b1cab,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/43b89e0f-a030-441d-84ef-1620056b1cab.jpg
+18739,baba9706-b1fd-4cc6-a271-35694efea9ec,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/baba9706-b1fd-4cc6-a271-35694efea9ec.jpg
+4412,3e232e80-7c54-490f-8658-e16a443aec6a,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/3e232e80-7c54-490f-8658-e16a443aec6a.jpg
+11666,7c8f2458-3d40-4810-b57c-1f149c2c4d3c,"[[200.0, 575.0, 355.0, 735.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/7c8f2458-3d40-4810-b57c-1f149c2c4d3c.jpg
+3507,36949a19-b38d-400f-ace0-1abfe2ecfc3a,"[[241.0, 255.0, 410.0, 642.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/36949a19-b38d-400f-ace0-1abfe2ecfc3a.jpg
+20545,caf811b1-2370-4361-9870-47ea76ca2ef2,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/caf811b1-2370-4361-9870-47ea76ca2ef2.jpg
+5366,46863727-a70d-48a9-8497-fffabd1193fe,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/46863727-a70d-48a9-8497-fffabd1193fe.jpg
+8513,621d4f82-96c0-4189-9024-e1182f9d2d5f,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/621d4f82-96c0-4189-9024-e1182f9d2d5f.jpg
+12509,84102d80-4e38-4676-8012-1e76204dcefc,"[[179.0, 643.0, 459.0, 799.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/84102d80-4e38-4676-8012-1e76204dcefc.jpg
+9337,68f6391e-0148-458f-975c-5369d10ef81a,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/68f6391e-0148-458f-975c-5369d10ef81a.jpg
+3224,34289db0-ad2b-4f15-86d3-446abad897e2,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/34289db0-ad2b-4f15-86d3-446abad897e2.jpg
+5603,4878535b-ef11-4656-b44c-ed21d223e4d3,"[[297.0, 334.0, 497.0, 560.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/4878535b-ef11-4656-b44c-ed21d223e4d3.jpg
+14168,933d6c77-4ac2-436a-ae58-6ae0f49fd8c3,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/933d6c77-4ac2-436a-ae58-6ae0f49fd8c3.jpg
+8096,5e70d50b-1b44-4ae5-8c7f-f66ebda228f0,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5e70d50b-1b44-4ae5-8c7f-f66ebda228f0.jpg
+17172,ad1ab5c2-fe92-498e-b82f-9464f2140c43,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ad1ab5c2-fe92-498e-b82f-9464f2140c43.jpg
+12478,83c485a7-1c15-481f-beee-021f912e9903,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/83c485a7-1c15-481f-beee-021f912e9903.jpg
+14482,96009c90-cbf8-4c2c-8ba6-cccb0c107764,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/96009c90-cbf8-4c2c-8ba6-cccb0c107764.jpg
+15075,9aff4c83-b9ce-407b-aee1-9456acb46d97,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/9aff4c83-b9ce-407b-aee1-9456acb46d97.jpg
+1373,13990031-9dbf-4e03-9505-0f9120bdb166,"[[476.0, 543.0, 626.0, 722.0], [229.0, 648.0, 391.0, 745.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/13990031-9dbf-4e03-9505-0f9120bdb166.jpg
+25185,f316fb8c-af2d-42ec-aba0-6761643a7c3e,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f316fb8c-af2d-42ec-aba0-6761643a7c3e.jpg
+4965,42ec6e0f-5c03-4bf4-8719-debae069bade,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/42ec6e0f-5c03-4bf4-8719-debae069bade.jpg
+11847,7e413a9c-e331-4188-999c-7cf064cb2417,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/7e413a9c-e331-4188-999c-7cf064cb2417.jpg
+13838,9017da45-72db-446c-bc2f-28c323e73599,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/9017da45-72db-446c-bc2f-28c323e73599.jpg
+6674,51e7f8d7-2904-4651-a3e3-be6e8d351cfc,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/51e7f8d7-2904-4651-a3e3-be6e8d351cfc.jpg
+8593,62b8400b-e127-4874-984f-e34e08152af0,"[[187.0, 528.0, 375.0, 719.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/62b8400b-e127-4874-984f-e34e08152af0.jpg
+6113,4d0f1262-a10d-464f-adf7-2ae40dc3b092,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/4d0f1262-a10d-464f-adf7-2ae40dc3b092.jpg
+18050,b4a86f67-272e-4204-9dab-749ec2ec627f,"[[193.0, 232.0, 418.0, 725.0], [531.0, 277.0, 766.0, 634.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/b4a86f67-272e-4204-9dab-749ec2ec627f.jpg
+21643,d4b94aea-e78b-4176-a1f8-e830470d7d64,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d4b94aea-e78b-4176-a1f8-e830470d7d64.jpg
+17766,b2361c48-5c67-4473-9565-ea3a4ee7f597,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/b2361c48-5c67-4473-9565-ea3a4ee7f597.jpg
+4684,407bc983-cb9f-4559-9e82-8b559e466042,"[[554.0, 423.0, 778.0, 761.0], [224.0, 400.0, 415.0, 669.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/407bc983-cb9f-4559-9e82-8b559e466042.jpg
+12821,8746873e-f5e4-405b-bcaf-f27c12f1927d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8746873e-f5e4-405b-bcaf-f27c12f1927d.jpg
+23645,e60ac83d-b202-4f51-9b5c-d0f8cf24ca15,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e60ac83d-b202-4f51-9b5c-d0f8cf24ca15.jpg
+837,0ad6376d-b516-41f3-b9ef-9ad8d2dc642e,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/0ad6376d-b516-41f3-b9ef-9ad8d2dc642e.jpg
+320,0609cacd-b9a6-485f-a6f1-5bb7b88db8dd,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/0609cacd-b9a6-485f-a6f1-5bb7b88db8dd.jpg
+25254,f3b65849-f297-491c-a9fa-3ce25dcfb1d4,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f3b65849-f297-491c-a9fa-3ce25dcfb1d4.jpg
+17874,b3414f3f-42c0-4bd8-bec5-4d3c2641012a,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/b3414f3f-42c0-4bd8-bec5-4d3c2641012a.jpg
+16951,ab335009-3c56-4dc0-8280-77dee7889d5d,"[[178.0, 439.0, 358.0, 643.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/ab335009-3c56-4dc0-8280-77dee7889d5d.jpg
+20515,caaa9115-3afe-4f23-91b4-a6a7246c4401,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/caaa9115-3afe-4f23-91b4-a6a7246c4401.jpg
+16693,a8e8e360-1c06-4932-820f-cc0066da187e,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/a8e8e360-1c06-4932-820f-cc0066da187e.jpg
+3033,327783c9-4a11-44c0-98de-3a7f2101f2bf,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/327783c9-4a11-44c0-98de-3a7f2101f2bf.jpg
+25030,f1c1c792-af12-4b8a-bc67-317347a7e8d8,"[[546.0, 225.0, 714.0, 519.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/f1c1c792-af12-4b8a-bc67-317347a7e8d8.jpg
+15380,9ded4d8b-5e88-4470-bb20-1d55d76d6658,"[[467.0, 513.0, 782.0, 876.0], [18.0, 264.0, 324.0, 806.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/9ded4d8b-5e88-4470-bb20-1d55d76d6658.jpg
+387,06b2f933-3ea2-4477-ac27-18f732d1f4e1,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/06b2f933-3ea2-4477-ac27-18f732d1f4e1.jpg
+410,06e09ebb-cb5b-4c30-8d3a-67a6ec34692b,"[[152.0, 129.0, 336.0, 503.0], [577.0, 161.0, 819.0, 531.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/06e09ebb-cb5b-4c30-8d3a-67a6ec34692b.jpg
+6745,527fd0ab-93d5-4a17-818c-ab312efdee27,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/527fd0ab-93d5-4a17-818c-ab312efdee27.jpg
+723,0996439a-352a-4c75-bb53-d13759eca6b6,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/0996439a-352a-4c75-bb53-d13759eca6b6.jpg
+20693,cc3177c8-6570-497c-aef3-6fbddef692f6,"[[262.0, 175.0, 469.0, 656.0], [585.0, 191.0, 818.0, 734.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/cc3177c8-6570-497c-aef3-6fbddef692f6.jpg
+7598,59f94a84-0394-4cd2-bc66-31a4517c65f2,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/59f94a84-0394-4cd2-bc66-31a4517c65f2.jpg
+14802,98c8bc72-1779-43f0-a118-538edcbc9e71,"[[614.0, 367.0, 871.0, 892.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/98c8bc72-1779-43f0-a118-538edcbc9e71.jpg
+19016,bce23f47-7e90-48be-ab13-be220200fba0,"[[224.0, 491.0, 421.0, 851.0], [588.0, 540.0, 818.0, 875.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/bce23f47-7e90-48be-ab13-be220200fba0.jpg
+6740,5278b08c-a475-469e-8910-56bff6d85210,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5278b08c-a475-469e-8910-56bff6d85210.jpg
+17735,b1e7b5cd-f1b6-400d-b62a-57e6c45c663b,"[[689.0, 196.0, 889.0, 640.0], [358.0, 202.0, 543.0, 608.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/b1e7b5cd-f1b6-400d-b62a-57e6c45c663b.jpg
+12235,81a02f7b-228e-4b15-a0ba-21df6ae131ef,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/81a02f7b-228e-4b15-a0ba-21df6ae131ef.jpg
+2894,3156adea-d1f0-4a8e-9dfd-fc1d9bf5fc1f,"[[486.0, 511.0, 691.0, 652.0], [213.0, 347.0, 339.0, 545.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/3156adea-d1f0-4a8e-9dfd-fc1d9bf5fc1f.jpg
+13050,8957ebd9-d891-412f-8bd7-7ecb149c4967,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8957ebd9-d891-412f-8bd7-7ecb149c4967.jpg
+24492,ed2092c1-23ce-48d1-bb13-b3d7a078e7ab,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ed2092c1-23ce-48d1-bb13-b3d7a078e7ab.jpg
+19094,bda1d8b6-2a74-41c3-8cef-3ff7864e4613,"[[625.0, 430.0, 900.0, 705.0], [205.0, 443.0, 445.0, 738.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/bda1d8b6-2a74-41c3-8cef-3ff7864e4613.jpg
+23326,e37fd2df-ca9d-481e-bb73-6a85eca02ea3,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e37fd2df-ca9d-481e-bb73-6a85eca02ea3.jpg
+3618,378fbf29-e4ad-412f-9acc-e5ed2dd2e103,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/378fbf29-e4ad-412f-9acc-e5ed2dd2e103.jpg
+18612,b9bcc788-2f34-4af5-9fd5-ffeeee91eb04,"[[159.0, 179.0, 490.0, 836.0], [561.0, 157.0, 892.0, 790.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/b9bcc788-2f34-4af5-9fd5-ffeeee91eb04.jpg
+17273,ae094b72-b7e5-4dff-a775-8bab37b0082e,"[[594.0, 498.0, 809.0, 801.0], [193.0, 394.0, 372.0, 664.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/ae094b72-b7e5-4dff-a775-8bab37b0082e.jpg
+7010,54ade882-3ada-4442-b66e-740b5a65e014,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/54ade882-3ada-4442-b66e-740b5a65e014.jpg
+9827,6ca7f663-f2ea-467c-baeb-7662614b3484,"[[178.0, 376.0, 445.0, 719.0], [599.0, 535.0, 849.0, 729.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/6ca7f663-f2ea-467c-baeb-7662614b3484.jpg
+13439,8cb1f15c-0e33-460e-81b3-6a6985365081,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8cb1f15c-0e33-460e-81b3-6a6985365081.jpg
+18842,bb8a43fe-ea85-438e-b20b-894b7d3ae965,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/bb8a43fe-ea85-438e-b20b-894b7d3ae965.jpg
+13052,895c1071-db4e-4163-a754-1f3e0d32d439,"[[595.0, 610.0, 887.0, 936.0], [198.0, 489.0, 452.0, 872.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/895c1071-db4e-4163-a754-1f3e0d32d439.jpg
+3291,34aca5a7-7786-4060-afea-cf31d8fc05d6,"[[567.0, 611.0, 802.0, 763.0], [152.0, 625.0, 336.0, 765.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/34aca5a7-7786-4060-afea-cf31d8fc05d6.jpg
+12804,87233f70-c512-4a6b-8ece-a4cb41accb66,"[[285.0, 405.0, 425.0, 628.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/87233f70-c512-4a6b-8ece-a4cb41accb66.jpg
+13432,8c9cd537-c738-4a58-863e-3cea5f4013ca,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8c9cd537-c738-4a58-863e-3cea5f4013ca.jpg
+8375,60c7d6a1-9aad-452f-9789-918056b955ad,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/60c7d6a1-9aad-452f-9789-918056b955ad.jpg
+22167,d9628d5b-2437-4df9-b66c-d35e30f3a40b,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d9628d5b-2437-4df9-b66c-d35e30f3a40b.jpg
+13885,9088231c-2869-4133-9cd9-d5ede17bcb6a,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/9088231c-2869-4133-9cd9-d5ede17bcb6a.jpg
+13280,8b3a6f49-caac-41b9-be2c-93b0def7d93b,"[[615.0, 155.0, 933.0, 819.0], [195.0, 326.0, 465.0, 796.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/8b3a6f49-caac-41b9-be2c-93b0def7d93b.jpg
+11161,784aa072-7400-4f08-869c-7d47230d198d,"[[792.0, 408.0, 953.0, 664.0], [385.0, 572.0, 551.0, 812.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/784aa072-7400-4f08-869c-7d47230d198d.jpg
+13775,8f8a8f8c-b8dd-448a-a4a7-81725240f1cb,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8f8a8f8c-b8dd-448a-a4a7-81725240f1cb.jpg
+8403,6108f7c0-96c4-48e6-994e-32e3cbeaf8d7,"[[248.0, 645.0, 379.0, 690.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/6108f7c0-96c4-48e6-994e-32e3cbeaf8d7.jpg
+3928,3a03d95c-fea8-471e-b7b8-e8efef2fd4a9,"[[126.0, 382.0, 398.0, 628.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/3a03d95c-fea8-471e-b7b8-e8efef2fd4a9.jpg
+14870,994acc16-3e54-4bc5-91f7-313c98c67a5b,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/994acc16-3e54-4bc5-91f7-313c98c67a5b.jpg
+10261,7066078d-0568-4411-b20a-09d0c9a87ffd,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/7066078d-0568-4411-b20a-09d0c9a87ffd.jpg
+261,054eb541-ccd9-4e3c-a654-dc9855ac8e47,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/054eb541-ccd9-4e3c-a654-dc9855ac8e47.jpg
+21207,d0b9dbae-fb6e-4957-a853-76a199ad0868,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d0b9dbae-fb6e-4957-a853-76a199ad0868.jpg
+22806,df076110-b59f-496b-9466-e2d30f056111,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/df076110-b59f-496b-9466-e2d30f056111.jpg
+6569,50d3ac2c-2a61-4f81-a4b2-80049dce0770,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/50d3ac2c-2a61-4f81-a4b2-80049dce0770.jpg
+16180,a4b4d3de-f186-4aa1-8866-6228cede4d7a,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/a4b4d3de-f186-4aa1-8866-6228cede4d7a.jpg
+12819,874447bb-9b37-48bd-a593-12e6d62c8dbb,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/874447bb-9b37-48bd-a593-12e6d62c8dbb.jpg
+12345,829c0125-36d6-4bce-ae3a-6e1aef128f51,"[[600.0, 486.0, 822.0, 751.0], [188.0, 418.0, 454.0, 715.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/829c0125-36d6-4bce-ae3a-6e1aef128f51.jpg
+6975,547986f6-74a2-4de1-97df-440d1985f5c5,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/547986f6-74a2-4de1-97df-440d1985f5c5.jpg
+12434,83658980-d44a-4f6a-adea-4b3665786e09,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/83658980-d44a-4f6a-adea-4b3665786e09.jpg
+8316,604a6a95-e65c-43c4-b12d-7045ad92e54b,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/604a6a95-e65c-43c4-b12d-7045ad92e54b.jpg
+4606,3fe8cf64-5b96-4a60-a4ba-215e4f3039c9,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/3fe8cf64-5b96-4a60-a4ba-215e4f3039c9.jpg
+21090,cfabb2f2-7237-4fa0-a5d6-0b152556ec8c,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/cfabb2f2-7237-4fa0-a5d6-0b152556ec8c.jpg
+4112,3b81bcea-ee88-4c13-b4f6-2a53161d2b22,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/3b81bcea-ee88-4c13-b4f6-2a53161d2b22.jpg
+23678,e6475ea0-5265-4073-8465-ef3091c9963d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e6475ea0-5265-4073-8465-ef3091c9963d.jpg
+20965,ce85247b-3efd-44c4-9b81-b290baae4fef,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ce85247b-3efd-44c4-9b81-b290baae4fef.jpg
+20994,cecd4a1a-f4eb-4eef-adc7-6ab571c803d7,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/cecd4a1a-f4eb-4eef-adc7-6ab571c803d7.jpg
+25799,f8a1abfb-bce3-495e-b0e4-ded21381efcb,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f8a1abfb-bce3-495e-b0e4-ded21381efcb.jpg
+25442,f574b116-7f36-4ed5-9d6c-d885fd7b6caf,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f574b116-7f36-4ed5-9d6c-d885fd7b6caf.jpg
+23072,e14d98d0-6805-45cb-b4c2-2edeba5965b8,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e14d98d0-6805-45cb-b4c2-2edeba5965b8.jpg
+24200,ead62479-e4f7-4515-af86-d72db531c5ff,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ead62479-e4f7-4515-af86-d72db531c5ff.jpg
+25351,f49ad8c6-4e33-4038-813c-5d71baa3c574,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f49ad8c6-4e33-4038-813c-5d71baa3c574.jpg
+1725,17af8e70-3af0-4a47-a5ba-f16938c87c7e,"[[153.0, 418.0, 373.0, 867.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/17af8e70-3af0-4a47-a5ba-f16938c87c7e.jpg
+1707,17924737-81b7-4dd1-9d9b-2d75af022f8f,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/17924737-81b7-4dd1-9d9b-2d75af022f8f.jpg
+8697,6386715c-6d93-46ec-b8a4-6e9589774849,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6386715c-6d93-46ec-b8a4-6e9589774849.jpg
+11967,7f3ca2d9-b76d-4e0f-b535-f40e2d8a2e05,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/7f3ca2d9-b76d-4e0f-b535-f40e2d8a2e05.jpg
+733,09bf61e1-15ac-4425-9489-75165548f3df,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/09bf61e1-15ac-4425-9489-75165548f3df.jpg
+6785,52debd65-65c9-4a26-bbfd-eac603f41e17,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/52debd65-65c9-4a26-bbfd-eac603f41e17.jpg
+23053,e122edcb-dab7-4a4c-8fd3-ab0ee84ce6b9,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e122edcb-dab7-4a4c-8fd3-ab0ee84ce6b9.jpg
+2763,2e974d90-0e16-4c34-9dee-137daa6b54e3,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/2e974d90-0e16-4c34-9dee-137daa6b54e3.jpg
+643,08f580ca-6c0e-47ca-9759-851b3c0bb397,"[[681.0, 550.0, 992.0, 852.0], [184.0, 264.0, 536.0, 770.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/08f580ca-6c0e-47ca-9759-851b3c0bb397.jpg
+1060,0cb05380-5ae8-46de-8585-41b5323d7c65,"[[228.0, 196.0, 477.0, 661.0], [574.0, 196.0, 866.0, 746.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/0cb05380-5ae8-46de-8585-41b5323d7c65.jpg
+22185,d97e8a59-7b93-45cc-a201-40b5e503d760,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d97e8a59-7b93-45cc-a201-40b5e503d760.jpg
+21702,d5431b84-9bf2-4758-badc-569e71ee1f9a,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d5431b84-9bf2-4758-badc-569e71ee1f9a.jpg
+11961,7f296771-0964-4682-85e1-7b7c39268e05,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/7f296771-0964-4682-85e1-7b7c39268e05.jpg
+11431,7a9147e6-2271-4a2b-b996-dd99237b71e7,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/7a9147e6-2271-4a2b-b996-dd99237b71e7.jpg
+2161,1f40556d-19e9-4c63-bc76-4ef8dc78fc60,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/1f40556d-19e9-4c63-bc76-4ef8dc78fc60.jpg
+8966,65b970c5-56f2-441b-a533-87595d39ae5b,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/65b970c5-56f2-441b-a533-87595d39ae5b.jpg
+10700,742365a8-d9a5-41e4-b8a3-24a03a894f9f,"[[639.0, 551.0, 832.0, 820.0], [260.0, 384.0, 482.0, 778.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/742365a8-d9a5-41e4-b8a3-24a03a894f9f.jpg
+3492,367125cd-22f8-41ba-97ea-6adfce7d7a4e,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/367125cd-22f8-41ba-97ea-6adfce7d7a4e.jpg
+23373,e3e1c3c7-f447-43c2-a5fb-1740d67b5ff5,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e3e1c3c7-f447-43c2-a5fb-1740d67b5ff5.jpg
+23966,e8d54055-9b04-42a6-b04c-1ba8ae6bce82,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e8d54055-9b04-42a6-b04c-1ba8ae6bce82.jpg
+6924,5406b425-c531-4952-bf90-8b3ecc99903a,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5406b425-c531-4952-bf90-8b3ecc99903a.jpg
+23736,e6bdf96c-ec2c-4b88-9507-2ba8172da1ae,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e6bdf96c-ec2c-4b88-9507-2ba8172da1ae.jpg
+2094,1d3e4775-9d2c-4e5f-81de-ce29b540a9f7,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/1d3e4775-9d2c-4e5f-81de-ce29b540a9f7.jpg
+8217,5f71c85d-f8c7-4e05-89db-a61537dc3f97,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5f71c85d-f8c7-4e05-89db-a61537dc3f97.jpg
+24062,e9b04c75-09ef-44f2-9bda-ed072c38ecf4,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e9b04c75-09ef-44f2-9bda-ed072c38ecf4.jpg
+23987,e907438e-7530-4cae-8c4f-9534cf5dcfe7,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e907438e-7530-4cae-8c4f-9534cf5dcfe7.jpg
+4036,3ae783bc-9fd3-4e66-b9cd-101a43f122bd,"[[605.0, 495.0, 788.0, 691.0], [211.0, 467.0, 405.0, 683.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/3ae783bc-9fd3-4e66-b9cd-101a43f122bd.jpg
+11525,7b7d7bf3-0684-465d-9a74-f51887685387,"[[201.0, 578.0, 358.0, 737.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/7b7d7bf3-0684-465d-9a74-f51887685387.jpg
+20162,c7b4e202-d634-49e8-ba7c-13292ab4db66,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/c7b4e202-d634-49e8-ba7c-13292ab4db66.jpg
+2084,1d06aef5-4b70-4148-82c0-9a7c156a274e,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/1d06aef5-4b70-4148-82c0-9a7c156a274e.jpg
+24188,eab6d0b6-1bba-4c26-a208-507c54d14016,"[[85.0, 382.0, 349.0, 698.0], [577.0, 422.0, 783.0, 726.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/eab6d0b6-1bba-4c26-a208-507c54d14016.jpg
+2676,2c8ab018-e6dd-43d4-9a78-a6ebc16c394e,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/2c8ab018-e6dd-43d4-9a78-a6ebc16c394e.jpg
+26583,ff350a75-ff2e-44d8-a054-13fc5b6ac284,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ff350a75-ff2e-44d8-a054-13fc5b6ac284.jpg
+12080,801d3a16-46bd-4382-b3ce-36fc7d6e99e7,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/801d3a16-46bd-4382-b3ce-36fc7d6e99e7.jpg
+17587,b0b3ee88-fc81-4a0a-acdb-d8c030fac137,"[[551.0, 71.0, 847.0, 581.0], [171.0, 71.0, 476.0, 586.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/b0b3ee88-fc81-4a0a-acdb-d8c030fac137.jpg
+24334,ebdce9e1-beba-4412-aa86-9b65c0e1f40d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ebdce9e1-beba-4412-aa86-9b65c0e1f40d.jpg
+7543,595dc1f9-88f2-44e3-840b-cd26b166337b,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/595dc1f9-88f2-44e3-840b-cd26b166337b.jpg
+3852,39552f5b-ee51-4a9a-9028-8fcdaae9baac,"[[216.0, 218.0, 456.0, 621.0], [563.0, 139.0, 810.0, 666.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/39552f5b-ee51-4a9a-9028-8fcdaae9baac.jpg
+9454,69cb1e53-c8e4-48b8-8fb9-9a03f76cb934,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/69cb1e53-c8e4-48b8-8fb9-9a03f76cb934.jpg
+11200,7897d5d2-f56c-4fc0-a036-f9b6f69933f8,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/7897d5d2-f56c-4fc0-a036-f9b6f69933f8.jpg
+7804,5be14a2d-f223-4cc1-bce7-20c941284be2,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5be14a2d-f223-4cc1-bce7-20c941284be2.jpg
+10927,76115ff9-5117-45fc-831b-29bc150bf0ff,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/76115ff9-5117-45fc-831b-29bc150bf0ff.jpg
+7568,599078da-05b6-4972-a2da-461d02dc5c96,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/599078da-05b6-4972-a2da-461d02dc5c96.jpg
+19927,c5a693e5-e9e2-4766-a44f-66e0ab93ebe3,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/c5a693e5-e9e2-4766-a44f-66e0ab93ebe3.jpg
+5384,46b05a16-18c0-4525-a332-1c2c23abc98e,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/46b05a16-18c0-4525-a332-1c2c23abc98e.jpg
+1419,14ba7fdd-0279-4a71-a0ba-b638548684eb,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/14ba7fdd-0279-4a71-a0ba-b638548684eb.jpg
+10098,6ef86ecb-cc66-4b49-92bd-503b08de6e86,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6ef86ecb-cc66-4b49-92bd-503b08de6e86.jpg
+9061,66871bb1-8352-41d6-85e0-b84f339561d2,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/66871bb1-8352-41d6-85e0-b84f339561d2.jpg
+795,0a5c4dcb-33ac-4466-9dbf-42ed5c8ec1f0,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/0a5c4dcb-33ac-4466-9dbf-42ed5c8ec1f0.jpg
+17993,b435cc3a-cc81-4361-ac91-235b4150265e,"[[602.0, 323.0, 902.0, 842.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/b435cc3a-cc81-4361-ac91-235b4150265e.jpg
+20181,c7d61820-601f-493f-a8cb-d88c9cae2618,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/c7d61820-601f-493f-a8cb-d88c9cae2618.jpg
+5777,4a0ac288-abcc-4e82-9080-c8d921cc35c5,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/4a0ac288-abcc-4e82-9080-c8d921cc35c5.jpg
+11396,7a4a9089-6491-438c-a864-76d6a8654cd0,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/7a4a9089-6491-438c-a864-76d6a8654cd0.jpg
+22024,d80543b8-e679-4d5e-a2bf-889586275a68,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d80543b8-e679-4d5e-a2bf-889586275a68.jpg
+17757,b2258e40-0b4d-41f1-8922-d0924c8aa145,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/b2258e40-0b4d-41f1-8922-d0924c8aa145.jpg
+9013,6621c777-04aa-4b8b-9e16-f27dfe5de100,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6621c777-04aa-4b8b-9e16-f27dfe5de100.jpg
+14258,93efbaea-b85e-4c07-bb97-4f8e92442405,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/93efbaea-b85e-4c07-bb97-4f8e92442405.jpg
+12269,81d9ec7b-fa93-47d4-bd0a-5b7f4c7d8db7,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/81d9ec7b-fa93-47d4-bd0a-5b7f4c7d8db7.jpg
+18377,b7a10327-d3d3-4209-90ed-483736dc5e1c,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/b7a10327-d3d3-4209-90ed-483736dc5e1c.jpg
+17473,afd6c35a-134e-4607-bf71-e5a1c06264c8,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/afd6c35a-134e-4607-bf71-e5a1c06264c8.jpg
+11172,786700a2-d2d9-4915-813d-17b4a9ad6774,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/786700a2-d2d9-4915-813d-17b4a9ad6774.jpg
+7100,558be737-d2a6-46f3-ad06-cd8af95b5d36,"[[228.0, 420.0, 437.0, 663.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/558be737-d2a6-46f3-ad06-cd8af95b5d36.jpg
+2685,2cbefce6-6465-479c-ad23-8a4839719cdc,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/2cbefce6-6465-479c-ad23-8a4839719cdc.jpg
+13007,88f2bcae-b626-4645-93e7-517f893c3f7d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/88f2bcae-b626-4645-93e7-517f893c3f7d.jpg
+22129,d91637ff-b5c7-4c68-83bd-7a51b54188b8,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d91637ff-b5c7-4c68-83bd-7a51b54188b8.jpg
+88,01d4fa0f-97a0-4522-b0d8-134400db2a3e,"[[222.0, 258.0, 416.0, 694.0], [570.0, 268.0, 819.0, 721.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/01d4fa0f-97a0-4522-b0d8-134400db2a3e.jpg
+4046,3afea858-8721-468b-9e94-b795d195ef62,"[[189.0, 270.0, 405.0, 647.0], [532.0, 253.0, 803.0, 643.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/3afea858-8721-468b-9e94-b795d195ef62.jpg
+12865,87acb368-8e85-4bf3-aa3a-17065d7960d2,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/87acb368-8e85-4bf3-aa3a-17065d7960d2.jpg
+4386,3de25a4d-9c36-460f-96b9-2109faffc4dd,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/3de25a4d-9c36-460f-96b9-2109faffc4dd.jpg
+21636,d4b2b93e-696e-47fa-b197-160a35534b84,"[[104.0, 137.0, 405.0, 518.0], [515.0, 138.0, 786.0, 523.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/d4b2b93e-696e-47fa-b197-160a35534b84.jpg
+12289,82054420-6a12-4690-ae52-9d3be158499c,"[[595.0, 150.0, 872.0, 905.0], [184.0, 163.0, 493.0, 789.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/82054420-6a12-4690-ae52-9d3be158499c.jpg
+9691,6b8fc53f-1bcc-43a7-bf36-410011feca4b,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6b8fc53f-1bcc-43a7-bf36-410011feca4b.jpg
+21807,d631dce2-124b-4ba4-8acd-26979315d435,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d631dce2-124b-4ba4-8acd-26979315d435.jpg
+9761,6c1f6af7-a6e7-4adf-be92-b2ea81edc653,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6c1f6af7-a6e7-4adf-be92-b2ea81edc653.jpg
+24478,ecffe588-b272-4acf-84e9-08e47c9afd3f,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ecffe588-b272-4acf-84e9-08e47c9afd3f.jpg
+26474,fe636998-9cd9-4b7c-af55-7368857485f0,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/fe636998-9cd9-4b7c-af55-7368857485f0.jpg
+4128,3bb338a0-7e3d-4248-8731-a8daffa15e58,"[[339.0, 284.0, 501.0, 483.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/3bb338a0-7e3d-4248-8731-a8daffa15e58.jpg
+11860,7e57bbc2-9a12-4aab-af8c-9499def50d9a,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/7e57bbc2-9a12-4aab-af8c-9499def50d9a.jpg
+17394,af0894a8-0a8b-4327-add9-a3bdcb425b76,"[[121.0, 514.0, 379.0, 760.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/af0894a8-0a8b-4327-add9-a3bdcb425b76.jpg
+11004,76d1345d-4e35-4ef1-a855-94f8ed7b7a63,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/76d1345d-4e35-4ef1-a855-94f8ed7b7a63.jpg
+14084,92741c36-fbf3-4f4f-8e2e-d2debe11a206,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/92741c36-fbf3-4f4f-8e2e-d2debe11a206.jpg
+21061,cf63d55f-512b-43c8-8c84-0aedfc89f3a0,"[[87.0, 230.0, 370.0, 368.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/cf63d55f-512b-43c8-8c84-0aedfc89f3a0.jpg
+19109,bdbe12af-d5d6-42e8-b17f-4a9f2c17d500,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/bdbe12af-d5d6-42e8-b17f-4a9f2c17d500.jpg
+3960,3a3f6705-9288-4d51-a1a2-eef738ac8d3b,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/3a3f6705-9288-4d51-a1a2-eef738ac8d3b.jpg
+19637,c3695515-50ee-4965-b9e0-b84af3dee545,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/c3695515-50ee-4965-b9e0-b84af3dee545.jpg
+10186,6fa98716-9ba4-479d-bd41-332cafed8a05,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6fa98716-9ba4-479d-bd41-332cafed8a05.jpg
+3948,3a2cbb37-3c4d-4fdd-86be-e304ae5b0bcd,"[[593.0, 491.0, 786.0, 605.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/3a2cbb37-3c4d-4fdd-86be-e304ae5b0bcd.jpg
+16555,a7b3ecba-37f0-4bf5-ad2e-5ddb4416d19c,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/a7b3ecba-37f0-4bf5-ad2e-5ddb4416d19c.jpg
+24546,ed8b97b1-98f6-4ccb-b665-5b7027b302b3,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ed8b97b1-98f6-4ccb-b665-5b7027b302b3.jpg
+20543,caf25a63-fcee-4c61-9e04-71b3c401496c,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/caf25a63-fcee-4c61-9e04-71b3c401496c.jpg
+23737,e6c2f6e9-4ff4-4a58-b225-d6e01cd1c19c,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e6c2f6e9-4ff4-4a58-b225-d6e01cd1c19c.jpg
+10260,70656db6-3c0f-484b-9a6f-9b4312f8d785,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/70656db6-3c0f-484b-9a6f-9b4312f8d785.jpg
+22345,dae8fa3d-9aa8-4e35-9e0d-1d5a935258c7,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/dae8fa3d-9aa8-4e35-9e0d-1d5a935258c7.jpg
+7889,5c9436c8-eda2-4db2-bed6-a36c24efac94,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5c9436c8-eda2-4db2-bed6-a36c24efac94.jpg
+6631,5173dd85-b9c2-42e6-8a44-37b82efd1f83,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5173dd85-b9c2-42e6-8a44-37b82efd1f83.jpg
+14002,91b0043a-35bd-4cf9-b338-1cbc9b05b76d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/91b0043a-35bd-4cf9-b338-1cbc9b05b76d.jpg
+9837,6cb2fc15-f04c-4fcd-be3d-a964d1467401,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6cb2fc15-f04c-4fcd-be3d-a964d1467401.jpg
+16526,a7765149-4de4-4348-a8f9-973b66eb4c37,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/a7765149-4de4-4348-a8f9-973b66eb4c37.jpg
+18479,b88918d9-41ef-4a44-b7f6-0540b84e1038,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/b88918d9-41ef-4a44-b7f6-0540b84e1038.jpg
+25757,f85334f9-9258-44b2-b4c4-6dbd17170bb2,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f85334f9-9258-44b2-b4c4-6dbd17170bb2.jpg
+3578,3730cf87-f147-4872-8885-44700d3eacaf,"[[123.0, 265.0, 375.0, 807.0], [514.0, 354.0, 753.0, 856.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/3730cf87-f147-4872-8885-44700d3eacaf.jpg
+13831,901026ae-160d-4027-ad8f-1626ba9ab938,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/901026ae-160d-4027-ad8f-1626ba9ab938.jpg
+24425,ec974a27-be7f-4cc6-87aa-f182a8cd03cd,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ec974a27-be7f-4cc6-87aa-f182a8cd03cd.jpg
+4545,3f4a11b7-9369-461c-a1a0-4db15c957da5,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/3f4a11b7-9369-461c-a1a0-4db15c957da5.jpg
+5212,4525bf0b-20b4-4f4f-9149-e32632812d89,"[[302.0, 404.0, 492.0, 758.0], [534.0, 360.0, 789.0, 756.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/4525bf0b-20b4-4f4f-9149-e32632812d89.jpg
+6616,514ac068-201e-4f90-a7de-ef8ab4550331,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/514ac068-201e-4f90-a7de-ef8ab4550331.jpg
+22414,db9011c4-185f-4322-938d-ad0416a8357b,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/db9011c4-185f-4322-938d-ad0416a8357b.jpg
+25890,f974e98d-2659-463a-9c69-6c596b1f249d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f974e98d-2659-463a-9c69-6c596b1f249d.jpg
+22505,dc506eb1-ef59-41e8-aebd-5c2a80026ba3,"[[587.0, 335.0, 715.0, 590.0], [113.0, 378.0, 253.0, 623.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/dc506eb1-ef59-41e8-aebd-5c2a80026ba3.jpg
+15184,9c01bc3a-2491-4434-92d3-d10a92753d54,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/9c01bc3a-2491-4434-92d3-d10a92753d54.jpg
+1513,15caed66-ea48-488f-8c54-4f6debd7645d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/15caed66-ea48-488f-8c54-4f6debd7645d.jpg
+12460,83a92bee-99e1-41bc-965d-2be0862cd4c2,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/83a92bee-99e1-41bc-965d-2be0862cd4c2.jpg
+12439,8371e6c0-0c0b-4676-b247-597e7c04260c,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8371e6c0-0c0b-4676-b247-597e7c04260c.jpg
+16722,a926f112-b852-4ed9-9da8-9b3ae9282d39,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/a926f112-b852-4ed9-9da8-9b3ae9282d39.jpg
+13490,8d0ae735-1723-4098-83b8-123f86eafbd9,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8d0ae735-1723-4098-83b8-123f86eafbd9.jpg
+21565,d40f1544-3c94-4030-97ba-246ec42239d1,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d40f1544-3c94-4030-97ba-246ec42239d1.jpg
+12513,84232adc-072c-4fe6-b120-c28e25fe696f,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/84232adc-072c-4fe6-b120-c28e25fe696f.jpg
+10113,6f102297-4e9a-4c0f-ae5b-231d982c0bd8,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6f102297-4e9a-4c0f-ae5b-231d982c0bd8.jpg
+4608,3fed70c7-62b7-415b-8d16-696b59b0e4ec,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/3fed70c7-62b7-415b-8d16-696b59b0e4ec.jpg
+17470,afc7efe2-5df9-4274-8df4-31eefde7b574,"[[296.0, 436.0, 481.0, 584.0], [707.0, 340.0, 860.0, 648.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/afc7efe2-5df9-4274-8df4-31eefde7b574.jpg
+25889,f974aee2-90c8-4e12-bc06-6aa4a594e872,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f974aee2-90c8-4e12-bc06-6aa4a594e872.jpg
+18523,b8fa31a7-52ba-4bd1-8b63-0568b6935306,"[[222.0, 163.0, 475.0, 668.0], [627.0, 200.0, 929.0, 790.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/b8fa31a7-52ba-4bd1-8b63-0568b6935306.jpg
+6784,52d8daa8-bc19-4128-a8bd-60b6c0384ae2,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/52d8daa8-bc19-4128-a8bd-60b6c0384ae2.jpg
+21425,d291f3dd-0e47-4042-9097-24c04b5b9e7e,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d291f3dd-0e47-4042-9097-24c04b5b9e7e.jpg
+23450,e4953ef6-48c4-4aee-b6e8-57baa785b8a2,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e4953ef6-48c4-4aee-b6e8-57baa785b8a2.jpg
+6701,52188e35-d9e9-47de-a3c9-71a22f5de52c,"[[194.0, 186.0, 399.0, 680.0], [563.0, 223.0, 835.0, 717.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/52188e35-d9e9-47de-a3c9-71a22f5de52c.jpg
+19935,c5b7c9ef-0732-4ca3-b064-d4eebf6df9dc,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/c5b7c9ef-0732-4ca3-b064-d4eebf6df9dc.jpg
+17840,b2e8c40e-8851-401a-8a67-892d6cb5276e,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/b2e8c40e-8851-401a-8a67-892d6cb5276e.jpg
+5136,449c2ba1-7948-4039-8b60-2511194b7426,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/449c2ba1-7948-4039-8b60-2511194b7426.jpg
+9205,67b78cc2-ddb2-4a2d-a595-20c126309a5d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/67b78cc2-ddb2-4a2d-a595-20c126309a5d.jpg
+11593,7bf63a1c-b377-424a-a458-4e4fa5e2d2c8,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/7bf63a1c-b377-424a-a458-4e4fa5e2d2c8.jpg
+16945,ab213442-349a-409d-9859-b5e035009eb8,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ab213442-349a-409d-9859-b5e035009eb8.jpg
+16994,ab9b49a4-416d-447c-9f47-5205c3cdaa94,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ab9b49a4-416d-447c-9f47-5205c3cdaa94.jpg
+21995,d7b62687-ce89-4c08-936e-fac5b3ee4b01,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d7b62687-ce89-4c08-936e-fac5b3ee4b01.jpg
+21796,d6195cb9-e8c5-488a-b406-a43e2ec44af8,"[[265.0, 529.0, 368.0, 765.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/d6195cb9-e8c5-488a-b406-a43e2ec44af8.jpg
+12698,86157f09-30df-44d5-92dc-b12153c24932,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/86157f09-30df-44d5-92dc-b12153c24932.jpg
+5506,479740fb-dbcb-4cfd-9923-d913607dbbdf,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/479740fb-dbcb-4cfd-9923-d913607dbbdf.jpg
+2841,3038262f-ca56-436a-bdfe-7a547026fcb0,"[[230.0, 546.0, 403.0, 724.0], [644.0, 596.0, 836.0, 859.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/3038262f-ca56-436a-bdfe-7a547026fcb0.jpg
+21599,d467cfac-1e49-4855-8fb4-56bae56e3255,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/d467cfac-1e49-4855-8fb4-56bae56e3255.jpg
+22956,e04808e4-4c7c-4176-ab83-31d41b8a9766,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e04808e4-4c7c-4176-ab83-31d41b8a9766.jpg
+7454,589bbf21-be25-45db-9014-7d4e650c7530,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/589bbf21-be25-45db-9014-7d4e650c7530.jpg
+10426,71a96026-101c-4da6-a576-60cd288b9733,"[[712.0, 205.0, 846.0, 450.0], [313.0, 270.0, 408.0, 494.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/71a96026-101c-4da6-a576-60cd288b9733.jpg
+25414,f540ecf3-66ea-46bd-92c6-9ef59d909b8b,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f540ecf3-66ea-46bd-92c6-9ef59d909b8b.jpg
+9228,67d69522-a9b7-4c02-86b3-2d0c6a031121,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/67d69522-a9b7-4c02-86b3-2d0c6a031121.jpg
+24556,eda0cf24-b8a4-4e6b-96f1-d07b969b1aad,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/eda0cf24-b8a4-4e6b-96f1-d07b969b1aad.jpg
+1103,0d5bc737-03de-4bb8-98a1-45b7180c3e0f,"[[342.0, 157.0, 490.0, 270.0], [633.0, 128.0, 723.0, 323.0], [655.0, 478.0, 818.0, 619.0], [214.0, 374.0, 407.0, 625.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/0d5bc737-03de-4bb8-98a1-45b7180c3e0f.jpg
+24021,e95d213a-b55f-4dbc-bfb4-1280888f9284,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e95d213a-b55f-4dbc-bfb4-1280888f9284.jpg
+9661,6b58d363-12fd-4194-81e2-d1637d678793,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6b58d363-12fd-4194-81e2-d1637d678793.jpg
+6199,4dcc0124-ba1e-49d7-a08b-8c2f23cf4bd1,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/4dcc0124-ba1e-49d7-a08b-8c2f23cf4bd1.jpg
+8261,5fc8af1b-7ebf-4d50-bf28-005bcdf83560,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5fc8af1b-7ebf-4d50-bf28-005bcdf83560.jpg
+12302,821fde12-5350-48b3-9e50-8de35289fc9b,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/821fde12-5350-48b3-9e50-8de35289fc9b.jpg
+25633,f724fce2-194f-42a9-afd0-c90445479a19,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f724fce2-194f-42a9-afd0-c90445479a19.jpg
+15120,9b632dc8-487d-41e1-885b-052d16bc9799,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/9b632dc8-487d-41e1-885b-052d16bc9799.jpg
+20569,cb20b6cc-afec-490c-bf1d-4c0d9854d652,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/cb20b6cc-afec-490c-bf1d-4c0d9854d652.jpg
+8892,65247f5b-027f-4cff-95aa-f424dfeef259,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/65247f5b-027f-4cff-95aa-f424dfeef259.jpg
+740,09c93c46-095a-4e8d-aedb-52555fbfc9ba,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/09c93c46-095a-4e8d-aedb-52555fbfc9ba.jpg
+7507,5912b8ee-7637-4839-9687-c4e9a3c8e54d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5912b8ee-7637-4839-9687-c4e9a3c8e54d.jpg
+8701,63934dc0-dad5-4611-9e2e-39ff3ba51e37,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/63934dc0-dad5-4611-9e2e-39ff3ba51e37.jpg
+17588,b0b71bfa-9d78-4325-87e9-7b5f03d6cc99,"[[137.0, 382.0, 340.0, 644.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/b0b71bfa-9d78-4325-87e9-7b5f03d6cc99.jpg
+23750,e6dfc127-5e23-4a60-b784-efa008f59587,"[[711.0, 480.0, 892.0, 649.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/e6dfc127-5e23-4a60-b784-efa008f59587.jpg
+14112,92c0e88a-a04d-4ca8-8810-672b38fb309c,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/92c0e88a-a04d-4ca8-8810-672b38fb309c.jpg
+22442,dbc50f97-e677-4c35-ac46-5eb7cdeba416,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/dbc50f97-e677-4c35-ac46-5eb7cdeba416.jpg
+17755,b21ec09c-a75a-415a-a32a-a825fecdcaed,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/b21ec09c-a75a-415a-a32a-a825fecdcaed.jpg
+7687,5abb604e-6aa1-4cc0-8ef0-eda7cdc047a8,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/5abb604e-6aa1-4cc0-8ef0-eda7cdc047a8.jpg
+1343,12d2566d-fd1e-476c-8be4-68d15657d7d0,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/12d2566d-fd1e-476c-8be4-68d15657d7d0.jpg
+1006,0c2726d2-057e-49f0-ba94-fdaf5123afdb,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/0c2726d2-057e-49f0-ba94-fdaf5123afdb.jpg
+9663,6b5b8cfc-d9c1-4e7a-9808-648833c2a41d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/6b5b8cfc-d9c1-4e7a-9808-648833c2a41d.jpg
+18649,ba103826-f57d-4924-86aa-da8a9fc196b4,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ba103826-f57d-4924-86aa-da8a9fc196b4.jpg
+6161,4d78d3e9-fec0-4413-9757-4cffef1873ca,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/4d78d3e9-fec0-4413-9757-4cffef1873ca.jpg
+16453,a6dfffb9-e267-4535-bb87-62ca8098dbf4,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/a6dfffb9-e267-4535-bb87-62ca8098dbf4.jpg
+21294,d17c8ec3-cff1-4976-b83f-ba808e6a1428,"[[216.0, 508.0, 468.0, 787.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/d17c8ec3-cff1-4976-b83f-ba808e6a1428.jpg
+25669,f77f88c9-699e-4341-a55f-f84eeeedb7c0,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f77f88c9-699e-4341-a55f-f84eeeedb7c0.jpg
+6378,4f51a2b4-7d55-4789-a420-e657110ba494,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/4f51a2b4-7d55-4789-a420-e657110ba494.jpg
+6415,4f91160b-f1f5-4b70-86c0-f820f7d6aec2,"[[633.0, 398.0, 854.0, 695.0], [394.0, 394.0, 557.0, 719.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/4f91160b-f1f5-4b70-86c0-f820f7d6aec2.jpg
+24499,ed267d94-1def-4572-bb3d-49a4f9a7dee2,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/ed267d94-1def-4572-bb3d-49a4f9a7dee2.jpg
+19630,c35da9ae-c4d4-4143-9005-cf25e399470d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/c35da9ae-c4d4-4143-9005-cf25e399470d.jpg
+23929,e874c8db-3e31-4412-8d6d-feb398be3594,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e874c8db-3e31-4412-8d6d-feb398be3594.jpg
+4247,3ca6661a-ffbd-4d4d-b49b-c96cfd218307,"[[87.0, 104.0, 397.0, 897.0], [549.0, 82.0, 829.0, 1024.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/3ca6661a-ffbd-4d4d-b49b-c96cfd218307.jpg
+10124,6f2b836b-d150-45cd-ad9d-2ba6a6d4a508,"[[221.0, 546.0, 443.0, 756.0], [684.0, 538.0, 876.0, 762.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/6f2b836b-d150-45cd-ad9d-2ba6a6d4a508.jpg
+25787,f888c6c9-2c96-484d-b16f-bd7495288635,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f888c6c9-2c96-484d-b16f-bd7495288635.jpg
+1586,165bc884-61e3-4fd8-a799-643a8626c7e5,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/165bc884-61e3-4fd8-a799-643a8626c7e5.jpg
+3601,3768dc07-b49f-4e4d-8233-5dda9692ca68,"[[657.0, 340.0, 889.0, 823.0], [190.0, 488.0, 441.0, 697.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/3768dc07-b49f-4e4d-8233-5dda9692ca68.jpg
+7068,554a744a-36f2-4e93-bda2-7ac51b583331,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/554a744a-36f2-4e93-bda2-7ac51b583331.jpg
+13174,8a6d3ef0-a0ba-41a8-886d-b262b00880c3,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8a6d3ef0-a0ba-41a8-886d-b262b00880c3.jpg
+26115,fb4d9ae0-d202-4bca-bca6-fadf2abd746c,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/fb4d9ae0-d202-4bca-bca6-fadf2abd746c.jpg
+275,05744f1d-2fa5-41ce-85d3-3df6a7302064,"[[701.0, 265.0, 793.0, 330.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/05744f1d-2fa5-41ce-85d3-3df6a7302064.jpg
+23890,e816e0d2-f658-458e-9609-a745d8279bde,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/e816e0d2-f658-458e-9609-a745d8279bde.jpg
+1334,127a6d90-0b91-4927-8810-2788d3e8a1a0,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/127a6d90-0b91-4927-8810-2788d3e8a1a0.jpg
+22498,dc3eb882-99da-41a8-96ef-cf2b377a1d74,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/dc3eb882-99da-41a8-96ef-cf2b377a1d74.jpg
+20027,c672b9a8-114d-4063-bc1a-a080c7502964,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/c672b9a8-114d-4063-bc1a-a080c7502964.jpg
+13888,908a9eb7-dc6d-4113-ba9a-28a50140563f,"[[512.0, 354.0, 700.0, 929.0], [211.0, 399.0, 385.0, 715.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/908a9eb7-dc6d-4113-ba9a-28a50140563f.jpg
+13181,8a7acc48-0343-47ac-b55b-ae28da900e26,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8a7acc48-0343-47ac-b55b-ae28da900e26.jpg
+14316,9489d9ea-bc6c-412d-8904-5d722b48ac2f,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/9489d9ea-bc6c-412d-8904-5d722b48ac2f.jpg
+8208,5f60e810-6c24-4c0f-b768-ed371e544a10,"[[245.0, 221.0, 463.0, 583.0], [612.0, 153.0, 829.0, 507.0]]",1,Pneumonia,Data/rsna_pneumonia/stage_2_train_images/5f60e810-6c24-4c0f-b768-ed371e544a10.jpg
+5877,4afd96ad-d8f0-46ce-b4ea-13108b5e0e93,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/4afd96ad-d8f0-46ce-b4ea-13108b5e0e93.jpg
+8950,659b4b06-6273-4efb-85fb-93e014d1ca2f,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/659b4b06-6273-4efb-85fb-93e014d1ca2f.jpg
+25961,f9f45545-d210-439c-9869-d2a33f48b139,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/f9f45545-d210-439c-9869-d2a33f48b139.jpg
+13385,8c404eed-fd6f-4730-9506-9e2a47684f2d,,0,Normal,Data/rsna_pneumonia/stage_2_train_images/8c404eed-fd6f-4730-9506-9e2a47684f2d.jpg

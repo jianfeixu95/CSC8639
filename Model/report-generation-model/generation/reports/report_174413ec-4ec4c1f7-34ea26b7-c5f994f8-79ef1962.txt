@@ -1,0 +1,5 @@
+Image path: Model/report-generation-model/generation/images/174413ec-4ec4c1f7-34ea26b7-c5f994f8-79ef1962.jpg
+Generated report: There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal.
+
+==============================
+

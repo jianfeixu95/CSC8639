@@ -1,0 +1,5 @@
+Image path: Model/report-generation-model/generation/images/e084de3b-be89b11e-20fe3f9f-9c8d8dfe-4cfd202c.jpg
+Generated report: There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal. There is no evidence of acute cardiopulmonary process. There is no evidence of pulmonary edema or pneumothorax.
+
+==============================
+

@@ -1,0 +1,20 @@
+Image path: Model/report-generation-model/generation/images/174413ec-4ec4c1f7-34ea26b7-c5f994f8-79ef1962.jpg
+Generated report: There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal.
+
+==============================
+
+Image path: Model/report-generation-model/generation/images/e084de3b-be89b11e-20fe3f9f-9c8d8dfe-4cfd202c.jpg
+Generated report: There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal. There is no evidence of acute cardiopulmonary process. There is no evidence of pulmonary edema or pneumothorax.
+
+==============================
+
+Image path: Model/report-generation-model/generation/images/2a2277a9-b0ded155-c0de8eb9-c124d10e-82c5caab.jpg
+Generated report: There is no pleural effusion or pneumothorax. The mediastinal and hilar contours are within normal limits. No acute osseous abnormalities. The cardiomediastinal silhouette is within normal limits.
+
+==============================
+
+Image path: Model/report-generation-model/generation/images/02aa804e-bde0afdd-112c0b34-7bc16630-4e384014.jpg
+Generated report: There is no pleural effusion or pneumothorax. No acute cardiopulmonary process. The pulmonary vasculature is normal. The cardiomediastinal silhouette is normal. No acute osseous abnormalities. The mediastinal and hilar contours are unremarkable.
+
+==============================
+

@@ -1,0 +1,42 @@
+train:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 0
+	num_missing_reports: 0
+	num_faulty_bboxes: 1
+	num_images_without_29_regions: 1
+
+valid:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 0
+	num_missing_reports: 0
+	num_faulty_bboxes: 0
+	num_images_without_29_regions: 0
+
+test:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 0
+	num_missing_reports: 0
+	num_faulty_bboxes: 0
+	num_images_without_29_regions: 0
+
+train:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 0
+	num_missing_reports: 0
+	num_faulty_bboxes: 1
+	num_images_without_29_regions: 1
+
+valid:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 0
+	num_missing_reports: 0
+	num_faulty_bboxes: 0
+	num_images_without_29_regions: 0
+
+test:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 0
+	num_missing_reports: 0
+	num_faulty_bboxes: 0
+	num_images_without_29_regions: 0
+

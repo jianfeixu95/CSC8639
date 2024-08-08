@@ -1,0 +1,237 @@
+valid:
+	num_images_ignored_or_avoided: 2
+	num_missing_images: 0
+	num_missing_reports: 0
+	num_faulty_bboxes: 3818
+	num_images_without_29_regions: 840
+
+test:
+	num_images_ignored_or_avoided: 4
+	num_missing_images: 0
+	num_missing_reports: 0
+	num_faulty_bboxes: 6521
+	num_images_without_29_regions: 1440
+
+train:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 0
+	num_missing_reports: 0
+	num_faulty_bboxes: 1
+	num_images_without_29_regions: 1
+
+valid:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 0
+	num_missing_reports: 39
+		missing_rep: p10/p10000935/s50578979.txt
+		missing_rep: p10/p10000935/s51178377.txt
+		missing_rep: p10/p10000935/s55697293.txt
+		missing_rep: p10/p10000935/s56164612.txt
+		missing_rep: p10/p10000935/s56522600.txt
+		missing_rep: p10/p10000935/s58219844.txt
+		missing_rep: p10/p10001884/s50279568.txt
+		missing_rep: p10/p10001884/s50376803.txt
+		missing_rep: p10/p10001884/s50712381.txt
+		missing_rep: p10/p10001884/s50807032.txt
+		missing_rep: p10/p10001884/s51181158.txt
+		missing_rep: p10/p10001884/s51817555.txt
+		missing_rep: p10/p10001884/s52060840.txt
+		missing_rep: p10/p10001884/s53109065.txt
+		missing_rep: p10/p10001884/s53268982.txt
+		missing_rep: p10/p10001884/s53880659.txt
+		missing_rep: p10/p10001884/s53894864.txt
+		missing_rep: p10/p10001884/s54000534.txt
+		missing_rep: p10/p10001884/s54369281.txt
+		missing_rep: p10/p10001884/s54579606.txt
+		missing_rep: p10/p10001884/s54828594.txt
+		missing_rep: p10/p10001884/s55333410.txt
+		missing_rep: p10/p10001884/s55893591.txt
+		missing_rep: p10/p10001884/s56308417.txt
+		missing_rep: p10/p10001884/s56349965.txt
+		missing_rep: p10/p10001884/s56722923.txt
+		missing_rep: p10/p10001884/s57156853.txt
+		missing_rep: p10/p10001884/s57166219.txt
+		missing_rep: p10/p10001884/s57839849.txt
+		missing_rep: p10/p10001884/s58196907.txt
+		missing_rep: p10/p10001884/s58196907.txt
+		missing_rep: p10/p10001884/s58350684.txt
+		missing_rep: p10/p10001884/s58788638.txt
+		missing_rep: p10/p10001884/s59066712.txt
+		missing_rep: p10/p10001884/s59212874.txt
+		missing_rep: p10/p10001884/s59305618.txt
+		missing_rep: p10/p10001884/s59635781.txt
+		missing_rep: p10/p10001884/s59984865.txt
+		missing_rep: p10/p10002177/s50520012.txt
+	num_faulty_bboxes: 0
+	num_images_without_29_regions: 0
+
+test:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 1
+		missing_img: /Volumes/G-RAID/个人库/代码/jupyter-notebook/workspace/CSC8639/mimic-cxr-jpg-v2.1.0/Model/report-generation-model/data/mimic-cxr-jpg/files/p10/p10003412/s59172281/80c12354-2327c69b-c6a88d0a-c1c5aa86-c45e4c46.jpg
+	num_missing_reports: 22
+		missing_rep: p10/p10000032/s50414267.txt
+		missing_rep: p10/p10000032/s53189527.txt
+		missing_rep: p10/p10000032/s53911762.txt
+		missing_rep: p10/p10000032/s53911762.txt
+		missing_rep: p10/p10000032/s56699142.txt
+		missing_rep: p10/p10000764/s57375967.txt
+		missing_rep: p10/p10000898/s50771383.txt
+		missing_rep: p10/p10000898/s54205396.txt
+		missing_rep: p10/p10001176/s53186264.txt
+		missing_rep: p10/p10001176/s54684191.txt
+		missing_rep: p10/p10001176/s54684191.txt
+		missing_rep: p10/p10001401/s50225296.txt
+		missing_rep: p10/p10001401/s51065211.txt
+		missing_rep: p10/p10001401/s51065211.txt
+		missing_rep: p10/p10001401/s55350604.txt
+		missing_rep: p10/p10001401/s56534136.txt
+		missing_rep: p10/p10001401/s57492692.txt
+		missing_rep: p10/p10001401/s58747570.txt
+		missing_rep: p10/p10001851/s59664767.txt
+		missing_rep: p10/p10005368/s54510564.txt
+		missing_rep: p10/p10005368/s56689183.txt
+		missing_rep: p10/p10005368/s57426090.txt
+	num_faulty_bboxes: 0
+	num_images_without_29_regions: 0
+
+train:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 0
+	num_missing_reports: 0
+	num_faulty_bboxes: 1
+	num_images_without_29_regions: 1
+
+valid:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 0
+	num_missing_reports: 39
+		missing_rep: p10/p10000935/s50578979.txt
+		missing_rep: p10/p10000935/s51178377.txt
+		missing_rep: p10/p10000935/s55697293.txt
+		missing_rep: p10/p10000935/s56164612.txt
+		missing_rep: p10/p10000935/s56522600.txt
+		missing_rep: p10/p10000935/s58219844.txt
+		missing_rep: p10/p10001884/s50279568.txt
+		missing_rep: p10/p10001884/s50376803.txt
+		missing_rep: p10/p10001884/s50712381.txt
+		missing_rep: p10/p10001884/s50807032.txt
+		missing_rep: p10/p10001884/s51181158.txt
+		missing_rep: p10/p10001884/s51817555.txt
+		missing_rep: p10/p10001884/s52060840.txt
+		missing_rep: p10/p10001884/s53109065.txt
+		missing_rep: p10/p10001884/s53268982.txt
+		missing_rep: p10/p10001884/s53880659.txt
+		missing_rep: p10/p10001884/s53894864.txt
+		missing_rep: p10/p10001884/s54000534.txt
+		missing_rep: p10/p10001884/s54369281.txt
+		missing_rep: p10/p10001884/s54579606.txt
+		missing_rep: p10/p10001884/s54828594.txt
+		missing_rep: p10/p10001884/s55333410.txt
+		missing_rep: p10/p10001884/s55893591.txt
+		missing_rep: p10/p10001884/s56308417.txt
+		missing_rep: p10/p10001884/s56349965.txt
+		missing_rep: p10/p10001884/s56722923.txt
+		missing_rep: p10/p10001884/s57156853.txt
+		missing_rep: p10/p10001884/s57166219.txt
+		missing_rep: p10/p10001884/s57839849.txt
+		missing_rep: p10/p10001884/s58196907.txt
+		missing_rep: p10/p10001884/s58196907.txt
+		missing_rep: p10/p10001884/s58350684.txt
+		missing_rep: p10/p10001884/s58788638.txt
+		missing_rep: p10/p10001884/s59066712.txt
+		missing_rep: p10/p10001884/s59212874.txt
+		missing_rep: p10/p10001884/s59305618.txt
+		missing_rep: p10/p10001884/s59635781.txt
+		missing_rep: p10/p10001884/s59984865.txt
+		missing_rep: p10/p10002177/s50520012.txt
+	num_faulty_bboxes: 0
+	num_images_without_29_regions: 0
+
+test:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 1
+		missing_img: /Volumes/G-RAID/个人库/代码/jupyter-notebook/workspace/CSC8639/mimic-cxr-jpg-v2.1.0/Model/report-generation-model/data/mimic-cxr-jpg/files/p10/p10003412/s59172281/80c12354-2327c69b-c6a88d0a-c1c5aa86-c45e4c46.jpg
+	num_missing_reports: 22
+		missing_rep: p10/p10000032/s50414267.txt
+		missing_rep: p10/p10000032/s53189527.txt
+		missing_rep: p10/p10000032/s53911762.txt
+		missing_rep: p10/p10000032/s53911762.txt
+		missing_rep: p10/p10000032/s56699142.txt
+		missing_rep: p10/p10000764/s57375967.txt
+		missing_rep: p10/p10000898/s50771383.txt
+		missing_rep: p10/p10000898/s54205396.txt
+		missing_rep: p10/p10001176/s53186264.txt
+		missing_rep: p10/p10001176/s54684191.txt
+		missing_rep: p10/p10001176/s54684191.txt
+		missing_rep: p10/p10001401/s50225296.txt
+		missing_rep: p10/p10001401/s51065211.txt
+		missing_rep: p10/p10001401/s51065211.txt
+		missing_rep: p10/p10001401/s55350604.txt
+		missing_rep: p10/p10001401/s56534136.txt
+		missing_rep: p10/p10001401/s57492692.txt
+		missing_rep: p10/p10001401/s58747570.txt
+		missing_rep: p10/p10001851/s59664767.txt
+		missing_rep: p10/p10005368/s54510564.txt
+		missing_rep: p10/p10005368/s56689183.txt
+		missing_rep: p10/p10005368/s57426090.txt
+	num_faulty_bboxes: 0
+	num_images_without_29_regions: 0
+
+train:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 0
+	num_missing_reports: 0
+	num_faulty_bboxes: 1
+	num_images_without_29_regions: 1
+
+train:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 0
+	num_missing_reports: 0
+	num_faulty_bboxes: 1
+	num_images_without_29_regions: 1
+
+train:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 0
+	num_missing_reports: 0
+	num_faulty_bboxes: 0
+	num_images_without_29_regions: 0
+
+valid:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 0
+	num_missing_reports: 0
+	num_faulty_bboxes: 1
+	num_images_without_29_regions: 1
+
+test:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 1
+		missing_img: /Volumes/G-RAID/个人库/代码/jupyter-notebook/workspace/CSC8639/mimic-cxr-jpg-v2.1.0/Model/report-generation-model/data/mimic-cxr-jpg/files/p10/p10003412/s59172281/80c12354-2327c69b-c6a88d0a-c1c5aa86-c45e4c46.jpg
+	num_missing_reports: 0
+	num_faulty_bboxes: 0
+	num_images_without_29_regions: 0
+
+train:
+	num_images_ignored_or_avoided: 1
+	num_missing_images: 0
+	num_missing_reports: 0
+	num_faulty_bboxes: 200
+	num_images_without_29_regions: 40
+
+valid:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 0
+	num_missing_reports: 0
+	num_faulty_bboxes: 241
+	num_images_without_29_regions: 33
+
+test:
+	num_images_ignored_or_avoided: 0
+	num_missing_images: 0
+	num_missing_reports: 0
+	num_faulty_bboxes: 51
+	num_images_without_29_regions: 11
+

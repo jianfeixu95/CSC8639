@@ -1,0 +1,6 @@
+
+Zeroshot binary
+| model | AUROC(Avg) | F1(Avg) | Accuracy(Avg)|
+| :---- | ---------: | ------: | ------------:|
+| model-best | 0.544 | 0.321 | 0.549 |
+Best AUROC(Avg): 0.544, from model-best

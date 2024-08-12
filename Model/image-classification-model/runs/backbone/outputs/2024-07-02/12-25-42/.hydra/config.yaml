@@ -1,0 +1,112 @@
+base:
+  seed: 1234
+  amp: true
+  image_size: 224
+  text_max_length: 256
+  loss_best: contrastive
+  data_frac: 1.0
+  output:
+    checkpoint: ${hydra:run.dir}/checkpoints/
+    tensorboard: ${hydra:run.dir}/tensorboard/
+data_train:
+  mimic_cxr:
+    name: mimic_cxr
+    data_type: imagetext
+    data_path: Model/image-classification-model/datasets/mimic-cxr-jpg/mimic_train.csv
+    image_size: ${base.image_size}
+    text_max_length: ${base.text_max_length}
+    data_frac: 1.0
+data_valid:
+  mimic_cxr:
+    name: mimic_cxr
+    data_type: imagetext
+    data_path: Model/image-classification-model/datasets/mimic-cxr-jpg/mimic_valid.csv
+    image_size: ${base.image_size}
+    text_max_length: ${base.text_max_length}
+dataloader:
+  train:
+    pin_memory: true
+    shuffle: true
+    drop_last: true
+    num_workers: 8
+    prefetch_factor: 8
+    batch_size: 32
+  valid:
+    pin_memory: true
+    shuffle: false
+    drop_last: false
+    num_workers: 8
+    prefetch_factor: 8
+    batch_size: 32
+  test:
+    pin_memory: true
+    shuffle: false
+    drop_last: false
+    num_workers: 16
+    batch_size: 32
+tokenizer:
+  source: huggingface
+  pretrained_model_name_or_path: emilyalsentzer/Bio_ClinicalBERT
+  cache_dir: huggingface/tokenizers
+transform:
+  train:
+    RandomResizedCrop:
+      size: ${base.image_size}
+      scale:
+      - 0.8
+      - 1.1
+    CLAHE:
+      clip_limit: 4.0
+    ColorJitter:
+      brightness: 0.1
+      contrast: 0.2
+      saturation: 0.2
+      hue: 0.1
+    CenterCrop:
+      size: ${base.image_size}
+  valid:
+    Resize:
+      size: ${base.image_size}
+    CenterCrop:
+      size: ${base.image_size}
+  test:
+    Resize:
+      size: ${base.image_size}
+    CenterCrop:
+      size: ${base.image_size}
+model:
+  name: clip_custom
+  temperature: 0.07
+  image_encoder:
+    source: torchvision
+    name: resnet
+    pretrained: true
+  text_encoder:
+    source: huggingface
+    name: emilyalsentzer/Bio_ClinicalBERT
+    pretrained: true
+    gradient_checkpointing: false
+    pooling: eos
+    cache_dir: huggingface/
+    trust_remote_code: true
+    mlm_head: true
+  projection_head:
+    name: linear
+    dropout: 0.1
+    proj_dim: 512
+optimizer:
+  name: adamw
+  config:
+    lr: 5.0e-05
+    weight_decay: 0.0001
+scheduler:
+  name: cosine
+  config:
+    total_epochs: 5
+    warmup_epochs: 1
+loss:
+  cxr_clip:
+    label_smoothing: 0.0
+    i2i_weight: 1.0
+    t2t_weight: 0.5
+    loss_ratio: 1.0

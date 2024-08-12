@@ -1,0 +1,304 @@
+[2024-07-02 08:48:28,891][__main__][INFO] - Configurations:
+model:
+  load_backbone_weights: Model/image-classification-model/model/backbone/model-best.tar
+  freeze_backbone_weights: true
+  name: finetune_classification
+  image_encoder:
+    source: torchvision
+    name: resnet
+    pretrained: true
+  classifier:
+    config:
+      name: linear
+      n_class: 1
+base:
+  seed: 1234
+  amp: true
+  image_size: 224
+  loss_best: classification
+  data_frac: 1.0
+  output:
+    checkpoint: Model/image-classification-model/runs/finetune_100/outputs/2024-07-02/08-48-28/checkpoints/
+    tensorboard: Model/image-classification-model/runs/finetune_100/outputs/2024-07-02/08-48-28/tensorboard/
+data_train:
+  base:
+    name: rsna_pneumonia
+    data_type: image_classification
+    data_path: Model/image-classification-model/datasets/rsna_pneumonia/train.csv
+    image_size: 224
+    n_class: 1
+    data_frac: 1.0
+data_valid:
+  rsna_pneumonia:
+    name: rsna_pneumonia
+    data_type: image_classification
+    data_path: Model/image-classification-model/datasets/rsna_pneumonia/valid.csv
+    image_size: 224
+dataloader:
+  train:
+    pin_memory: true
+    shuffle: true
+    drop_last: true
+    num_workers: 8
+    prefetch_factor: 8
+    batch_size: 32
+  valid:
+    pin_memory: true
+    shuffle: false
+    drop_last: false
+    num_workers: 8
+    prefetch_factor: 8
+    batch_size: 32
+  test:
+    pin_memory: true
+    shuffle: false
+    drop_last: false
+    num_workers: 16
+    batch_size: 32
+transform:
+  train:
+    RandomResizedCrop:
+      size: 224
+      scale:
+      - 0.8
+      - 1.1
+    CLAHE:
+      clip_limit: 4.0
+    ColorJitter:
+      brightness: 0.1
+      contrast: 0.2
+      saturation: 0.2
+      hue: 0.1
+    CenterCrop:
+      size: 224
+  valid:
+    Resize:
+      size: 224
+    CenterCrop:
+      size: 224
+  test:
+    Resize:
+      size: 224
+    CenterCrop:
+      size: 224
+optimizer:
+  name: adamw
+  config:
+    lr: 5.0e-05
+    weight_decay: 0.0001
+scheduler:
+  name: cosine
+  config:
+    total_epochs: 5
+    warmup_epochs: 1
+loss:
+  classification:
+    loss_ratio: 1.0
+
+[2024-07-02 08:48:28,892][cxrclip.util.utils][INFO] - Global seed set to 1234
+[2024-07-02 08:48:28,958][cxrclip.trainer][INFO] - DistEnv: DistEnv(world_size=1, world_rank=0, local_rank=0, num_gpus=1, master=True, summary_writer=<cxrclip.util.global_env.SummaryWriter object at 0x7b120c9dbb80>)
+[2024-07-02 08:48:28,958][cxrclip.trainer][INFO] - cuda: Load datasets
+[2024-07-02 08:48:29,001][cxrclip.data.datamodule][INFO] - Dataset loaded: rsna_pneumonia for train
+[2024-07-02 08:48:29,011][cxrclip.data.datamodule][INFO] - Dataset loaded: rsna_pneumonia for valid
+[2024-07-02 08:48:29,012][cxrclip.trainer][INFO] - cuda: Build the model
+[2024-07-02 08:48:29,012][cxrclip.model.image_classification][INFO] -     loading pre-trained image encoder for fine-tuning
+[2024-07-02 08:48:32,292][cxrclip.model.image_classification][INFO] -     freezing image encoder to not be trained
+[2024-07-02 08:48:33,189][cxrclip.trainer][INFO] - cuda: Model info:
+CXRClassification(
+  (image_encoder): ResNet50(
+    (resnet): ResNet(
+      (conv1): Conv2d(3, 64, kernel_size=(7, 7), stride=(2, 2), padding=(3, 3), bias=False)
+      (bn1): SyncBatchNorm(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (relu): ReLU(inplace=True)
+      (maxpool): MaxPool2d(kernel_size=3, stride=2, padding=1, dilation=1, ceil_mode=False)
+      (layer1): Sequential(
+        (0): Bottleneck(
+          (conv1): Conv2d(64, 64, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn1): SyncBatchNorm(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+          (bn2): SyncBatchNorm(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv3): Conv2d(64, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn3): SyncBatchNorm(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (relu): ReLU(inplace=True)
+          (downsample): Sequential(
+            (0): Conv2d(64, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+            (1): SyncBatchNorm(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          )
+        )
+        (1): Bottleneck(
+          (conv1): Conv2d(256, 64, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn1): SyncBatchNorm(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+          (bn2): SyncBatchNorm(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv3): Conv2d(64, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn3): SyncBatchNorm(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (relu): ReLU(inplace=True)
+        )
+        (2): Bottleneck(
+          (conv1): Conv2d(256, 64, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn1): SyncBatchNorm(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+          (bn2): SyncBatchNorm(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv3): Conv2d(64, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn3): SyncBatchNorm(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (relu): ReLU(inplace=True)
+        )
+      )
+      (layer2): Sequential(
+        (0): Bottleneck(
+          (conv1): Conv2d(256, 128, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn1): SyncBatchNorm(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv2): Conv2d(128, 128, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+          (bn2): SyncBatchNorm(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv3): Conv2d(128, 512, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn3): SyncBatchNorm(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (relu): ReLU(inplace=True)
+          (downsample): Sequential(
+            (0): Conv2d(256, 512, kernel_size=(1, 1), stride=(2, 2), bias=False)
+            (1): SyncBatchNorm(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          )
+        )
+        (1): Bottleneck(
+          (conv1): Conv2d(512, 128, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn1): SyncBatchNorm(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv2): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+          (bn2): SyncBatchNorm(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv3): Conv2d(128, 512, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn3): SyncBatchNorm(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (relu): ReLU(inplace=True)
+        )
+        (2): Bottleneck(
+          (conv1): Conv2d(512, 128, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn1): SyncBatchNorm(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv2): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+          (bn2): SyncBatchNorm(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv3): Conv2d(128, 512, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn3): SyncBatchNorm(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (relu): ReLU(inplace=True)
+        )
+        (3): Bottleneck(
+          (conv1): Conv2d(512, 128, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn1): SyncBatchNorm(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv2): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+          (bn2): SyncBatchNorm(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv3): Conv2d(128, 512, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn3): SyncBatchNorm(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (relu): ReLU(inplace=True)
+        )
+      )
+      (layer3): Sequential(
+        (0): Bottleneck(
+          (conv1): Conv2d(512, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn1): SyncBatchNorm(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+          (bn2): SyncBatchNorm(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv3): Conv2d(256, 1024, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn3): SyncBatchNorm(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (relu): ReLU(inplace=True)
+          (downsample): Sequential(
+            (0): Conv2d(512, 1024, kernel_size=(1, 1), stride=(2, 2), bias=False)
+            (1): SyncBatchNorm(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          )
+        )
+        (1): Bottleneck(
+          (conv1): Conv2d(1024, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn1): SyncBatchNorm(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+          (bn2): SyncBatchNorm(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv3): Conv2d(256, 1024, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn3): SyncBatchNorm(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (relu): ReLU(inplace=True)
+        )
+        (2): Bottleneck(
+          (conv1): Conv2d(1024, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn1): SyncBatchNorm(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+          (bn2): SyncBatchNorm(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv3): Conv2d(256, 1024, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn3): SyncBatchNorm(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (relu): ReLU(inplace=True)
+        )
+        (3): Bottleneck(
+          (conv1): Conv2d(1024, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn1): SyncBatchNorm(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+          (bn2): SyncBatchNorm(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv3): Conv2d(256, 1024, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn3): SyncBatchNorm(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (relu): ReLU(inplace=True)
+        )
+        (4): Bottleneck(
+          (conv1): Conv2d(1024, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn1): SyncBatchNorm(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+          (bn2): SyncBatchNorm(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv3): Conv2d(256, 1024, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn3): SyncBatchNorm(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (relu): ReLU(inplace=True)
+        )
+        (5): Bottleneck(
+          (conv1): Conv2d(1024, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn1): SyncBatchNorm(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+          (bn2): SyncBatchNorm(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv3): Conv2d(256, 1024, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn3): SyncBatchNorm(1024, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (relu): ReLU(inplace=True)
+        )
+      )
+      (layer4): Sequential(
+        (0): Bottleneck(
+          (conv1): Conv2d(1024, 512, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn1): SyncBatchNorm(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv2): Conv2d(512, 512, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+          (bn2): SyncBatchNorm(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv3): Conv2d(512, 2048, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn3): SyncBatchNorm(2048, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (relu): ReLU(inplace=True)
+          (downsample): Sequential(
+            (0): Conv2d(1024, 2048, kernel_size=(1, 1), stride=(2, 2), bias=False)
+            (1): SyncBatchNorm(2048, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          )
+        )
+        (1): Bottleneck(
+          (conv1): Conv2d(2048, 512, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn1): SyncBatchNorm(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv2): Conv2d(512, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+          (bn2): SyncBatchNorm(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv3): Conv2d(512, 2048, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn3): SyncBatchNorm(2048, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (relu): ReLU(inplace=True)
+        )
+        (2): Bottleneck(
+          (conv1): Conv2d(2048, 512, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn1): SyncBatchNorm(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv2): Conv2d(512, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+          (bn2): SyncBatchNorm(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (conv3): Conv2d(512, 2048, kernel_size=(1, 1), stride=(1, 1), bias=False)
+          (bn3): SyncBatchNorm(2048, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+          (relu): ReLU(inplace=True)
+        )
+      )
+      (avgpool): AdaptiveAvgPool2d(output_size=(1, 1))
+    )
+  )
+  (classifier): LinearClassifier(
+    (classification_head): Linear(in_features=2048, out_features=1, bias=True)
+  )
+)
+[2024-07-02 08:48:33,189][cxrclip.trainer][INFO] - cuda: Build the loss function
+[2024-07-02 08:48:33,190][cxrclip.trainer][INFO] - cuda: Build the optimizer
+[2024-07-02 08:48:33,191][cxrclip.trainer][INFO] - cuda: Build the LR scheulder
+[2024-07-02 08:48:33,191][cxrclip.trainer][INFO] - Download nltk module
+[2024-07-02 08:48:33,263][cxrclip.trainer][INFO] - cuda: Train the model
+[2024-07-02 08:54:56,899][cxrclip.trainer][INFO] - Epoch 0, last-model saved
+[2024-07-02 08:54:57,332][cxrclip.trainer][INFO] - Model/image-classification-model/runs/finetune_100/outputs/2024-07-02/08-48-28/checkpoints/model-best.tar saved
+[2024-07-02 08:56:44,586][cxrclip.trainer][INFO] - Epoch 1, last-model saved
+[2024-07-02 08:56:45,274][cxrclip.trainer][INFO] - Model/image-classification-model/runs/finetune_100/outputs/2024-07-02/08-48-28/checkpoints/model-best.tar saved
+[2024-07-02 08:58:37,767][cxrclip.trainer][INFO] - Epoch 2, last-model saved
+[2024-07-02 08:58:38,289][cxrclip.trainer][INFO] - Model/image-classification-model/runs/finetune_100/outputs/2024-07-02/08-48-28/checkpoints/model-best.tar saved
+[2024-07-02 09:00:27,169][cxrclip.trainer][INFO] - Epoch 3, last-model saved
+[2024-07-02 09:00:27,736][cxrclip.trainer][INFO] - Model/image-classification-model/runs/finetune_100/outputs/2024-07-02/08-48-28/checkpoints/model-best.tar saved
+[2024-07-02 09:02:18,422][cxrclip.trainer][INFO] - Epoch 4, last-model saved
+[2024-07-02 09:02:18,952][cxrclip.trainer][INFO] - Model/image-classification-model/runs/finetune_100/outputs/2024-07-02/08-48-28/checkpoints/model-best.tar saved
+[2024-07-02 09:02:18,967][cxrclip.trainer][INFO] - cuda: Training has been completed

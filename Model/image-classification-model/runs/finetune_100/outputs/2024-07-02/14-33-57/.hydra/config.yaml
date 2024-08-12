@@ -1,0 +1,95 @@
+model:
+  load_backbone_weights: Model/image-classification-model/model/backbone/model-best.tar
+  freeze_backbone_weights: true
+  name: finetune_classification
+  image_encoder:
+    source: torchvision
+    name: resnet
+    pretrained: true
+  classifier:
+    config:
+      name: linear
+      n_class: ${data_train.base.n_class}
+base:
+  seed: 1234
+  amp: true
+  image_size: 224
+  loss_best: classification
+  data_frac: 1.0
+  output:
+    checkpoint: ${hydra:run.dir}/checkpoints/
+    tensorboard: ${hydra:run.dir}/tensorboard/
+data_train:
+  base:
+    name: rsna_pneumonia
+    data_type: image_classification
+    data_path: Model/image-classification-model/datasets/rsna_pneumonia/train.csv
+    image_size: ${base.image_size}
+    n_class: 1
+    data_frac: ${base.data_frac}
+data_valid:
+  rsna_pneumonia:
+    name: rsna_pneumonia
+    data_type: image_classification
+    data_path: Model/image-classification-model/datasets/rsna_pneumonia/valid.csv
+    image_size: ${base.image_size}
+dataloader:
+  train:
+    pin_memory: true
+    shuffle: true
+    drop_last: true
+    num_workers: 8
+    prefetch_factor: 8
+    batch_size: 32
+  valid:
+    pin_memory: true
+    shuffle: false
+    drop_last: false
+    num_workers: 8
+    prefetch_factor: 8
+    batch_size: 32
+  test:
+    pin_memory: true
+    shuffle: false
+    drop_last: false
+    num_workers: 16
+    batch_size: 32
+transform:
+  train:
+    RandomResizedCrop:
+      size: ${base.image_size}
+      scale:
+      - 0.8
+      - 1.1
+    CLAHE:
+      clip_limit: 4.0
+    ColorJitter:
+      brightness: 0.1
+      contrast: 0.2
+      saturation: 0.2
+      hue: 0.1
+    CenterCrop:
+      size: ${base.image_size}
+  valid:
+    Resize:
+      size: ${base.image_size}
+    CenterCrop:
+      size: ${base.image_size}
+  test:
+    Resize:
+      size: ${base.image_size}
+    CenterCrop:
+      size: ${base.image_size}
+optimizer:
+  name: adamw
+  config:
+    lr: 5.0e-05
+    weight_decay: 0.0001
+scheduler:
+  name: cosine
+  config:
+    total_epochs: 5
+    warmup_epochs: 1
+loss:
+  classification:
+    loss_ratio: 1.0

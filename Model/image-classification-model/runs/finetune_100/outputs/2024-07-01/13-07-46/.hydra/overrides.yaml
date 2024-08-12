@@ -1,0 +1,5 @@
+- data_train=rsna_pneumonia
+- data_valid=rsna_pneumonia
+- dataloader=dataloader_32
+- scheduler=cosine_epoch5_warmup1
+- model.load_backbone_weights=Model/image-classification-model/model/backbone/model-best.tar
